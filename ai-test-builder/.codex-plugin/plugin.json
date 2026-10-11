@@ -1,10 +1,12 @@
 {
   "name": "ai-test-builder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create custom practice questions or analyze source tests into blueprints and new papers.",
   "author": {
     "name": "AI Test Builder contributors"
   },
+  "homepage": "https://github.com/Kumaran-gk/gptplugins/blob/main/ai-test-builder/README.md",
+  "repository": "https://github.com/Kumaran-gk/gptplugins",
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
@@ -13,6 +15,7 @@
     "longDescription": "Create original practice questions from a user's subject and preferences, or analyze PDF, DOCX, and image tests into validated blueprints for new papers and cumulative assessments. Requires local Python dependencies and optional Tesseract OCR.",
     "developerName": "AI Test Builder contributors",
     "category": "Education",
-    "capabilities": ["Create custom questions", "Analyze tests", "Generate practice tests"]
+    "capabilities": ["Create custom questions", "Analyze tests", "Generate practice tests"],
+    "websiteURL": "https://github.com/Kumaran-gk/gptplugins/blob/main/ai-test-builder/README.md"
   }
 }
