@@ -1,0 +1,82 @@
+{
+  "question_count": 11,
+  "answer_key_records": [
+    {
+      "question_number": 1,
+      "topic": "atomic_structure",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Use the blueprint topic and section style to replace this with a richer subject-specific item later."
+    },
+    {
+      "question_number": 2,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Accept pH change, gas formation, temperature change, conductivity change, or formation of dissolved products where justified."
+    },
+    {
+      "question_number": 3,
+      "topic": "atomic_structure",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Use a subject-aligned explanation with a clear supporting example."
+    },
+    {
+      "question_number": 4,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Vehicle engines / heating systems; safety concerns include toxic gases, fire risk, incomplete combustion."
+    },
+    {
+      "question_number": 5,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "It indicates more complete combustion, gives a hotter flame, and reduces soot formation."
+    },
+    {
+      "question_number": 6,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "It improves clarity, communicates states and substances accurately, and reduces interpretation errors."
+    },
+    {
+      "question_number": 7,
+      "topic": "atomic_structure",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Use the blueprint topic and section style to replace this with a richer subject-specific item later."
+    },
+    {
+      "question_number": 8,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Vehicle engines / heating systems; safety concerns include toxic gases, fire risk, incomplete combustion."
+    },
+    {
+      "question_number": 9,
+      "topic": "atomic_structure",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Use the blueprint topic and section style to replace this with a richer subject-specific item later."
+    },
+    {
+      "question_number": 10,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Accept pH change, gas formation, temperature change, conductivity change, or formation of dissolved products where justified."
+    },
+    {
+      "question_number": 11,
+      "topic": "atomic_structure",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Use a subject-aligned explanation with a clear supporting example."
+    }
+  ]
+}

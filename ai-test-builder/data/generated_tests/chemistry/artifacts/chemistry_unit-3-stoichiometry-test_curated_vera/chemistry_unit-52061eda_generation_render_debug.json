@@ -1,0 +1,75 @@
+{
+  "question_count": 7,
+  "question_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Calculate the amount of substance in moles for 4.52 × 10^23 formula units of magnesium chloride, MgCl2(s). Show the essential steps clearly.",
+      "options": [],
+      "answer_hint": "0.751 mol MgCl2 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Calculate the mass of 0.825 mol of sodium carbonate, Na2CO3(s). Use appropriate notation in your response.",
+      "options": [],
+      "answer_hint": "87.4 g Na2CO3 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "How many atoms of oxygen are present in 1.50 mol of carbon dioxide, CO2(g)?",
+      "options": [],
+      "answer_hint": "1.81 × 10^24 oxygen atoms approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "A compound is 40.0% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. Its molar mass is 60.0 g/mol. Determine the molecular formula. Use appropriate notation in your response.",
+      "options": [],
+      "answer_hint": "CH2O is the empirical formula; molecular formula C2H4O2",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "In excess oxygen, magnesium burns to form magnesium oxide. Calculate the amount in moles of MgO produced from 12.0 g of magnesium.",
+      "options": [],
+      "answer_hint": "0.494 mol MgO approximately after using the 2Mg + O2 -> 2MgO ratio",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Hydrochloric acid reacts with sodium hydroxide to form sodium chloride and water. If 0.250 mol of HCl reacts completely, what mass of NaCl is produced? Write the balanced equation. Show the essential steps clearly.",
+      "options": [],
+      "answer_hint": "HCl + NaOH -> NaCl + H2O; 14.6 g NaCl approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 7,
+      "topic": "lab_and_applications",
+      "question_type": "application",
+      "marks": 4,
+      "stem": "A teacher asks for the tests and expected results after a neutralization cleanup. Explain what a strong response should include. Use a real-world explanation where appropriate.",
+      "options": [],
+      "answer_hint": "A strong response names a suitable test such as pH paper or a pH probe and states the expected near-neutral result, with chemistry reasoning.",
+      "source_excerpt": null
+    }
+  ]
+}

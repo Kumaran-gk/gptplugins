@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "mhf4u-unit1-functions-rates-researched-v2",
+  "created_at": "2026-09-29T03:59:00Z",
+  "title": "MHF4U Unit 1: compact multipart graph and reasoning practice test",
+  "subject": "Math",
+  "grade_level": "12",
+  "course_code": "MHF4U",
+  "curriculum": "Ontario Curriculum, Grades 11 and 12: Mathematics (2007), Advanced Functions",
+  "unit": {
+    "unit_id": "unit-1",
+    "unit_name": "Introduction to Functions and Rates of Change",
+    "chapter_refs": [
+      "Nelson 1.1-1.6",
+      "Nelson 2.1",
+      "Nelson 2.2",
+      "Nelson 2.5"
+    ],
+    "learning_goals": [
+      "Describe functions through equations, graphs, domains, ranges, and interval notation",
+      "Analyze absolute value, parent, transformed, inverse, and piecewise functions",
+      "Calculate and interpret average rate of change and estimate instantaneous rate of change"
+    ]
+  },
+  "source_files": [
+    {
+      "file_name": "Unit-1-IndexSheet.jpeg",
+      "file_type": "other",
+      "path": "data/12-AdvancedFunctions/Unit-1-IndexSheet.jpeg",
+      "notes": "Observed lesson scope and 15-class sequence"
+    },
+    {
+      "file_name": "Unit-1-Generalized-Content.txt",
+      "file_type": "txt",
+      "path": "data/12-AdvancedFunctions/Unit-1/Unit-1-Generalized-Content.txt",
+      "notes": "Content summary from selected Nelson lessons"
+    },
+    {
+      "file_name": "Ontario Curriculum Grades 11 and 12 Mathematics",
+      "file_type": "pdf",
+      "path": "https://www.edu.gov.on.ca/eng/curriculum/secondary/math1112currb.pdf",
+      "notes": "MHF4U rates-of-change expectations and four achievement categories"
+    },
+    {
+      "file_name": "Public MHF4U Unit 1 test preview",
+      "file_type": "other",
+      "path": "https://www.coursehero.com/file/86519856/Test-1pdf/",
+      "notes": "Unofficial uploaded example with closely matching topic list and K/U, T/I, C, A tagging; used only for pattern signals, never copied"
+    },
+    {
+      "file_name": "Ontario MHF4U course outline",
+      "file_type": "pdf",
+      "path": "https://schoolweb.tdsb.on.ca/Portals/foresthill/docs/MHF4U1%20Course%20Outline.pdf",
+      "notes": "School example; demonstrates local category weighting and a different Unit 1 sequence"
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.76,
+    "observed_patterns": [
+      "The supplied Unit 1 index specifies functions, absolute value, graph properties, transformations, inverses, piecewise functions, and average and instantaneous rate of change.",
+      "A publicly visible MHF4U Unit 1 sample uses multipart graphing, inverse, transformation, and rate questions with category marks such as K1 and T1.",
+      "The user provided an example wheel-height diagram with labelled radius, clearance, domain, and range.",
+      "The user requested a compact question-paper layout with little answer space."
+    ],
+    "inferred_patterns": [
+      "Use compact multipart questions with marks on each subpart rather than a uniform five-mark structure.",
+      "Include original diagram interpretation and graph-reasoning items at a similar cognitive level to the visible sample and supplied image.",
+      "Use 50 marks and 75 minutes as a practice target; the actual teacher's paper may differ."
+    ],
+    "notes": "Questions are newly written. The public sample and user-provided image inform task types only; no question or visual is copied."
+  },
+  "structure": {
+    "test_type": "original compact practice unit test",
+    "duration_minutes": 75,
+    "total_marks": 50,
+    "sections": [
+      {
+        "section_id": "Q1-Q8",
+        "title": "Multipart Unit 1 questions",
+        "order": 1,
+        "instructions": "Answer all questions consecutively; marks and achievement-category tags appear beside subparts.",
+        "question_types": [
+          "piecewise graph",
+          "absolute value graph",
+          "transformed point",
+          "inverse relation",
+          "diagram interpretation",
+          "rate calculation",
+          "symmetry proof",
+          "secant and tangent graph"
+        ],
+        "num_questions": 8,
+        "marks": 50,
+        "skills_targeted": [
+          "knowledge",
+          "thinking",
+          "communication",
+          "application"
+        ]
+      }
+    ],
+    "ordering_rules": [
+      "Use eight consecutive numbered multipart questions",
+      "Keep student pages compact like a question paper",
+      "Provide diagrams for questions 5 and 8"
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "Piecewise functions",
+      "weight_pct": 18,
+      "question_forms": [
+        "graph sketch",
+        "range",
+        "inverse reasoning"
+      ]
+    },
+    {
+      "topic": "Absolute value",
+      "weight_pct": 12,
+      "question_forms": [
+        "graph sketch",
+        "domain and range"
+      ]
+    },
+    {
+      "topic": "Transformations",
+      "weight_pct": 10,
+      "question_forms": [
+        "point mapping",
+        "domain and range"
+      ]
+    },
+    {
+      "topic": "Inverse relations/functions",
+      "weight_pct": 10,
+      "question_forms": [
+        "domain restriction",
+        "algebraic inverse"
+      ]
+    },
+    {
+      "topic": "Diagram interpretation and function properties",
+      "weight_pct": 14,
+      "question_forms": [
+        "wheel diagram",
+        "domain/range",
+        "qualitative graph"
+      ]
+    },
+    {
+      "topic": "Average and instantaneous rates of change",
+      "weight_pct": 26,
+      "question_forms": [
+        "calculation",
+        "secant/tangent diagram",
+        "contextual interpretation"
+      ]
+    },
+    {
+      "topic": "Symmetry and interval notation",
+      "weight_pct": 10,
+      "question_forms": [
+        "proof",
+        "interval conversion"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 30,
+    "medium_pct": 50,
+    "hard_pct": 20,
+    "progression_notes": [
+      "Direct features first",
+      "Multi-step analysis second",
+      "Explanations and applications last"
+    ],
+    "cognitive_skills": [
+      "recognize",
+      "calculate",
+      "justify",
+      "model",
+      "interpret"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "State and justify",
+      "Determine",
+      "Explain",
+      "Interpret in context"
+    ],
+    "response_formats": [
+      "exact values",
+      "interval notation",
+      "labelled sketch",
+      "worked calculation",
+      "sentence with units"
+    ],
+    "common_verbs": [
+      "state",
+      "determine",
+      "sketch",
+      "explain",
+      "interpret"
+    ],
+    "wording_tone": "clear Ontario Grade 12 classroom style",
+    "diagram_expectations": [
+      "Use original labelled observation-wheel diagram for domain/range reasoning",
+      "Use original secant/tangent graph for rate interpretation",
+      "Require labelled axes and open/closed endpoints in student sketches"
+    ],
+    "answer_style_expectations": [
+      "show steps",
+      "state restrictions",
+      "include units",
+      "write conclusions"
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "endpoint inclusion",
+      "description": "Confusing open and closed interval or piecewise endpoints",
+      "frequency": "medium"
+    },
+    {
+      "trap_type": "horizontal transformation",
+      "description": "Using k instead of 1/k in a point mapping",
+      "frequency": "medium"
+    },
+    {
+      "trap_type": "inverse misconception",
+      "description": "Confusing inverse with reciprocal or omitting a domain restriction",
+      "frequency": "medium"
+    },
+    {
+      "trap_type": "rate interpretation",
+      "description": "Confusing secant slope with tangent slope or omitting units",
+      "frequency": "medium"
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Change all numbers, contexts, and wording while preserving assessed skills and four-category structure.",
+    "freshness_requirements": [
+      "Original questions",
+      "No verbatim textbook or public sample stems"
+    ],
+    "constraints": [
+      "Stay within the supplied Unit 1 index",
+      "Preserve multipart question style and subpart category marks",
+      "Use new functions, values, contexts, and original diagrams",
+      "No formal differentiation rules required",
+      "Keep student PDF compact; provide a separate worked thinking guide"
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "MHF4U",
+      "Unit 1",
+      "functions",
+      "rates of change",
+      "researched pattern"
+    ],
+    "summary_for_retrieval": "Compact 50-mark MHF4U Unit 1 practice test with multipart graphing and diagram reasoning."
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "recommended_merge_tags": [
+      "functions",
+      "rates of change"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [
+      "Use f^-1 for inverse and 1/f for reciprocal",
+      "Use interval notation with correct endpoint inclusion"
+    ],
+    "graph_types": [
+      "absolute value",
+      "transformed parent",
+      "piecewise"
+    ],
+    "calculation_modes": [
+      "algebraic",
+      "tabular secant estimate",
+      "graphical reasoning"
+    ],
+    "topic_specific_constraints": [
+      "Assess average and instantaneous rates without formal differentiation rules"
+    ]
+  }
+}

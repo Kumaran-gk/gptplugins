@@ -1,0 +1,156 @@
+{
+  "blueprint_id": "chemistry-unit-3-stoichiometry-test-curated-20260513",
+  "title": "Unit 3 Stoichiometry Test",
+  "subject": "chemistry",
+  "unit_name": "Unit 3 Stoichiometry Test",
+  "version_label": "verA",
+  "preserve_structure": true,
+  "reuse_prohibited": true,
+  "variation_policy": "Preserve the exact 7-question constructed-response stoichiometry layout and mark emphasis while changing compounds, values, and contexts.",
+  "section_plans": [
+    {
+      "section_id": "section_1",
+      "title": "Foundational Stoichiometry Calculations",
+      "order": 1,
+      "instructions": "Show all work. Include units and use appropriate significant digits.",
+      "num_questions": 3,
+      "question_types": [
+        "written_response"
+      ],
+      "marks": 7,
+      "timing_notes": null,
+      "target_topics": [
+        "stoichiometry"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 29.0,
+        "medium_pct": 51.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "calculate",
+          "determine",
+          "write",
+          "use"
+        ],
+        "answer_style_expectations": [
+          "show_full_work",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 3
+    },
+    {
+      "section_id": "section_2",
+      "title": "Composition and Reaction Stoichiometry",
+      "order": 2,
+      "instructions": "Show a complete stoichiometric setup. Write and balance any required chemical equation before solving.",
+      "num_questions": 3,
+      "question_types": [
+        "written_response"
+      ],
+      "marks": 22,
+      "timing_notes": null,
+      "target_topics": [
+        "stoichiometry"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 29.0,
+        "medium_pct": 51.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "calculate",
+          "determine",
+          "write",
+          "use"
+        ],
+        "answer_style_expectations": [
+          "show_full_work",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 3
+    },
+    {
+      "section_id": "section_3",
+      "title": "Lab Yield Analysis",
+      "order": 3,
+      "instructions": "Use the data provided to determine theoretical yield and percent yield. Show your setup clearly.",
+      "num_questions": 1,
+      "question_types": [
+        "application"
+      ],
+      "marks": 6,
+      "timing_notes": null,
+      "target_topics": [
+        "lab_and_applications",
+        "stoichiometry"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 29.0,
+        "medium_pct": 51.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "calculate",
+          "determine",
+          "write",
+          "use"
+        ],
+        "answer_style_expectations": [
+          "show_full_work",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 1
+    }
+  ],
+  "top_topics": [
+    "stoichiometry",
+    "lab_and_applications"
+  ],
+  "complexity_mode": "standard",
+  "difficulty_profile": {
+    "easy_pct": 29.0,
+    "medium_pct": 51.0,
+    "hard_pct": 20.0
+  },
+  "generation_constraints": [
+    "Generate exactly 7 constructed-response questions across the three sections.",
+    "Include at least one formula-units or particles to moles conversion.",
+    "Include at least one moles-to-mass calculation.",
+    "Include at least one atoms or particles counting question.",
+    "Include one percent-composition-to-molecular-formula problem.",
+    "Include at least one balanced-equation stoichiometry problem that asks for a product mass or amount.",
+    "Include one percent-yield lab problem based on measured precipitate data."
+  ],
+  "content_grounding_summary": null
+}

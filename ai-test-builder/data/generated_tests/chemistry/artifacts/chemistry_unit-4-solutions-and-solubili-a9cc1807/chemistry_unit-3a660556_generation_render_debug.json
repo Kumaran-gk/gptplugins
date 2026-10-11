@@ -1,0 +1,55 @@
+{
+  "question_count": 5,
+  "question_records": [
+    {
+      "question_number": 1,
+      "topic": "solutions_and_concentration",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "A window-cleaning solution is 18.5% (v/v) ammonia. If a bottle contains 750 mL of the solution, what volume of pure ammonia is present?",
+      "options": [],
+      "answer_hint": "0.185 x 750 mL = 139 mL ammonia approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 2,
+      "topic": "solutions_and_concentration",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "A solution is prepared by dissolving 0.180 mol of sodium carbonate, Na2CO3(s), to make 1.50 L of solution. What is the molar concentration of the solution?",
+      "options": [],
+      "answer_hint": "c = n/V = 0.180/1.50 = 0.120 mol/L",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 3,
+      "topic": "solutions_and_concentration",
+      "question_type": "application",
+      "marks": 5,
+      "stem": "A stock solution of 12.0 mol/L hydrochloric acid, HCl(aq), is available. What volume of stock solution is needed to prepare 500.0 mL of 1.50 mol/L HCl(aq)? Describe how you would prepare the solution.",
+      "options": [],
+      "answer_hint": "Use C1V1 = C2V2; V1 = (1.50 x 0.5000)/12.0 = 0.0625 L = 62.5 mL. Measure 62.5 mL of stock acid and dilute with water to a final volume of 500.0 mL.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 4,
+      "topic": "acid_base_neutralization",
+      "question_type": "written_response",
+      "marks": 5,
+      "stem": "If 18.0 mL of KOH(aq) is required to completely neutralize 25.0 mL of 0.150 mol/L H2SO4(aq), what is the concentration of the base? Write the balanced chemical equation, include states, then solve.",
+      "options": [],
+      "answer_hint": "H2SO4(aq) + 2KOH(aq) -> K2SO4(aq) + 2H2O(l); n(H2SO4) = 0.00375 mol, n(KOH) = 0.00750 mol, c(KOH) = 0.417 mol/L approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 5,
+      "topic": "solubility_and_solvents",
+      "question_type": "application",
+      "marks": 4,
+      "stem": "Describe one specific example of how water being a good solvent is an advantage and one specific example of how it can be a disadvantage. Explain each example using chemistry ideas.",
+      "options": [],
+      "answer_hint": "Strong responses connect water polarity to dissolving ionic or polar substances as a benefit and explain a drawback such as corrosion, contamination transport, or inability to dissolve non-polar materials well.",
+      "source_excerpt": null
+    }
+  ]
+}

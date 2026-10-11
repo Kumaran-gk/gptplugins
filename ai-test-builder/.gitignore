@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+tmp/
+tmp_*.png
+/data/input/**
+!/data/input/.gitkeep
+/data/12-AdvancedFunctions/**

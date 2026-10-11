@@ -1,0 +1,19 @@
+{
+  "plugins": [
+    {
+      "source": {
+        "path": "./",
+        "source": "local"
+      },
+      "interface": {
+        "displayName": "AI Test Builder"
+      },
+      "name": "ai-test-builder",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      }
+    }
+  ],
+  "name": "ai-test-builder"
+}

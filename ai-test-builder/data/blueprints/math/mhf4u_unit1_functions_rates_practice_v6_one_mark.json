@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "mhf4u-unit1-functions-rates-practice-v6-one-mark",
+  "created_at": "2026-10-01T23:00:35.211882+00:00",
+  "title": "MHF4U Unit 1 practice test: 20 one-mark multiple-choice questions",
+  "subject": "Math",
+  "grade_level": "12",
+  "course_code": "MHF4U",
+  "curriculum": "Ontario Curriculum, Grades 11 and 12: Mathematics (2007), Advanced Functions",
+  "unit": {
+    "unit_id": "unit-1",
+    "unit_name": "Introduction to Functions and Rates of Change",
+    "chapter_refs": [
+      "Nelson 1.1-1.6",
+      "Nelson 2.1",
+      "Nelson 2.2",
+      "Nelson 2.5"
+    ],
+    "learning_goals": [
+      "Describe functions through equations, graphs, domains, ranges, and interval notation",
+      "Analyze absolute value, parent, transformed, inverse, and piecewise functions",
+      "Calculate and interpret average rate of change and estimate instantaneous rate of change"
+    ]
+  },
+  "source_files": [
+    {
+      "file_name": "Unit-1-IndexSheet.jpeg",
+      "file_type": "other",
+      "path": "data/12-AdvancedFunctions/Unit-1-IndexSheet.jpeg",
+      "notes": "Observed lesson scope and 15-class sequence"
+    },
+    {
+      "file_name": "Unit-1-Generalized-Content.txt",
+      "file_type": "txt",
+      "path": "data/12-AdvancedFunctions/Unit-1/Unit-1-Generalized-Content.txt",
+      "notes": "Content summary from selected Nelson lessons"
+    },
+    {
+      "file_name": "Ontario Curriculum Grades 11 and 12 Mathematics",
+      "file_type": "pdf",
+      "path": "https://www.edu.gov.on.ca/eng/curriculum/secondary/math1112currb.pdf",
+      "notes": "MHF4U rates-of-change expectations and four achievement categories"
+    },
+    {
+      "file_name": "Public MHF4U Unit 1 test preview",
+      "file_type": "other",
+      "path": "https://www.coursehero.com/file/86519856/Test-1pdf/",
+      "notes": "Unofficial uploaded example with closely matching topic list and K/U, T/I, C, A tagging; used only for pattern signals, never copied"
+    },
+    {
+      "file_name": "Ontario MHF4U course outline",
+      "file_type": "pdf",
+      "path": "https://schoolweb.tdsb.on.ca/Portals/foresthill/docs/MHF4U1%20Course%20Outline.pdf",
+      "notes": "School example; demonstrates local category weighting and a different Unit 1 sequence"
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.76,
+    "observed_patterns": [
+      "The supplied Unit 1 index specifies functions, absolute value, graph properties, transformations, inverses, piecewise functions, and average and instantaneous rate of change.",
+      "A publicly visible MHF4U Unit 1 sample uses multipart graphing, inverse, transformation, and rate questions with category marks such as K1 and T1.",
+      "The user provided an example wheel-height diagram with labelled radius, clearance, domain, and range.",
+      "The user requested a compact question-paper layout with little answer space.",
+      "User requested 10 one-mark multiple-choice questions at the start of Version 4 and working space for calculations and graphs.",
+      "User requested another test using Version 4 as the pattern, with different and slightly more difficult questions.",
+      "User requested another version containing only 20 one-mark questions."
+    ],
+    "inferred_patterns": [
+      "Use the established Unit 1 topic scope and diagram reasoning, but convert the practice paper to 20 one-mark selected-response items.",
+      "Keep the paper compact and use original endpoint, circular-ride, and secant-tangent diagrams.",
+      "Allow 35 minutes as a practice target; the actual teacher test may differ."
+    ],
+    "notes": "Version 6 is a user-requested all-one-mark variation. It does not claim to reproduce an official Ontario school-board test pattern."
+  },
+  "structure": {
+    "test_type": "original one-mark practice quiz",
+    "duration_minutes": 35,
+    "total_marks": 20,
+    "sections": [
+      {
+        "section_id": "Q1-Q20",
+        "title": "Multiple choice",
+        "order": 1,
+        "instructions": "Circle one answer per question; each question is worth one mark.",
+        "question_types": [
+          "conceptual multiple choice",
+          "calculation multiple choice",
+          "diagram interpretation multiple choice"
+        ],
+        "num_questions": 20,
+        "marks": 20,
+        "skills_targeted": [
+          "knowledge",
+          "thinking",
+          "application"
+        ]
+      }
+    ],
+    "ordering_rules": [
+      "Use 20 consecutive multiple-choice questions, each worth exactly one mark.",
+      "Start with functions, domain/range, transformations, and inverses; finish with diagram and rate reasoning.",
+      "Include original endpoint, circular-ride, and secant-tangent diagrams."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "Function and piecewise checks",
+      "weight_pct": 15,
+      "question_forms": [
+        "relation check",
+        "boundary value",
+        "continuity parameter"
+      ]
+    },
+    {
+      "topic": "Domain, range, and interval notation",
+      "weight_pct": 25,
+      "question_forms": [
+        "algebraic domain",
+        "absolute-value range",
+        "endpoint graph",
+        "interval conversion"
+      ]
+    },
+    {
+      "topic": "Transformations",
+      "weight_pct": 10,
+      "question_forms": [
+        "point mapping",
+        "horizontal change"
+      ]
+    },
+    {
+      "topic": "Inverse functions",
+      "weight_pct": 10,
+      "question_forms": [
+        "linear inverse",
+        "restricted quadratic inverse"
+      ]
+    },
+    {
+      "topic": "Graph symmetry",
+      "weight_pct": 5,
+      "question_forms": [
+        "odd function check"
+      ]
+    },
+    {
+      "topic": "Circular-ride diagram interpretation",
+      "weight_pct": 10,
+      "question_forms": [
+        "maximum height",
+        "quarter-turn height"
+      ]
+    },
+    {
+      "topic": "Average and instantaneous rates",
+      "weight_pct": 25,
+      "question_forms": [
+        "function values",
+        "quadratic secant",
+        "centred estimate",
+        "secant-tangent diagram"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 35,
+    "medium_pct": 50,
+    "hard_pct": 15,
+    "progression_notes": [
+      "Direct recognition first",
+      "Algebraic and transformation checks next",
+      "Diagram and rate interpretation near the end"
+    ],
+    "cognitive_skills": [
+      "recognize",
+      "calculate",
+      "interpret",
+      "apply"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "Which",
+      "What is",
+      "Use the diagram"
+    ],
+    "response_formats": [
+      "single selected choice"
+    ],
+    "common_verbs": [
+      "identify",
+      "determine",
+      "calculate",
+      "interpret"
+    ],
+    "wording_tone": "clear Ontario Grade 12 classroom style",
+    "diagram_expectations": [
+      "Original labelled endpoint graph for domain reasoning",
+      "Original circular-ride diagram shared by two one-mark questions",
+      "Original secant-tangent diagram shared by two one-mark questions"
+    ],
+    "answer_style_expectations": [
+      "one option per question",
+      "brief rationale in separate key"
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "endpoint inclusion",
+      "description": "Confusing open and closed interval or piecewise endpoints",
+      "frequency": "medium"
+    },
+    {
+      "trap_type": "horizontal transformation",
+      "description": "Using k instead of 1/k in a point mapping",
+      "frequency": "medium"
+    },
+    {
+      "trap_type": "inverse misconception",
+      "description": "Confusing inverse with reciprocal or omitting a domain restriction",
+      "frequency": "medium"
+    },
+    {
+      "trap_type": "rate interpretation",
+      "description": "Confusing secant slope with tangent slope or omitting units",
+      "frequency": "medium"
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Create 20 fresh one-mark multiple-choice questions across the established Unit 1 topics, with four options each and one correct choice.",
+    "freshness_requirements": [
+      "Original questions",
+      "No verbatim textbook or public sample stems"
+    ],
+    "constraints": [
+      "Use only one-mark questions, with 20 questions and 20 marks total.",
+      "Stay within the supplied Unit 1 index.",
+      "Include a few original diagram-based thinking questions.",
+      "No formal differentiation rules required.",
+      "Provide a compact student PDF and separate answer key."
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "MHF4U",
+      "Unit 1",
+      "functions",
+      "rates of change",
+      "researched pattern"
+    ],
+    "summary_for_retrieval": "MHF4U Unit 1 Version 6: 20 one-mark MC questions, including endpoint, circular-ride, and secant-tangent diagrams."
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "recommended_merge_tags": [
+      "functions",
+      "rates of change"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [
+      "Use f^-1 for inverse and 1/f for reciprocal",
+      "Use interval notation with correct endpoint inclusion"
+    ],
+    "graph_types": [
+      "absolute value",
+      "transformed parent",
+      "piecewise"
+    ],
+    "calculation_modes": [
+      "algebraic",
+      "tabular secant estimate",
+      "graphical reasoning"
+    ],
+    "topic_specific_constraints": [
+      "Assess average and instantaneous rates without formal differentiation rules"
+    ]
+  }
+}

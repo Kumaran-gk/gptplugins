@@ -1,0 +1,173 @@
+{
+  "file_name": "Unit2Test_ocr_cleaned.docx",
+  "file_path": "[LOCAL PATH REMOVED]",
+  "file_type": "docx",
+  "source_kind": "docx",
+  "page_count": null,
+  "text": "SCH3U Unit 2 Chemical Reactions Test\n\nThis cleaned transcript was reconstructed from OCR on a scanned, marked-up student copy of the test. Handwritten answers, grades, names, and stray OCR noise were removed where possible.\n\nMultiple Choice\n\nThe original test includes a multiple-choice section with 25 questions worth 25 marks total.\n\nThe multiple-choice topics appear to focus on chemical reactions, notation, observations, balancing, combustion, and practical applications.\n\nPredicting Products of All Types of Reactions (35 marks)\n\nPredict the product(s) of the following reactions. Include states. Balance the equations. For each reaction, award marks for correct products, balancing, and identifying the type of reaction.\n\nThe OCR clearly suggests this section included reaction-product and classification questions such as:\n\n1. `AgNO3(aq) + MgBr2(aq) ->`\n\n2. `Na2O(s) ->`\n\n3. `Mg(OH)2(aq) + 2 HBr(aq) ->`\n\n4. `Cu(s) + Cl2(g) ->`\n\n5. `Na2O(s) + SO3(g) ->`\n\n6. Combustion of methane when a blue flame forms, `CH4`\n\nThe full section appears to have contained about 8 reaction questions spanning synthesis, decomposition, single displacement, double displacement or neutralization, and combustion.\n\nApplication Questions (18 marks)\n\nUse full sentences for all questions to achieve full marks.\n\nThis section contains 5 application prompts worth 18 marks total.\n\n1. Silver is a highly valuable metal used in batteries, jewellery, water purification, dentistry, and medicine. Most silver is naturally found underground in a compound called argentite ore, with the chemical formula `Ag2S`. Using your knowledge of displacement reactions, explain how you could extract pure silver metal from argentite ore. Write a balanced chemical equation to go with your explanation.\n\n2. Many antacid tablets such as TUMS contain calcium carbonate, `CaCO3`. Explain how calcium carbonate neutralizes stomach acid, `HCl(aq)`, without being a base. Include a balanced chemical reaction with states in your explanation.\n\n3. a) When properly lighting and adjusting a Bunsen burner, why does the flame turn from orange to blue?\n\n3. b) Compare the orange and blue flames in terms of the amount of heat and light given off.\n\n4. Your friend wants to move a propane BBQ into a garage to keep cooking during rain. Based on your knowledge of chemical reactions and combustion, explain why this is or is not a good idea. Be specific.\n\n5. Many neutralization reactions, such as a `KOH` spill being neutralized with cola containing `H3PO4(aq)`, produce aqueous products and may show no obvious visible sign of reaction. Explain how you could prove conclusively that the reaction occurred and that the spill is now safe to clean up. Be specific about the tests you would use and the results you would expect.\n\nBonus\n\nTell me something you enjoyed learning or doing in this unit.",
+  "segments": [
+    {
+      "segment_type": "paragraph",
+      "index": 1,
+      "text": "SCH3U Unit 2 Chemical Reactions Test",
+      "char_count": 36
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 3,
+      "text": "This cleaned transcript was reconstructed from OCR on a scanned, marked-up student copy of the test. Handwritten answers, grades, names, and stray OCR noise were removed where possible.",
+      "char_count": 185
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 5,
+      "text": "Multiple Choice",
+      "char_count": 15
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 7,
+      "text": "The original test includes a multiple-choice section with 25 questions worth 25 marks total.",
+      "char_count": 92
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 9,
+      "text": "The multiple-choice topics appear to focus on chemical reactions, notation, observations, balancing, combustion, and practical applications.",
+      "char_count": 140
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 11,
+      "text": "Predicting Products of All Types of Reactions (35 marks)",
+      "char_count": 56
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 13,
+      "text": "Predict the product(s) of the following reactions. Include states. Balance the equations. For each reaction, award marks for correct products, balancing, and identifying the type of reaction.",
+      "char_count": 191
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 15,
+      "text": "The OCR clearly suggests this section included reaction-product and classification questions such as:",
+      "char_count": 101
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 17,
+      "text": "1. `AgNO3(aq) + MgBr2(aq) ->`",
+      "char_count": 29
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 18,
+      "text": "2. `Na2O(s) ->`",
+      "char_count": 15
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 19,
+      "text": "3. `Mg(OH)2(aq) + 2 HBr(aq) ->`",
+      "char_count": 31
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 20,
+      "text": "4. `Cu(s) + Cl2(g) ->`",
+      "char_count": 22
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 21,
+      "text": "5. `Na2O(s) + SO3(g) ->`",
+      "char_count": 24
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 22,
+      "text": "6. Combustion of methane when a blue flame forms, `CH4`",
+      "char_count": 55
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 24,
+      "text": "The full section appears to have contained about 8 reaction questions spanning synthesis, decomposition, single displacement, double displacement or neutralization, and combustion.",
+      "char_count": 180
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 26,
+      "text": "Application Questions (18 marks)",
+      "char_count": 32
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 28,
+      "text": "Use full sentences for all questions to achieve full marks.",
+      "char_count": 59
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 30,
+      "text": "This section contains 5 application prompts worth 18 marks total.",
+      "char_count": 65
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 32,
+      "text": "1. Silver is a highly valuable metal used in batteries, jewellery, water purification, dentistry, and medicine. Most silver is naturally found underground in a compound called argentite ore, with the chemical formula `Ag2S`. Using your knowledge of displacement reactions, explain how you could extract pure silver metal from argentite ore. Write a balanced chemical equation to go with your explanation.",
+      "char_count": 404
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 34,
+      "text": "2. Many antacid tablets such as TUMS contain calcium carbonate, `CaCO3`. Explain how calcium carbonate neutralizes stomach acid, `HCl(aq)`, without being a base. Include a balanced chemical reaction with states in your explanation.",
+      "char_count": 231
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 36,
+      "text": "3. a) When properly lighting and adjusting a Bunsen burner, why does the flame turn from orange to blue?",
+      "char_count": 104
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 38,
+      "text": "3. b) Compare the orange and blue flames in terms of the amount of heat and light given off.",
+      "char_count": 92
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 40,
+      "text": "4. Your friend wants to move a propane BBQ into a garage to keep cooking during rain. Based on your knowledge of chemical reactions and combustion, explain why this is or is not a good idea. Be specific.",
+      "char_count": 203
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 42,
+      "text": "5. Many neutralization reactions, such as a `KOH` spill being neutralized with cola containing `H3PO4(aq)`, produce aqueous products and may show no obvious visible sign of reaction. Explain how you could prove conclusively that the reaction occurred and that the spill is now safe to clean up. Be specific about the tests you would use and the results you would expect.",
+      "char_count": 370
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 44,
+      "text": "Bonus",
+      "char_count": 5
+    },
+    {
+      "segment_type": "paragraph",
+      "index": 46,
+      "text": "Tell me something you enjoyed learning or doing in this unit.",
+      "char_count": 61
+    }
+  ],
+  "metadata": {
+    "paragraph_count": 46,
+    "table_count": 0,
+    "extraction_method": "python-docx",
+    "normalized": true
+  },
+  "detected_file_kind": "docx"
+}

@@ -1,0 +1,10 @@
+python-dotenv
+openai
+mcp>=1,<2
+jsonschema
+pypdf
+python-docx
+pymupdf
+pillow
+pytesseract
+pytest

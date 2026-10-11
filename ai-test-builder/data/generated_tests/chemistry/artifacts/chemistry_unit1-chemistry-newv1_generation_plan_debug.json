@@ -1,0 +1,58 @@
+{
+  "blueprint_id": "chemistry-unknown-unit-20260414040509",
+  "title": "Unit1-Chemistry-NewV1.pdf",
+  "subject": "chemistry",
+  "unit_name": "Unknown Unit",
+  "version_label": "verA",
+  "preserve_structure": true,
+  "reuse_prohibited": true,
+  "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+  "section_plans": [
+    {
+      "section_id": "section_1",
+      "title": "Main Section",
+      "order": 1,
+      "instructions": null,
+      "num_questions": 11,
+      "question_types": [],
+      "marks": null,
+      "timing_notes": null,
+      "target_topics": [
+        "atomic_structure",
+        "lab_and_applications"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 63.64,
+        "medium_pct": 36.36,
+        "hard_pct": 0.0
+      },
+      "response_formats": [
+        "constructed_response"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "identify",
+          "name",
+          "calculate",
+          "explain"
+        ],
+        "answer_style_expectations": []
+      },
+      "source_snippets": [],
+      "estimated_question_count": 11
+    }
+  ],
+  "top_topics": [
+    "atomic_structure",
+    "lab_and_applications"
+  ],
+  "difficulty_profile": {
+    "easy_pct": 63.64,
+    "medium_pct": 36.36,
+    "hard_pct": 0.0
+  },
+  "generation_constraints": [
+    "Top detected topics: atomic_structure, lab_and_applications"
+  ],
+  "content_grounding_summary": null
+}

@@ -1,0 +1,40 @@
+{
+  "question_count": 5,
+  "answer_key_records": [
+    {
+      "question_number": 1,
+      "topic": "solutions_and_concentration",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "0.185 x 750 mL = 139 mL ammonia approximately"
+    },
+    {
+      "question_number": 2,
+      "topic": "solutions_and_concentration",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "c = n/V = 0.180/1.50 = 0.120 mol/L"
+    },
+    {
+      "question_number": 3,
+      "topic": "solutions_and_concentration",
+      "question_type": "application",
+      "marks": 5,
+      "answer_hint": "Use C1V1 = C2V2; V1 = (1.50 x 0.5000)/12.0 = 0.0625 L = 62.5 mL. Measure 62.5 mL of stock acid and dilute with water to a final volume of 500.0 mL."
+    },
+    {
+      "question_number": 4,
+      "topic": "acid_base_neutralization",
+      "question_type": "written_response",
+      "marks": 5,
+      "answer_hint": "H2SO4(aq) + 2KOH(aq) -> K2SO4(aq) + 2H2O(l); n(H2SO4) = 0.00375 mol, n(KOH) = 0.00750 mol, c(KOH) = 0.417 mol/L approximately"
+    },
+    {
+      "question_number": 5,
+      "topic": "solubility_and_solvents",
+      "question_type": "application",
+      "marks": 4,
+      "answer_hint": "Strong responses connect water polarity to dissolving ionic or polar substances as a benefit and explain a drawback such as corrosion, contamination transport, or inability to dissolve non-polar materials well."
+    }
+  ]
+}

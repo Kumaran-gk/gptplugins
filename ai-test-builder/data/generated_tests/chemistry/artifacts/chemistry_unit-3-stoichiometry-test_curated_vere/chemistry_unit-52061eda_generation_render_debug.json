@@ -1,0 +1,75 @@
+{
+  "question_count": 7,
+  "question_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "stem": "Calculate the amount of substance in moles for 5.41 x 10^22 formula units of calcium nitrate, Ca(NO3)2(s).",
+      "options": [],
+      "answer_hint": "0.0898 mol Ca(NO3)2 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "stem": "Calculate the mass of 1.20 mol of potassium phosphate, K3PO4(s).",
+      "options": [],
+      "answer_hint": "255 g K3PO4 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "How many oxygen atoms are present in 2.25 mol of sulfur dioxide, SO2(g)?",
+      "options": [],
+      "answer_hint": "2.71 x 10^24 oxygen atoms approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 8,
+      "stem": "A compound is 48.6% carbon, 8.16% hydrogen, and 43.2% oxygen by mass. Its molar mass is 74.1 g/mol. Determine the molecular formula of the compound.",
+      "options": [],
+      "answer_hint": "Empirical formula C3H6O2; molecular formula C3H6O2",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 4,
+      "stem": "In excess oxygen, phosphorus reacts to form tetraphosphorus decoxide, P4O10(s). Calculate the mass of P4O10 produced when 6.20 g of P4(s) is used.",
+      "options": [],
+      "answer_hint": "14.2 g P4O10 approximately after using P4 + 5O2 -> P4O10",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 10,
+      "stem": "Sulfuric acid reacts with sodium hydroxide to produce sodium sulfate and water. If 4.90 g of H2SO4(aq) reacts completely with excess NaOH(aq), what mass of Na2SO4(s) is produced? Write a balanced chemical equation for the reaction.",
+      "options": [],
+      "answer_hint": "H2SO4 + 2NaOH -> Na2SO4 + 2H2O; 7.10 g Na2SO4 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 7,
+      "topic": "stoichiometry",
+      "question_type": "application",
+      "marks": 6,
+      "stem": "Use the lab data below to determine the percentage yield of lead(II) iodide, PbI2(s), produced when excess potassium iodide is added to lead(II) nitrate solution. Lab data: mass of Pb(NO3)2 used = 1.36 g; mass of clean, dry filter paper = 1.08 g; mass of dry precipitate and filter paper = 2.50 g. Write the balanced chemical equation for the reaction.",
+      "options": [],
+      "answer_hint": "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3; actual precipitate mass = 1.42 g; theoretical yield is about 1.89 g PbI2; percentage yield is about 75.1%",
+      "source_excerpt": null
+    }
+  ]
+}

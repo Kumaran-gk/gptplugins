@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unit-4-solutions-and-solubility-test-curated-20260617",
+  "created_at": "2026-06-17T21:30:00-04:00",
+  "title": "Unit 4 Solutions and Solubility Test",
+  "subject": "chemistry",
+  "grade_level": "11",
+  "course_code": "SCH3U",
+  "curriculum": "Ontario Chemistry",
+  "unit": {
+    "unit_name": "Unit 4 Solutions and Solubility Test",
+    "chapter_refs": [],
+    "learning_goals": [
+      "Calculate percent by volume and molar concentration for common solutions.",
+      "Use dilution relationships to prepare a target concentration from a stock solution.",
+      "Apply balanced chemical equations and mole ratios in neutralization calculations.",
+      "Explain how water's polarity makes it a useful solvent while also creating limitations.",
+      "Show organized work with units, significant digits, and clear chemical notation."
+    ]
+  },
+  "source_files": [
+    {
+      "file_name": "ChemistryUnit4.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]",
+      "pages_used": [
+        1,
+        2
+      ],
+      "notes": "Curated from the scanned SCH3U Unit 4 solutions and solubility test after visual review of the source pages."
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.96,
+    "observed_patterns": [
+      "The source is a short SCH3U Unit 4 paper with 5 written-response questions worth 20 marks total.",
+      "Question 1 uses percent by volume to determine the volume of solute in a real-world context.",
+      "Question 2 asks for molar concentration from moles and solution volume.",
+      "Question 3 is a dilution question that also asks students to describe the preparation procedure.",
+      "Question 4 is a neutralization problem that explicitly requires a balanced chemical equation with states before solving.",
+      "Question 5 is a conceptual written response about water being a good solvent with both an advantage and a disadvantage."
+    ],
+    "inferred_patterns": [
+      "The teacher values concise but fully shown solution steps, especially unit conversion and formula setup.",
+      "The assessment mixes mostly straightforward calculations with one balanced-equation stoichiometry item and one explanatory chemistry application item.",
+      "Fresh versions should keep the same 5-question skill spread while changing contexts, substances, and numerical values."
+    ],
+    "evidence_snippets": [
+      {
+        "source_file": "ChemistryUnit4.pdf",
+        "page": 1,
+        "snippet": "what volume of pure leukocytes is present?",
+        "pattern_link": "percent by volume application"
+      },
+      {
+        "source_file": "ChemistryUnit4.pdf",
+        "page": 1,
+        "snippet": "What is the molar concentration of this solution?",
+        "pattern_link": "molar concentration calculation"
+      },
+      {
+        "source_file": "ChemistryUnit4.pdf",
+        "page": 2,
+        "snippet": "Write the balanced chemical equation, include states, then solve.",
+        "pattern_link": "neutralization with equation writing"
+      },
+      {
+        "source_file": "ChemistryUnit4.pdf",
+        "page": 2,
+        "snippet": "water being a good solvent is both a pro and a con",
+        "pattern_link": "conceptual solvent reasoning"
+      }
+    ],
+    "notes": "This curated blueprint replaces the noisy OCR-only heuristic version and preserves the full written-response intent of the source paper."
+  },
+  "structure": {
+    "test_type": "constructed_response_unit_test",
+    "duration_minutes": 40,
+    "total_marks": 20,
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Written Response",
+        "order": 1,
+        "instructions": "Answer all questions. Show all work for calculations, include units, and use appropriate significant digits.",
+        "question_types": [
+          "written_response",
+          "application"
+        ],
+        "num_questions": 5,
+        "marks": 20,
+        "skills_targeted": [
+          "percent by volume",
+          "molar concentration",
+          "dilution",
+          "neutralization stoichiometry",
+          "solvent reasoning"
+        ]
+      }
+    ],
+    "ordering_rules": [
+      "Begin with direct solution calculations.",
+      "Place the dilution preparation question before the neutralization problem.",
+      "Finish with a short explanatory question about solvent properties."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "solutions_and_concentration",
+      "subtopics": [
+        "percent by volume",
+        "molar concentration",
+        "dilution",
+        "solution preparation"
+      ],
+      "weight_pct": 55.0,
+      "question_forms": [
+        "written_response",
+        "application"
+      ]
+    },
+    {
+      "topic": "acid_base_neutralization",
+      "subtopics": [
+        "balanced equations",
+        "mole ratios",
+        "neutralization concentration"
+      ],
+      "weight_pct": 25.0,
+      "question_forms": [
+        "written_response"
+      ]
+    },
+    {
+      "topic": "solubility_and_solvents",
+      "subtopics": [
+        "water polarity",
+        "advantages of water as solvent",
+        "limitations of water as solvent"
+      ],
+      "weight_pct": 20.0,
+      "question_forms": [
+        "application"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 35.0,
+    "medium_pct": 50.0,
+    "hard_pct": 15.0,
+    "progression_notes": [
+      "The paper should start with one-step concentration questions, move into a multi-step dilution setup, then require a balanced-equation neutralization calculation.",
+      "The final question should assess chemistry understanding in words rather than calculation alone."
+    ],
+    "cognitive_skills": [
+      "procedural fluency",
+      "multi-step calculation",
+      "equation-based reasoning",
+      "conceptual explanation"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions",
+      "command_verb_led",
+      "real_world_context"
+    ],
+    "response_formats": [
+      "written_response",
+      "application"
+    ],
+    "common_verbs": [
+      "calculate",
+      "determine",
+      "describe",
+      "write",
+      "explain"
+    ],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [],
+    "answer_style_expectations": [
+      "show_full_work",
+      "use_units",
+      "use_significant_digits",
+      "balanced_equations_when_requested",
+      "complete_sentence_explanations_for_conceptual_items"
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "percent_volume_setup",
+      "description": "Students may confuse percent by volume with a decimal fraction or solve for the wrong volume.",
+      "frequency": "high",
+      "examples": [
+        "Using 18.5 instead of 0.185",
+        "Reporting total solution volume instead of solute volume"
+      ]
+    },
+    {
+      "trap_type": "dilution_relationship",
+      "description": "Students may reverse stock and target concentrations or forget that the final volume belongs to the diluted solution.",
+      "frequency": "high",
+      "examples": [
+        "Using C2V1 = C1V2",
+        "Subtracting volumes before solving for stock solution needed"
+      ]
+    },
+    {
+      "trap_type": "neutralization_mole_ratio",
+      "description": "Balanced coefficients must be used before converting between acid and base amounts.",
+      "frequency": "high",
+      "examples": [
+        "Assuming a 1:1 ratio for H2SO4 and KOH",
+        "Calculating concentration before finding moles of the base"
+      ]
+    },
+    {
+      "trap_type": "conceptual_solvent_precision",
+      "description": "Conceptual responses should connect water polarity to both a benefit and a limitation instead of giving a vague opinion.",
+      "frequency": "medium",
+      "examples": [
+        "Giving only a pro or only a con",
+        "Naming an example without explaining why it works chemically"
+      ]
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve the exact 5-question written-response structure and mark balance while changing contexts, chemicals, and numerical values.",
+    "freshness_requirements": [
+      "Do not copy the source questions verbatim.",
+      "Use new solution contexts, compounds, and values while preserving the same chemistry skills.",
+      "Keep one conceptual solvent question that asks for both an advantage and a disadvantage."
+    ],
+    "constraints": [
+      "Generate exactly 5 written-response questions worth 20 marks total.",
+      "Include one percent by volume question.",
+      "Include one molar concentration question from moles and solution volume.",
+      "Include one dilution question that also asks how to prepare the solution.",
+      "Include one neutralization question that requires a balanced equation with states before solving.",
+      "Include one conceptual explanation question about water as a solvent."
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "sch3u",
+      "unit-4-solutions-solubility",
+      "curated-blueprint"
+    ],
+    "summary_for_retrieval": "Curated SCH3U Unit 4 blueprint with 5 written-response questions covering solution concentration, dilution, neutralization, and water as a solvent.",
+    "teacher_style_signature": [
+      "test_type:constructed_response_unit_test",
+      "sections:1",
+      "written_questions:5",
+      "total_marks:20",
+      "top_topic:solutions_and_concentration"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "solutions_and_concentration",
+      "acid_base_neutralization",
+      "solubility_and_solvents"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unit-4-solutions-solubility",
+      "solution-chemistry"
+    ]
+  },
+  "subject_extensions": {
+    "formulas_expected": [
+      "% (v/v) = Vsolute / Vsolution x 100",
+      "c = n / V",
+      "C1V1 = C2V2",
+      "n = cV"
+    ],
+    "notation_rules": [
+      "Include correct units for all volumes and concentrations.",
+      "Use chemical formulas and state symbols when the reaction context requires them.",
+      "Balance chemical equations with lowest whole-number coefficients before using mole ratios.",
+      "Report final answers with appropriate significant digits."
+    ],
+    "lab_skills": [
+      "safe dilution setup",
+      "describing a preparation procedure",
+      "interpreting solvent properties in context"
+    ],
+    "calculation_modes": [
+      "percent by volume",
+      "molar concentration",
+      "dilution",
+      "acid-base neutralization"
+    ],
+    "topic_specific_constraints": [
+      "Keep the assessment entirely within Unit 4 solutions and solubility.",
+      "Use constructed-response prompts only; do not introduce multiple choice.",
+      "Preserve the expectation that students show complete work."
+    ],
+    "section_topic_overrides": {
+      "section_1": [
+        "solutions_and_concentration",
+        "acid_base_neutralization",
+        "solubility_and_solvents"
+      ]
+    },
+    "section_mark_overrides": {
+      "section_1": [
+        3,
+        3,
+        5,
+        5,
+        4
+      ]
+    },
+    "section_prebuilt_questions": {
+      "section_1": [
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "written_response",
+          "marks": 3,
+          "stem": "A window-cleaning solution is 18.5% (v/v) ammonia. If a bottle contains 750 mL of the solution, what volume of pure ammonia is present?",
+          "answer_hint": "0.185 x 750 mL = 139 mL ammonia approximately"
+        },
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "written_response",
+          "marks": 3,
+          "stem": "A solution is prepared by dissolving 0.180 mol of sodium carbonate, Na2CO3(s), to make 1.50 L of solution. What is the molar concentration of the solution?",
+          "answer_hint": "c = n/V = 0.180/1.50 = 0.120 mol/L"
+        },
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "application",
+          "marks": 5,
+          "stem": "A stock solution of 12.0 mol/L hydrochloric acid, HCl(aq), is available. What volume of stock solution is needed to prepare 500.0 mL of 1.50 mol/L HCl(aq)? Describe how you would prepare the solution.",
+          "answer_hint": "Use C1V1 = C2V2; V1 = (1.50 x 0.5000)/12.0 = 0.0625 L = 62.5 mL. Measure 62.5 mL of stock acid and dilute with water to a final volume of 500.0 mL."
+        },
+        {
+          "topic": "acid_base_neutralization",
+          "question_type": "written_response",
+          "marks": 5,
+          "stem": "If 18.0 mL of KOH(aq) is required to completely neutralize 25.0 mL of 0.150 mol/L H2SO4(aq), what is the concentration of the base? Write the balanced chemical equation, include states, then solve.",
+          "answer_hint": "H2SO4(aq) + 2KOH(aq) -> K2SO4(aq) + 2H2O(l); n(H2SO4) = 0.00375 mol, n(KOH) = 0.00750 mol, c(KOH) = 0.417 mol/L approximately"
+        },
+        {
+          "topic": "solubility_and_solvents",
+          "question_type": "application",
+          "marks": 4,
+          "stem": "Describe one specific example of how water being a good solvent is an advantage and one specific example of how it can be a disadvantage. Explain each example using chemistry ideas.",
+          "answer_hint": "Strong responses connect water polarity to dissolving ionic or polar substances as a benefit and explain a drawback such as corrosion, contamination transport, or inability to dissolve non-polar materials well."
+        }
+      ]
+    }
+  }
+}

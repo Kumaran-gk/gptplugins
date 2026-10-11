@@ -1,0 +1,321 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unit-2-chemical-reactions-test-curated-20260404",
+  "created_at": "2026-04-04T02:15:00-04:00",
+  "title": "Unit 2 Chemical Reactions Test",
+  "subject": "chemistry",
+  "course_code": "SCH3U",
+  "unit": {
+    "unit_name": "Unit 2 Chemical Reactions Test",
+    "chapter_refs": [],
+    "learning_goals": [
+      "Predict products of common reaction types.",
+      "Balance chemical equations accurately.",
+      "Classify reaction types using chemical evidence.",
+      "Use state symbols and notation precisely.",
+      "Apply reaction concepts to lab and real-world contexts."
+    ]
+  },
+  "source_files": [
+    {
+      "file_name": "unit-2-test.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]",
+      "pages_used": [
+        1,
+        2,
+        3
+      ],
+      "notes": "Curated blueprint based on OCR extraction plus manual structure correction from the scanned source."
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.84,
+    "observed_patterns": [
+      "The paper title and course code indicate SCH3U Unit 2 Chemical Reactions Test.",
+      "The paper includes a 25-mark multiple-choice section.",
+      "The paper includes a 35-mark reaction-prediction section focused on products, balancing, states, and reaction type.",
+      "The paper includes an 18-mark application/written-response section with full-sentence expectations.",
+      "Topic signals include displacement, combustion, neutralization, precipitation, and notation precision.",
+      "A 1-mark bonus prompt appears at the end of the scanned source."
+    ],
+    "inferred_patterns": [
+      "The teacher values procedural accuracy and communication accuracy, not only final products.",
+      "The assessment is designed to move from recognition and classification into multi-step written explanation.",
+      "Reaction-content questions and application questions should stay closely tied to Unit 2 chemical reactions rather than broad chemistry topics."
+    ],
+    "evidence_snippets": [
+      {
+        "source_file": "unit-2-test.pdf",
+        "page": 1,
+        "snippet": "Multiple Choice 2/25",
+        "pattern_link": "multiple-choice section"
+      },
+      {
+        "source_file": "unit-2-test.pdf",
+        "page": 1,
+        "snippet": "Predicting Products of All Types of Reactions (35 marks)",
+        "pattern_link": "reaction-prediction section"
+      },
+      {
+        "source_file": "unit-2-test.pdf",
+        "page": 2,
+        "snippet": "Application Questions (18 Marks (Use full sentences for all questions to achieve full marks)",
+        "pattern_link": "application section"
+      }
+    ],
+    "notes": "This curated blueprint corrects OCR header splitting while preserving the scanned paper's observed structure and topic emphasis."
+  },
+  "structure": {
+    "test_type": "mixed_assessment",
+    "total_marks": 78,
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Multiple Choice",
+        "order": 1,
+        "instructions": "Choose the best answer for each question.",
+        "question_types": [
+          "multiple_choice"
+        ],
+        "num_questions": 25,
+        "marks": 25,
+        "skills_targeted": [
+          "reaction classification",
+          "product prediction",
+          "notation precision",
+          "concept recognition"
+        ]
+      },
+      {
+        "section_id": "section_2",
+        "title": "Predicting Products and Classifying Reactions",
+        "order": 2,
+        "instructions": "Predict the product(s), include states where appropriate, balance the equation, and identify the reaction type.",
+        "question_types": [
+          "written_response"
+        ],
+        "num_questions": 8,
+        "marks": 35,
+        "skills_targeted": [
+          "product prediction",
+          "balancing equations",
+          "reaction classification",
+          "state-symbol notation"
+        ]
+      },
+      {
+        "section_id": "section_3",
+        "title": "Application Questions",
+        "order": 3,
+        "instructions": "Use full sentences for all questions to achieve full marks.",
+        "question_types": [
+          "application",
+          "written_response"
+        ],
+        "num_questions": 5,
+        "marks": 18,
+        "skills_targeted": [
+          "real-world transfer",
+          "lab reasoning",
+          "combustion safety",
+          "reaction evidence and testing"
+        ]
+      }
+    ],
+    "ordering_rules": [
+      "Begin with recognition-oriented multiple choice.",
+      "Follow with structured full-solution chemistry questions.",
+      "End with applied written responses tied to lab or real-world chemistry contexts."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "chemical_reactions",
+      "subtopics": [
+        "predicting products",
+        "balancing equations",
+        "reaction classification",
+        "combustion",
+        "neutralization",
+        "single displacement",
+        "double displacement",
+        "precipitation"
+      ],
+      "weight_pct": 78.0,
+      "question_forms": [
+        "multiple_choice",
+        "written_response",
+        "application"
+      ]
+    },
+    {
+      "topic": "lab_and_applications",
+      "subtopics": [
+        "state symbols",
+        "notation precision",
+        "bunsen burner flames",
+        "cleanup testing",
+        "chemical safety",
+        "real-world uses of reactions"
+      ],
+      "weight_pct": 22.0,
+      "question_forms": [
+        "multiple_choice",
+        "written_response",
+        "application"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 56.0,
+    "medium_pct": 34.0,
+    "hard_pct": 10.0,
+    "progression_notes": [
+      "Difficulty should rise from recognition and classification to multi-step balancing and then to contextual explanation.",
+      "The application section should feel slightly more open-ended than the reaction-prediction section."
+    ],
+    "cognitive_skills": [
+      "recall",
+      "classification",
+      "procedural reasoning",
+      "extended reasoning",
+      "application"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions",
+      "command_verb_led",
+      "real_world_context"
+    ],
+    "response_formats": [
+      "written_response",
+      "application"
+    ],
+    "common_verbs": [
+      "predict",
+      "balance",
+      "classify",
+      "compare",
+      "explain",
+      "describe",
+      "include"
+    ],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [],
+    "answer_style_expectations": [
+      "full_sentence_explanations",
+      "notation_precision_required",
+      "balanced_equations_when_requested"
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "product_prediction_error",
+      "description": "Students may misidentify products if they do not first recognize the reaction pattern.",
+      "frequency": "high",
+      "examples": [
+        "Single-displacement product errors",
+        "Incorrect acid-carbonate products"
+      ]
+    },
+    {
+      "trap_type": "balancing_precision",
+      "description": "Correct products may still lose marks when coefficients are missing or incorrect.",
+      "frequency": "high",
+      "examples": [
+        "Unbalanced combustion equations",
+        "Partial balancing only"
+      ]
+    },
+    {
+      "trap_type": "reaction_classification_confusion",
+      "description": "Students may identify the chemistry but mislabel the reaction type.",
+      "frequency": "medium",
+      "examples": [
+        "Confusing synthesis with single displacement",
+        "Confusing neutralization with double displacement more broadly"
+      ]
+    },
+    {
+      "trap_type": "state_symbol_precision",
+      "description": "State symbols appear to matter as part of chemical communication and marking.",
+      "frequency": "medium",
+      "examples": [
+        "Omitting (aq), (s), or (g)",
+        "Assigning incorrect precipitate states"
+      ]
+    },
+    {
+      "trap_type": "application_transfer",
+      "description": "Application questions require students to transfer reaction knowledge into safety, lab, or everyday scenarios.",
+      "frequency": "medium",
+      "examples": [
+        "Combustion in enclosed spaces",
+        "Proving a neutralization reaction occurred"
+      ]
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve the three-part structure, topic emphasis, and precision expectations while generating fresh Unit 2 chemical reaction questions and contexts.",
+    "freshness_requirements": [
+      "Do not copy the scanned source questions verbatim.",
+      "Keep the generated paper anchored to Unit 2 chemical reactions.",
+      "Use fresh reactant combinations, scenarios, and phrasing where possible."
+    ],
+    "constraints": [
+      "Generate 25 multiple-choice questions in the first section.",
+      "Keep a full-solution reaction section that emphasizes products, balancing, states, and classification.",
+      "Keep an application section with real-world or lab-style written questions.",
+      "Maintain emphasis on combustion, displacement, neutralization, precipitation, and notation precision."
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "sch3u",
+      "unit-2-chemical-reactions",
+      "curated-blueprint"
+    ],
+    "summary_for_retrieval": "Curated SCH3U Unit 2 chemical reactions blueprint with 25 multiple choice, 8 reaction full-solution items, and 5 application questions.",
+    "teacher_style_signature": [
+      "test_type:mixed_assessment",
+      "sections:3",
+      "mc_questions:25",
+      "written_questions:13",
+      "top_topic:chemical_reactions"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "chemical_reactions",
+      "lab_and_applications"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unit-2-chemical-reactions",
+      "reaction-patterns"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [
+      "Use state symbols when requested.",
+      "Balance equations using lowest whole-number coefficients.",
+      "Name or classify the reaction type when the prompt calls for it."
+    ],
+    "lab_skills": [
+      "using pH or indicator evidence",
+      "explaining combustion conditions",
+      "connecting observed evidence to reaction claims"
+    ],
+    "topic_specific_constraints": [
+      "Keep reaction content within common SCH3U reaction families for this unit.",
+      "Include at least some items involving displacement, combustion, neutralization, and precipitation.",
+      "Preserve the expectation of full-sentence explanations in the application section."
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unknown-unit-20260404044746",
+  "created_at": "2026-04-04T04:47:46.632698+00:00",
+  "title": "unit-2-test.pdf",
+  "subject": "chemistry",
+  "unit": {
+    "unit_name": "Unknown Unit",
+    "chapter_refs": [],
+    "learning_goals": []
+  },
+  "source_files": [
+    {
+      "file_name": "unit-2-test.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]"
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.45,
+    "observed_patterns": [
+      "Only weak structural signals were detected."
+    ],
+    "inferred_patterns": [
+      "Estimated difficulty profile is easy=50.0%, medium=40.0%, hard=10.0%."
+    ],
+    "notes": "This blueprint was generated from heuristic extraction and analysis. Review recommended before production use."
+  },
+  "structure": {
+    "test_type": "unit_test",
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Main Section",
+        "order": 1
+      }
+    ],
+    "ordering_rules": [
+      "Preserve approximate section flow unless explicitly changed."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "general_content",
+      "weight_pct": 100.0,
+      "subtopics": []
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 50.0,
+    "medium_pct": 40.0,
+    "hard_pct": 10.0,
+    "progression_notes": [
+      "Difficulty estimated from document-level text size because question detection was weak."
+    ],
+    "cognitive_skills": [
+      "mixed_recall_and_procedure"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions"
+    ],
+    "response_formats": [
+      "constructed_response"
+    ],
+    "common_verbs": [],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [],
+    "answer_style_expectations": []
+  },
+  "trap_patterns": [],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+    "freshness_requirements": [
+      "Do not copy source questions verbatim.",
+      "Use new surface contexts, values, or examples where appropriate."
+    ],
+    "constraints": [
+      "Top detected topics: "
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "unknown-unit"
+    ],
+    "summary_for_retrieval": "chemistry blueprint for Unknown Unit with emphasis on detected topic weighting and teacher-style structure.",
+    "teacher_style_signature": [
+      "test_type:unit_test",
+      "sections:0",
+      "question_candidates:0",
+      "top_topic:unknown"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "general_content"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unknown-unit"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [],
+    "topic_specific_constraints": [],
+    "lab_skills": []
+  }
+}

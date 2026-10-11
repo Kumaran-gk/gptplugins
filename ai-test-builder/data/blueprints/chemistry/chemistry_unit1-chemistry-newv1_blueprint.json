@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unknown-unit-20260414040509",
+  "created_at": "2026-04-14T04:05:09.099932+00:00",
+  "title": "Unit1-Chemistry-NewV1.pdf",
+  "subject": "chemistry",
+  "unit": {
+    "unit_name": "Unknown Unit",
+    "chapter_refs": [],
+    "learning_goals": []
+  },
+  "source_files": [
+    {
+      "file_name": "Unit1-Chemistry-NewV1.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]",
+      "pages_used": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.7,
+    "observed_patterns": [
+      "Possible title detected: NE EE hh",
+      "Detected question numbering up to about 184.",
+      "Question numbering gaps detected: [1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183]",
+      "Possible course code detected: SCH3U",
+      "Topic signal detected for atomic_structure via keywords: atomic, electron",
+      "Topic signal detected for lab_and_applications via keywords: observation",
+      "Written-response precision language appears in the source test."
+    ],
+    "inferred_patterns": [
+      "The assessment likely emphasizes atomic_structure.",
+      "Estimated difficulty profile is easy=63.64%, medium=36.36%, hard=0.0%.",
+      "The assessment likely uses precision and setup traps as part of its design."
+    ],
+    "notes": "This blueprint was generated from heuristic extraction and analysis. Review recommended before production use."
+  },
+  "structure": {
+    "test_type": "unit_test",
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Main Section",
+        "order": 1,
+        "num_questions": 11
+      }
+    ],
+    "ordering_rules": [
+      "Preserve approximate section flow unless explicitly changed."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "atomic_structure",
+      "weight_pct": 80.0,
+      "subtopics": [
+        "atomic",
+        "electron"
+      ]
+    },
+    {
+      "topic": "lab_and_applications",
+      "weight_pct": 20.0,
+      "subtopics": [
+        "observation"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 63.64,
+    "medium_pct": 36.36,
+    "hard_pct": 0.0,
+    "progression_notes": [
+      "Detected question difficulty appears relatively mixed across the test."
+    ],
+    "cognitive_skills": [
+      "procedural_problem_solving",
+      "extended_reasoning"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions",
+      "command_verb_led"
+    ],
+    "response_formats": [
+      "constructed_response"
+    ],
+    "common_verbs": [
+      "identify",
+      "name",
+      "calculate",
+      "explain"
+    ],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [
+      "diagram_or_visual_interpretation_possible"
+    ],
+    "answer_style_expectations": []
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "written_precision",
+      "description": "Written-response expectations may penalize incomplete reasoning, not just factual errors.",
+      "frequency": "medium",
+      "examples": [
+        "Use full sentences or explain reasoning clearly."
+      ]
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+    "freshness_requirements": [
+      "Do not copy source questions verbatim.",
+      "Use new surface contexts, values, or examples where appropriate."
+    ],
+    "constraints": [
+      "Top detected topics: atomic_structure, lab_and_applications"
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "sch3u",
+      "unknown-unit"
+    ],
+    "summary_for_retrieval": "chemistry blueprint for Unknown Unit with emphasis on detected topic weighting and teacher-style structure.",
+    "teacher_style_signature": [
+      "test_type:unit_test",
+      "sections:0",
+      "question_candidates:11",
+      "top_topic:atomic_structure"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "atomic_structure",
+      "lab_and_applications"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unknown-unit"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [],
+    "topic_specific_constraints": [],
+    "lab_skills": [
+      "Observation, procedure interpretation, and lab-style reasoning may be required."
+    ]
+  },
+  "course_code": "SCH3U"
+}

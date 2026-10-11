@@ -1,0 +1,158 @@
+{
+  "file_name": "Unit2-Chemistry-NewV1.pdf",
+  "file_type": "pdf",
+  "source_kind": "scanned_pdf",
+  "section_candidates": [
+    {
+      "title": "Multiple Choice /25",
+      "line_index": 3,
+      "mark_hint": null,
+      "evidence": "Multiple Choice /25 |",
+      "detection_type": "keyword_section_header",
+      "end_line": 5
+    },
+    {
+      "title": "Predicting Products of All Types of Reactions (35 marks) Tota a",
+      "line_index": 6,
+      "mark_hint": 35,
+      "evidence": "Predicting Products of All Types of Reactions (35 marks) Tota a /",
+      "detection_type": "mark_based_section_header",
+      "end_line": 21
+    },
+    {
+      "title": "Application Questions (1% Marks) (Use fall sentences for 2ll questions t© achieve fall marks)",
+      "line_index": 22,
+      "mark_hint": null,
+      "evidence": "Application Questions (1% Marks) (Use fall sentences for 2ll questions t© achieve fall marks) =",
+      "detection_type": "keyword_section_header",
+      "end_line": 41
+    },
+    {
+      "title": "oad Sa a ee (2 marks)",
+      "line_index": 42,
+      "mark_hint": 2,
+      "evidence": "oad Sa a ee (2 marks)",
+      "detection_type": "mark_based_section_header",
+      "end_line": 51
+    },
+    {
+      "title": "about the test(s) you would use AND the results of the test(s ). (4 Marks)",
+      "line_index": 52,
+      "mark_hint": 4,
+      "evidence": "about the test(s) you would use AND the results of the test(s ). (4 Marks)",
+      "detection_type": "mark_based_section_header",
+      "end_line": 60
+    }
+  ],
+  "question_candidates": [
+    {
+      "question_number": 1,
+      "line_index": 11,
+      "raw_header": "Y/Y 1.) AgNOs(aq) + MgBrocaq) Ag bees La Ay AV. 92), py 0 a w",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": ") AgNOs(aq) + MgBrocaq) Ag bees La Ay AV. 92), py 0 a w"
+    },
+    {
+      "question_number": 2,
+      "line_index": 13,
+      "raw_header": "yu 2.2Na20o) ae) + oe Gi 0 Pa",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "2Na20o) ae) + oe Gi 0 Pa"
+    },
+    {
+      "question_number": 4,
+      "line_index": 14,
+      "raw_header": "TI 4, Mg(OH)a(aq) + 2 BBriq) ce \"Boe u PaO) np",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Mg(OH)a(aq) + 2 BBriq) ce \"Boe u PaO) np"
+    },
+    {
+      "question_number": 3,
+      "line_index": 17,
+      "raw_header": "3)3 7. Na20¢q) + SO3¢) = Vy. . nae LU",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "3 7. Na20¢q) + SO3¢) = Vy. . nae LU"
+    },
+    {
+      "question_number": 8,
+      "line_index": 18,
+      "raw_header": "[ 8. Combustion of methane when a blue flame forms (CHa) |",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Combustion of methane when a blue flame forms (CHa) |"
+    },
+    {
+      "question_number": 2,
+      "line_index": 38,
+      "raw_header": "3. 2) Whea properly lishtine and adjusting 2 Bunsen bumer. why does the flame man from orange to bine?",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Whea properly lishtine and adjusting 2 Bunsen bumer. why does the flame man from orange to bine?"
+    },
+    {
+      "question_number": 4,
+      "line_index": 44,
+      "raw_header": "4. Your friend wants to BBQ steaks for dinner. It starts to rain so they move the BBQ (which uses a",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Your friend wants to BBQ steaks for dinner. It starts to rain so they move the BBQ (which uses a"
+    },
+    {
+      "question_number": 5,
+      "line_index": 49,
+      "raw_header": "5. Many neutralization reactions, such as the case of a KOH aq spill being neutralized with cola, H3PO4(eq),",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Many neutralization reactions, such as the case of a KOH aq spill being neutralized with cola, H3PO4(eq),"
+    },
+    {
+      "question_number": 2,
+      "line_index": 53,
+      "raw_header": "2, You 50 j Ay 7 } r > oe",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "You 50 j Ay 7 } r > oe"
+    }
+  ],
+  "numbering_patterns": {
+    "question_count_estimate": 6,
+    "unique_question_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ],
+    "is_strictly_increasing": false,
+    "gaps": [
+      6,
+      7
+    ],
+    "min_question_number": 1,
+    "max_question_number": 8
+  },
+  "multiple_choice_signals": {
+    "likely_multiple_choice_present": false,
+    "option_line_count": 0,
+    "inline_option_line_count": 0,
+    "example_lines": []
+  },
+  "layout_signals": {
+    "title_candidate": "lh OC OO ll a hl eee _ ee ee",
+    "has_total_marks_signal": false,
+    "has_written_test_signal": false,
+    "mark_mentions_count": 9,
+    "line_count": 60
+  },
+  "observed_patterns": [
+    "Possible title detected: lh OC OO ll a hl eee _ ee ee",
+    "Detected approximately 5 section candidate(s).",
+    "Detected question numbering up to about 8.",
+    "Question numbering gaps detected: [6, 7]"
+  ]
+}

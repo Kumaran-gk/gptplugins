@@ -1,0 +1,54 @@
+{
+  "question_count": 7,
+  "answer_key_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "answer_hint": "87.4 g Na2CO3 approximately"
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "answer_hint": "1.81 × 10^24 oxygen atoms approximately"
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "CH2O is the empirical formula; molecular formula C2H4O2"
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 8,
+      "answer_hint": "0.494 mol MgO approximately after using the 2Mg + O2 -> 2MgO ratio"
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 4,
+      "answer_hint": "HCl + NaOH -> NaCl + H2O; 14.6 g NaCl approximately"
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 10,
+      "answer_hint": "H2SO4 + 2KOH -> K2SO4 + 2H2O; 5.74 g K2SO4 approximately"
+    },
+    {
+      "question_number": 7,
+      "topic": "stoichiometry",
+      "question_type": "application",
+      "marks": 6,
+      "answer_hint": "80.1% yield approximately; actual yield is lower than theoretical, likely due to product loss or incomplete recovery."
+    }
+  ]
+}

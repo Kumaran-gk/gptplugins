@@ -1,0 +1,162 @@
+{
+  "blueprint_id": "chemistry-unit-2-chemical-reactions-test-curated-20260404",
+  "title": "Unit 2 Chemical Reactions Test",
+  "subject": "chemistry",
+  "unit_name": "Unit 2 Chemical Reactions Test",
+  "version_label": "verK",
+  "preserve_structure": true,
+  "reuse_prohibited": true,
+  "variation_policy": "Preserve the three-part structure, topic emphasis, and precision expectations while generating fresh Unit 2 chemical reaction questions and contexts.",
+  "section_plans": [
+    {
+      "section_id": "section_1",
+      "title": "Multiple Choice",
+      "order": 1,
+      "instructions": "Choose the best answer for each question.",
+      "num_questions": 25,
+      "question_types": [
+        "multiple_choice"
+      ],
+      "marks": 25,
+      "timing_notes": null,
+      "target_topics": [
+        "chemical_reactions",
+        "lab_and_applications"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 56.0,
+        "medium_pct": 34.0,
+        "hard_pct": 10.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "predict",
+          "balance",
+          "classify",
+          "compare",
+          "explain",
+          "describe",
+          "include"
+        ],
+        "answer_style_expectations": [
+          "full_sentence_explanations",
+          "notation_precision_required",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "challenging",
+      "source_snippets": [],
+      "estimated_question_count": 25
+    },
+    {
+      "section_id": "section_2",
+      "title": "Predicting Products and Classifying Reactions",
+      "order": 2,
+      "instructions": "Predict the product(s), include states where appropriate, balance the equation, and identify the reaction type.",
+      "num_questions": 8,
+      "question_types": [
+        "written_response"
+      ],
+      "marks": 35,
+      "timing_notes": null,
+      "target_topics": [
+        "chemical_reactions",
+        "lab_and_applications"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 56.0,
+        "medium_pct": 34.0,
+        "hard_pct": 10.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "predict",
+          "balance",
+          "classify",
+          "compare",
+          "explain",
+          "describe",
+          "include"
+        ],
+        "answer_style_expectations": [
+          "full_sentence_explanations",
+          "notation_precision_required",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "challenging",
+      "source_snippets": [],
+      "estimated_question_count": 8
+    },
+    {
+      "section_id": "section_3",
+      "title": "Application Questions",
+      "order": 3,
+      "instructions": "Use full sentences for all questions to achieve full marks.",
+      "num_questions": 5,
+      "question_types": [
+        "application",
+        "written_response"
+      ],
+      "marks": 18,
+      "timing_notes": null,
+      "target_topics": [
+        "chemical_reactions",
+        "lab_and_applications"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 56.0,
+        "medium_pct": 34.0,
+        "hard_pct": 10.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "predict",
+          "balance",
+          "classify",
+          "compare",
+          "explain",
+          "describe",
+          "include"
+        ],
+        "answer_style_expectations": [
+          "full_sentence_explanations",
+          "notation_precision_required",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "challenging",
+      "source_snippets": [],
+      "estimated_question_count": 5
+    }
+  ],
+  "top_topics": [
+    "chemical_reactions",
+    "lab_and_applications"
+  ],
+  "complexity_mode": "challenging",
+  "difficulty_profile": {
+    "easy_pct": 56.0,
+    "medium_pct": 34.0,
+    "hard_pct": 10.0
+  },
+  "generation_constraints": [
+    "Generate 25 multiple-choice questions in the first section.",
+    "Keep a full-solution reaction section that emphasizes products, balancing, states, and classification.",
+    "Keep an application section with real-world or lab-style written questions.",
+    "Maintain emphasis on combustion, displacement, neutralization, precipitation, and notation precision."
+  ],
+  "content_grounding_summary": null
+}

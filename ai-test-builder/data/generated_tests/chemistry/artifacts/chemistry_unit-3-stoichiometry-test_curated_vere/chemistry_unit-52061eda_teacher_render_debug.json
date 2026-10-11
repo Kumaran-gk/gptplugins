@@ -1,0 +1,54 @@
+{
+  "question_count": 7,
+  "answer_key_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "answer_hint": "0.0898 mol Ca(NO3)2 approximately"
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "answer_hint": "255 g K3PO4 approximately"
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "2.71 x 10^24 oxygen atoms approximately"
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 8,
+      "answer_hint": "Empirical formula C3H6O2; molecular formula C3H6O2"
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 4,
+      "answer_hint": "14.2 g P4O10 approximately after using P4 + 5O2 -> P4O10"
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 10,
+      "answer_hint": "H2SO4 + 2NaOH -> Na2SO4 + 2H2O; 7.10 g Na2SO4 approximately"
+    },
+    {
+      "question_number": 7,
+      "topic": "stoichiometry",
+      "question_type": "application",
+      "marks": 6,
+      "answer_hint": "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3; actual precipitate mass = 1.42 g; theoretical yield is about 1.89 g PbI2; percentage yield is about 75.1%"
+    }
+  ]
+}

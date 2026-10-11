@@ -1,0 +1,278 @@
+{
+  "status": "ok",
+  "skill": "build-test-pack",
+  "subject": "chemistry",
+  "subject_slug": "chemistry",
+  "input_files": [
+    "[LOCAL PATH REMOVED]"
+  ],
+  "blueprint_files": [
+    "[LOCAL PATH REMOVED]"
+  ],
+  "unit_content_files": [],
+  "versions_requested": [
+    "verA"
+  ],
+  "include_teacher": true,
+  "export_formats": [
+    "pdf"
+  ],
+  "build_cumulative": false,
+  "unit_weights": {},
+  "unit_content_bundle_path": null,
+  "unit_content_text_path": null,
+  "unit_content_summary": null,
+  "analysis_result": {
+    "status": "ok",
+    "skill": "analyze-test",
+    "subject": "chemistry",
+    "subject_slug": "chemistry",
+    "schema_path": "[LOCAL PATH REMOVED]",
+    "extracted_files": [
+      {
+        "input_file": "[LOCAL PATH REMOVED]",
+        "file_kind": "pdf",
+        "file_name": "ChemistryUnit4.pdf",
+        "source_kind": "scanned_pdf",
+        "page_count": 2,
+        "segment_count": 2,
+        "char_count": 2205,
+        "preview": "SCH 3U Unit 4 Solutions and Solubility Test Name: [REDACTED]\nMultiple Choice 17/20\n\n1. Your blood contains about 0.72% (v/v) white blood cells (leukocytes), which are essential for fighting infections.\nAssuming you have a blood volume of about 4,0 L, what volume of pure leukocytes is present? 3 marks\n\nVolume of ‘golihe ( e loo\n\n3 (v 2) = “Velie ah wel ae t ides pon Ay x\\O- L of\n0. 72 - Vp lume of isle 100 pve ae 19\n0.4. Ot. presen\nVolume of sb te = 0.72 * 40 E\n\ne 0283 -=0 9\naa 0.02.33 ae\n\n2. Asolution is prepared by dissolving 0.25 mol of copper (Il) sulfate, CuSO, (s), in a 50.0 L volumetric flask of water.\nWhat is the molar concentration of this solution? 3 marks\n\nne 0.25 mol ys 50,0L\n\nc:n\nV\nc= (0.25 mol ote mol canesboh .\n50.0 L of Mis solyhian ae ee,\nus\n5.0 «1079 ol /L 0.005\n\n= 750% 10° mol /L\n\n\nCc:\n3. Astock solution of 16 movL nitric acid, HNOs (aq) is available. What volume of stock solution would you need to\npid orn make 2.0 L of 4.0 moV/L aqueous nitric acid solution. How wou",
+        "title_candidate": "SCH 3U Unit 4 Solutions and Solubility Test Name: [REDACTED]",
+        "section_candidate_count": 1,
+        "question_candidate_count": 12,
+        "multiple_choice_detected": false,
+        "course_code": null,
+        "unit_name": "Unit 4 Solutions and Solubility Test Name",
+        "topic_distribution": [
+          {
+            "topic": "solutions_and_concentration",
+            "weight_pct": 100.0,
+            "matched_keywords": [
+              "solution",
+              "solutions",
+              "solute",
+              "concentration",
+              "molar concentration"
+            ]
+          }
+        ],
+        "difficulty_profile": {
+          "easy_pct": 91.67,
+          "medium_pct": 8.33,
+          "hard_pct": 0.0,
+          "analysis_confidence": "medium"
+        },
+        "cognitive_skills": [
+          "extended_reasoning"
+        ],
+        "trap_pattern_count": 3,
+        "observed_patterns": [
+          "Possible title detected: SCH 3U Unit 4 Solutions and Solubility Test Name: [REDACTED]",
+          "Detected approximately 1 section candidate(s).",
+          "Detected question numbering up to about 72.",
+          "Question numbering gaps detected: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]"
+        ],
+        "observed_topic_signals": [
+          "Possible unit/chapter detected: Unit 4 Solutions and Solubility Test Name",
+          "Topic signal detected for solutions_and_concentration via keywords: solution, solutions, solute, concentration, molar concentration"
+        ],
+        "debug_json_path": "[LOCAL PATH REMOVED]",
+        "pattern_debug_path": "[LOCAL PATH REMOVED]",
+        "analysis_debug_path": "[LOCAL PATH REMOVED]",
+        "validation_debug_path": "[LOCAL PATH REMOVED]",
+        "blueprint_path": "[LOCAL PATH REMOVED]",
+        "blueprint_valid": true,
+        "blueprint_error_count": 0,
+        "memory_record_path": "[LOCAL PATH REMOVED]"
+      }
+    ],
+    "blueprint_outputs": [
+      {
+        "input_file": "[LOCAL PATH REMOVED]",
+        "blueprint_valid": true,
+        "blueprint_path": "[LOCAL PATH REMOVED]",
+        "validation_errors": [],
+        "memory_record_path": "[LOCAL PATH REMOVED]"
+      }
+    ],
+    "overall_observed_patterns": [
+      "Possible title detected: SCH 3U Unit 4 Solutions and Solubility Test Name: [REDACTED]",
+      "Detected approximately 1 section candidate(s).",
+      "Detected question numbering up to about 72.",
+      "Question numbering gaps detected: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]"
+    ],
+    "overall_topic_signals": [
+      "Possible unit/chapter detected: Unit 4 Solutions and Solubility Test Name",
+      "Topic signal detected for solutions_and_concentration via keywords: solution, solutions, solute, concentration, molar concentration"
+    ],
+    "next_implementation_stage": [
+      "improve OCR cleanup and structure detection quality",
+      "deepen subject-specific extensions beyond current heuristics",
+      "expand retrieval and cumulative-flow test coverage",
+      "reduce extraction noise in saved blueprint titles and patterns"
+    ]
+  },
+  "version_results": [
+    {
+      "status": "ok",
+      "skill": "generate-test",
+      "subject": "chemistry",
+      "subject_slug": "chemistry",
+      "output_generated_dir": "[LOCAL PATH REMOVED]",
+      "artifact_root_dir": "[LOCAL PATH REMOVED]",
+      "export_formats": [
+        "pdf"
+      ],
+      "generation_backend": "template",
+      "openai_model": null,
+      "content_grounding_summary": null,
+      "blueprint_resolution": {
+        "resolved_paths": [
+          "[LOCAL PATH REMOVED]"
+        ],
+        "discovery_results": [],
+        "resolution_mode": "explicit_paths"
+      },
+      "generation_outputs": [
+        {
+          "blueprint_file": "[LOCAL PATH REMOVED]",
+          "blueprint_valid": true,
+          "blueprint_error_count": 0,
+          "blueprint_summary": {
+            "title": "Unit 4 Solutions and Solubility Test Name",
+            "subject": "chemistry",
+            "course_code": null,
+            "unit_name": "Unit 4 Solutions and Solubility Test Name",
+            "test_type": "multiple_choice_test",
+            "section_count": 1,
+            "top_topics": [
+              "solutions_and_concentration"
+            ],
+            "difficulty_profile": {
+              "easy_pct": 91.67,
+              "medium_pct": 8.33,
+              "hard_pct": 0.0
+            },
+            "response_formats": [
+              "constructed_response"
+            ],
+            "common_verbs": [
+              "state",
+              "name",
+              "balance",
+              "solve",
+              "explain"
+            ],
+            "trap_count": 3
+          },
+          "content_grounding_summary": null,
+          "generation_backend": "template",
+          "openai_model": null,
+          "generation_plan": {
+            "blueprint_id": "chemistry-unit-4-solutions-and-solubility-test-name-20260618005721",
+            "title": "Unit 4 Solutions and Solubility Test Name",
+            "subject": "chemistry",
+            "unit_name": "Unit 4 Solutions and Solubility Test Name",
+            "version_label": "verA",
+            "preserve_structure": true,
+            "reuse_prohibited": true,
+            "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+            "section_plans": [
+              {
+                "section_id": "section_1",
+                "title": "Multiple Choice",
+                "order": 1,
+                "instructions": null,
+                "num_questions": 12,
+                "question_types": [
+                  "multiple_choice"
+                ],
+                "marks": 20,
+                "question_marks": [],
+                "prebuilt_questions": [],
+                "timing_notes": null,
+                "target_topics": [
+                  "solutions_and_concentration"
+                ],
+                "target_difficulty_profile": {
+                  "easy_pct": 91.67,
+                  "medium_pct": 8.33,
+                  "hard_pct": 0.0
+                },
+                "response_formats": [
+                  "constructed_response"
+                ],
+                "style_constraints": {
+                  "common_verbs": [
+                    "state",
+                    "name",
+                    "balance",
+                    "solve",
+                    "explain"
+                  ],
+                  "answer_style_expectations": [
+                    "notation_precision_required"
+                  ]
+                },
+                "complexity_mode": "standard",
+                "source_snippets": [],
+                "estimated_question_count": 12
+              }
+            ],
+            "top_topics": [
+              "solutions_and_concentration"
+            ],
+            "complexity_mode": "standard",
+            "difficulty_profile": {
+              "easy_pct": 91.67,
+              "medium_pct": 8.33,
+              "hard_pct": 0.0
+            },
+            "generation_constraints": [
+              "Preserve balancing-style chemistry questions.",
+              "Preserve notation/state-symbol expectations.",
+              "Top detected topics: solutions_and_concentration"
+            ],
+            "content_grounding_summary": null
+          },
+          "artifact_dir": "[LOCAL PATH REMOVED]",
+          "question_count": 12,
+          "student_test_path": "[LOCAL PATH REMOVED]",
+          "teacher_test_path": "[LOCAL PATH REMOVED]",
+          "student_docx_path": null,
+          "teacher_docx_path": null,
+          "student_pdf_path": "[LOCAL PATH REMOVED]",
+          "teacher_pdf_path": "[LOCAL PATH REMOVED]",
+          "student_test_preview": "# Unit 4 Solutions and Solubility Test Name - Student Version (verA)\n\n**Subject:** chemistry\n**Unit:** Unit 4 Solutions and Solubility Test Name\n\n**Instructions:** Answer all questions. Show full work where required. Write clearly and use appropriate notation.\n\n\n## Multiple Choice\n\n*Section Plan: 12 questions | 20 marks*\n\n1. Which choice best reflects the kind of reasoning required in this section? Select the most accurate option. (1 mark)\n   A. Guesswork only\n   B. Random selection\n   C. Careful use of evidence and method\n   D. Memorization without understanding\n\n2. Which statement is most accurate about the topic being assessed in this section? (1 mark)\n   A. It cannot be evaluated using evidence\n   B. It has no relationship to the unit goals\n   C. It depends on a single isolated fact on",
+          "generation_plan_debug_path": "[LOCAL PATH REMOVED]",
+          "render_debug_path": "[LOCAL PATH REMOVED]",
+          "teacher_debug_path": "[LOCAL PATH REMOVED]",
+          "validation_debug_path": "[LOCAL PATH REMOVED]",
+          "memory_record_path": "[LOCAL PATH REMOVED]"
+        }
+      ],
+      "next_implementation_stage": [
+        "improve question richness and variation quality",
+        "deepen subject-specific generation constraints and variation",
+        "expand retrieval and blueprint-resolution tests",
+        "reduce repeated template usage across generated versions"
+      ]
+    }
+  ],
+  "cumulative_result": null,
+  "generated_student_paths": [
+    "[LOCAL PATH REMOVED]"
+  ],
+  "generated_teacher_paths": [
+    "[LOCAL PATH REMOVED]"
+  ],
+  "generated_student_docx_paths": [],
+  "generated_teacher_docx_paths": [],
+  "generated_student_pdf_paths": [
+    "[LOCAL PATH REMOVED]"
+  ],
+  "generated_teacher_pdf_paths": [
+    "[LOCAL PATH REMOVED]"
+  ]
+}

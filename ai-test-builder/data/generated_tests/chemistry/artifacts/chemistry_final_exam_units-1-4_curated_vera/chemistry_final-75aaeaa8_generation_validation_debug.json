@@ -1,0 +1,22 @@
+{
+  "is_valid": false,
+  "error_count": 4,
+  "errors": [
+    {
+      "path": "source_files.0.file_type",
+      "message": "'json' is not one of ['pdf', 'docx', 'txt', 'other']"
+    },
+    {
+      "path": "source_files.1.file_type",
+      "message": "'json' is not one of ['pdf', 'docx', 'txt', 'other']"
+    },
+    {
+      "path": "source_files.2.file_type",
+      "message": "'json' is not one of ['pdf', 'docx', 'txt', 'other']"
+    },
+    {
+      "path": "source_files.3.file_type",
+      "message": "'json' is not one of ['pdf', 'docx', 'txt', 'other']"
+    }
+  ]
+}

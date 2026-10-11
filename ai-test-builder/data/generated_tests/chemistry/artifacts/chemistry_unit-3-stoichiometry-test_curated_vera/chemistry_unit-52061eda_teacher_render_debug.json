@@ -1,0 +1,54 @@
+{
+  "question_count": 7,
+  "answer_key_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "0.751 mol MgCl2 approximately"
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "87.4 g Na2CO3 approximately"
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "1.81 × 10^24 oxygen atoms approximately"
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "CH2O is the empirical formula; molecular formula C2H4O2"
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "0.494 mol MgO approximately after using the 2Mg + O2 -> 2MgO ratio"
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "HCl + NaOH -> NaCl + H2O; 14.6 g NaCl approximately"
+    },
+    {
+      "question_number": 7,
+      "topic": "lab_and_applications",
+      "question_type": "application",
+      "marks": 4,
+      "answer_hint": "A strong response names a suitable test such as pH paper or a pH probe and states the expected near-neutral result, with chemistry reasoning."
+    }
+  ]
+}

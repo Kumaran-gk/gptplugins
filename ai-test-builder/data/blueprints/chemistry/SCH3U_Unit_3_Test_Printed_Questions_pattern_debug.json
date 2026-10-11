@@ -1,0 +1,99 @@
+{
+  "file_name": "SCH3U_Unit_3_Test_Printed_Questions.pdf",
+  "file_type": "pdf",
+  "source_kind": "text_pdf",
+  "section_candidates": [],
+  "question_candidates": [
+    {
+      "question_number": 1,
+      "line_index": 3,
+      "raw_header": "1. Calculate the amount of moles of 356 formula units of tin (II) borate, Sn₃(BO₃)₂(s). 2 marks",
+      "mark_hint": 2,
+      "question_type_guess": "calculation_or_solution",
+      "preview": "Calculate the amount of moles of 356 formula units of tin (II) borate, Sn₃(BO₃)₂(s). 2 marks"
+    },
+    {
+      "question_number": 2,
+      "line_index": 4,
+      "raw_header": "2. Calculate the mass of 0.59 mol of glucose, C₆H₁₂O₆(s). 2 marks",
+      "mark_hint": 2,
+      "question_type_guess": "calculation_or_solution",
+      "preview": "Calculate the mass of 0.59 mol of glucose, C₆H₁₂O₆(s). 2 marks"
+    },
+    {
+      "question_number": 3,
+      "line_index": 5,
+      "raw_header": "3. How many atoms of carbon are in a fuel tank containing 2.0 x 10² mol of propane, C₃H₈(g)? 3 marks",
+      "mark_hint": 3,
+      "question_type_guess": "unknown",
+      "preview": "How many atoms of carbon are in a fuel tank containing 2.0 x 10² mol of propane, C₃H₈(g)? 3 marks"
+    },
+    {
+      "question_number": 4,
+      "line_index": 6,
+      "raw_header": "4. The percentage composition of butanoic acid is 54.5% carbon, 9.1% hydrogen and 36.4% oxygen.",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "The percentage composition of butanoic acid is 54.5% carbon, 9.1% hydrogen and 36.4% oxygen."
+    },
+    {
+      "question_number": 5,
+      "line_index": 9,
+      "raw_header": "5. In excess oxygen, aluminum oxidizes and corrodes to form aluminum oxide. Calculate the amount (in",
+      "mark_hint": null,
+      "question_type_guess": "calculation_or_solution",
+      "preview": "In excess oxygen, aluminum oxidizes and corrodes to form aluminum oxide. Calculate the amount (in"
+    },
+    {
+      "question_number": 2,
+      "line_index": 11,
+      "raw_header": "6. If 2.0 g of aqueous hydrogen sulfide reacts with 5.0 g of aqueous sodium hydroxide, what mass of",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "0 g of aqueous hydrogen sulfide reacts with 5.0 g of aqueous sodium hydroxide, what mass of"
+    },
+    {
+      "question_number": 7,
+      "line_index": 14,
+      "raw_header": "7. Use the lab data below to determine the percentage yield of the silver chloride, AgCl(s), precipitate in",
+      "mark_hint": null,
+      "question_type_guess": "calculation_or_solution",
+      "preview": "Use the lab data below to determine the percentage yield of the silver chloride, AgCl(s), precipitate in"
+    }
+  ],
+  "numbering_patterns": {
+    "question_count_estimate": 6,
+    "unique_question_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "is_strictly_increasing": false,
+    "gaps": [
+      6
+    ],
+    "min_question_number": 1,
+    "max_question_number": 7
+  },
+  "multiple_choice_signals": {
+    "likely_multiple_choice_present": false,
+    "option_line_count": 0,
+    "inline_option_line_count": 0,
+    "example_lines": []
+  },
+  "layout_signals": {
+    "title_candidate": "SCH 3U Unit 3 Test",
+    "has_total_marks_signal": false,
+    "has_written_test_signal": false,
+    "mark_mentions_count": 6,
+    "line_count": 21
+  },
+  "observed_patterns": [
+    "Possible title detected: SCH 3U Unit 3 Test",
+    "Detected question numbering up to about 7.",
+    "Question numbering gaps detected: [6]"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "blueprint_id": "chemistry-unit-3-stoichiometry-test-curated-20260513",
+  "title": "Unit 3 Stoichiometry Test",
+  "subject": "chemistry",
+  "unit_name": "Unit 3 Stoichiometry Test",
+  "version_label": "verE",
+  "preserve_structure": true,
+  "reuse_prohibited": true,
+  "variation_policy": "Preserve the exact 7-question constructed-response stoichiometry layout and mark emphasis while changing compounds, values, and contexts.",
+  "section_plans": [
+    {
+      "section_id": "section_1",
+      "title": "Foundational Stoichiometry Calculations",
+      "order": 1,
+      "instructions": "Show all work. Include units and use appropriate significant digits.",
+      "num_questions": 3,
+      "question_types": [
+        "written_response"
+      ],
+      "marks": 7,
+      "question_marks": [
+        2,
+        2,
+        3
+      ],
+      "prebuilt_questions": [
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 2,
+          "stem": "Calculate the amount of substance in moles for 5.41 x 10^22 formula units of calcium nitrate, Ca(NO3)2(s).",
+          "answer_hint": "0.0898 mol Ca(NO3)2 approximately"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 2,
+          "stem": "Calculate the mass of 1.20 mol of potassium phosphate, K3PO4(s).",
+          "answer_hint": "255 g K3PO4 approximately"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 3,
+          "stem": "How many oxygen atoms are present in 2.25 mol of sulfur dioxide, SO2(g)?",
+          "answer_hint": "2.71 x 10^24 oxygen atoms approximately"
+        }
+      ],
+      "timing_notes": null,
+      "target_topics": [
+        "stoichiometry"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 29.0,
+        "medium_pct": 51.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "calculate",
+          "determine",
+          "write",
+          "use"
+        ],
+        "answer_style_expectations": [
+          "show_full_work",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 3
+    },
+    {
+      "section_id": "section_2",
+      "title": "Composition and Reaction Stoichiometry",
+      "order": 2,
+      "instructions": "Show a complete stoichiometric setup. Write and balance any required chemical equation before solving.",
+      "num_questions": 3,
+      "question_types": [
+        "written_response"
+      ],
+      "marks": 22,
+      "question_marks": [
+        8,
+        4,
+        10
+      ],
+      "prebuilt_questions": [
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 8,
+          "stem": "A compound is 48.6% carbon, 8.16% hydrogen, and 43.2% oxygen by mass. Its molar mass is 74.1 g/mol. Determine the molecular formula of the compound.",
+          "answer_hint": "Empirical formula C3H6O2; molecular formula C3H6O2"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 4,
+          "stem": "In excess oxygen, phosphorus reacts to form tetraphosphorus decoxide, P4O10(s). Calculate the mass of P4O10 produced when 6.20 g of P4(s) is used.",
+          "answer_hint": "14.2 g P4O10 approximately after using P4 + 5O2 -> P4O10"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 10,
+          "stem": "Sulfuric acid reacts with sodium hydroxide to produce sodium sulfate and water. If 4.90 g of H2SO4(aq) reacts completely with excess NaOH(aq), what mass of Na2SO4(s) is produced? Write a balanced chemical equation for the reaction.",
+          "answer_hint": "H2SO4 + 2NaOH -> Na2SO4 + 2H2O; 7.10 g Na2SO4 approximately"
+        }
+      ],
+      "timing_notes": null,
+      "target_topics": [
+        "stoichiometry"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 29.0,
+        "medium_pct": 51.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "calculate",
+          "determine",
+          "write",
+          "use"
+        ],
+        "answer_style_expectations": [
+          "show_full_work",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 3
+    },
+    {
+      "section_id": "section_3",
+      "title": "Lab Yield Analysis",
+      "order": 3,
+      "instructions": "Use the data provided to determine theoretical yield and percent yield. Show your setup clearly.",
+      "num_questions": 1,
+      "question_types": [
+        "application"
+      ],
+      "marks": 6,
+      "question_marks": [
+        6
+      ],
+      "prebuilt_questions": [
+        {
+          "topic": "stoichiometry",
+          "question_type": "application",
+          "marks": 6,
+          "stem": "Use the lab data below to determine the percentage yield of lead(II) iodide, PbI2(s), produced when excess potassium iodide is added to lead(II) nitrate solution. Lab data: mass of Pb(NO3)2 used = 1.36 g; mass of clean, dry filter paper = 1.08 g; mass of dry precipitate and filter paper = 2.50 g. Write the balanced chemical equation for the reaction.",
+          "answer_hint": "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3; actual precipitate mass = 1.42 g; theoretical yield is about 1.89 g PbI2; percentage yield is about 75.1%"
+        }
+      ],
+      "timing_notes": null,
+      "target_topics": [
+        "stoichiometry"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 29.0,
+        "medium_pct": 51.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "calculate",
+          "determine",
+          "write",
+          "use"
+        ],
+        "answer_style_expectations": [
+          "show_full_work",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 1
+    }
+  ],
+  "top_topics": [
+    "stoichiometry",
+    "lab_and_applications"
+  ],
+  "complexity_mode": "standard",
+  "difficulty_profile": {
+    "easy_pct": 29.0,
+    "medium_pct": 51.0,
+    "hard_pct": 20.0
+  },
+  "generation_constraints": [
+    "Generate exactly 7 constructed-response questions across the three sections.",
+    "Include at least one formula-units or particles to moles conversion.",
+    "Include at least one moles-to-mass calculation.",
+    "Include at least one atoms or particles counting question.",
+    "Include one percent-composition-to-molecular-formula problem.",
+    "Include at least one balanced-equation stoichiometry problem that asks for a product mass or amount.",
+    "Include one percent-yield lab problem based on measured precipitate data."
+  ],
+  "content_grounding_summary": null
+}

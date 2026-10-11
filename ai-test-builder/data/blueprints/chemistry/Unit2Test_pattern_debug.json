@@ -1,0 +1,176 @@
+{
+  "file_name": "Unit2Test.pdf",
+  "file_type": "pdf",
+  "source_kind": "scanned_pdf",
+  "section_candidates": [
+    {
+      "title": "Multiple Choice",
+      "line_index": 2,
+      "mark_hint": 25,
+      "score_observed": 2,
+      "score_total": 25,
+      "evidence": "Multiple Choice 2/25",
+      "detection_type": "scored_section_header",
+      "end_line": 3
+    },
+    {
+      "title": "Predicting Products of All Types of Reactions (35 marks)",
+      "line_index": 4,
+      "mark_hint": 35,
+      "evidence": "Predicting Products of All Types of Reactions (35 marks)",
+      "detection_type": "mark_based_section_header",
+      "end_line": 20
+    },
+    {
+      "title": "Application Questions (18 Marks (Use full sentences for all questions to achieve full marks)",
+      "line_index": 21,
+      "mark_hint": 18,
+      "evidence": "Application Questions (18 Marks (Use full sentences for all questions to achieve full marks) | &",
+      "detection_type": "keyword_section_header",
+      "end_line": 29
+    },
+    {
+      "title": "with states in your explanation. (4 marks)",
+      "line_index": 30,
+      "mark_hint": 4,
+      "evidence": "with states in your explanation. (4 marks)",
+      "detection_type": "mark_based_section_header",
+      "end_line": 50
+    },
+    {
+      "title": "about the test(s) you would use AND the results of the test(s). (4 Marks)",
+      "line_index": 51,
+      "mark_hint": 4,
+      "evidence": "about the test(s) you would use AND the results of the test(s). (4 Marks)",
+      "detection_type": "mark_based_section_header",
+      "end_line": 57
+    }
+  ],
+  "question_candidates": [
+    {
+      "question_number": 1,
+      "line_index": 9,
+      "raw_header": "Y/Y] 1.JAgNOsam + MgBrocaq) Ag eres + M09) p. 0 vo",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "JAgNOsam + MgBrocaq) Ag eres + M09) p. 0 vo"
+    },
+    {
+      "question_number": 4,
+      "line_index": 13,
+      "raw_header": "4. Mg(OH)xaq + 2 Bra) > gz ae yt uy Onn N f }",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Mg(OH)xaq + 2 Bra) > gz ae yt uy Onn N f }"
+    },
+    {
+      "question_number": 5,
+      "line_index": 14,
+      "raw_header": "GI | 5-2cCus + Che > ara ae C ra",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "2cCus + Che > ara ae C ra"
+    },
+    {
+      "question_number": 3,
+      "line_index": 15,
+      "raw_header": "due) t Cle C3) =) CuCl, CS)",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "=) CuCl, CS)"
+    },
+    {
+      "question_number": 7,
+      "line_index": 17,
+      "raw_header": "9} 7. Na2Ow@ = + S03) > N,. So i 2 eo",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Na2Ow@ = + S03) > N,. So i 2 eo"
+    },
+    {
+      "question_number": 1,
+      "line_index": 22,
+      "raw_header": "1, Silver is a highly valuable metal used in batteries, jewellery, water purification, dentistry, and medicine.",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Silver is a highly valuable metal used in batteries, jewellery, water purification, dentistry, and medicine."
+    },
+    {
+      "question_number": 2,
+      "line_index": 28,
+      "raw_header": "2. Many antacid tablets (like TUMS) contain calcium carbonate, CaCO3(aq). Explain how calcium",
+      "mark_hint": null,
+      "question_type_guess": "written_response",
+      "preview": "Many antacid tablets (like TUMS) contain calcium carbonate, CaCO3(aq). Explain how calcium"
+    },
+    {
+      "question_number": 3,
+      "line_index": 33,
+      "raw_header": "3. a) When properly lighting and adjusting a Bunsen burner, why does the flame turn from orange to blue?",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "a) When properly lighting and adjusting a Bunsen burner, why does the flame turn from orange to blue?"
+    },
+    {
+      "question_number": 5,
+      "line_index": 38,
+      "raw_header": "A orn Nive 5) Ves Were | SAA vit Ess, } ye",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Ves Were | SAA vit Ess, } ye"
+    },
+    {
+      "question_number": 4,
+      "line_index": 40,
+      "raw_header": "4. Your friend wants to BBQ steaks for dinner. It st",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Your friend wants to BBQ steaks for dinner. It st"
+    },
+    {
+      "question_number": 5,
+      "line_index": 48,
+      "raw_header": "5. Many neutralization reactions, such as the case of a KOHaq spill being neutralized with cola, HsPO4aq),",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Many neutralization reactions, such as the case of a KOHaq spill being neutralized with cola, HsPO4aq),"
+    }
+  ],
+  "numbering_patterns": {
+    "question_count_estimate": 6,
+    "unique_question_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "is_strictly_increasing": false,
+    "gaps": [
+      6
+    ],
+    "min_question_number": 1,
+    "max_question_number": 7
+  },
+  "multiple_choice_signals": {
+    "likely_multiple_choice_present": false,
+    "option_line_count": 0,
+    "inline_option_line_count": 0,
+    "example_lines": []
+  },
+  "layout_signals": {
+    "title_candidate": "SCH3U Unit 2 Chemical Reactions Test",
+    "has_total_marks_signal": true,
+    "has_written_test_signal": false,
+    "mark_mentions_count": 10,
+    "line_count": 57
+  },
+  "observed_patterns": [
+    "Possible title detected: SCH3U Unit 2 Chemical Reactions Test",
+    "Detected approximately 5 section candidate(s).",
+    "Detected question numbering up to about 7.",
+    "Question numbering gaps detected: [6]",
+    "A total marks signal appears near the start of the test."
+  ]
+}

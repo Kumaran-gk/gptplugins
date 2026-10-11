@@ -1,0 +1,67 @@
+{
+  "blueprint_id": "chemistry-unit-4-solutions-and-solubility-test-name-20260618005721",
+  "title": "Unit 4 Solutions and Solubility Test Name",
+  "subject": "chemistry",
+  "unit_name": "Unit 4 Solutions and Solubility Test Name",
+  "version_label": "verA",
+  "preserve_structure": true,
+  "reuse_prohibited": true,
+  "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+  "section_plans": [
+    {
+      "section_id": "section_1",
+      "title": "Multiple Choice",
+      "order": 1,
+      "instructions": null,
+      "num_questions": 12,
+      "question_types": [
+        "multiple_choice"
+      ],
+      "marks": 20,
+      "question_marks": [],
+      "prebuilt_questions": [],
+      "timing_notes": null,
+      "target_topics": [
+        "solutions_and_concentration"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 91.67,
+        "medium_pct": 8.33,
+        "hard_pct": 0.0
+      },
+      "response_formats": [
+        "constructed_response"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "state",
+          "name",
+          "balance",
+          "solve",
+          "explain"
+        ],
+        "answer_style_expectations": [
+          "notation_precision_required"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 12
+    }
+  ],
+  "top_topics": [
+    "solutions_and_concentration"
+  ],
+  "complexity_mode": "standard",
+  "difficulty_profile": {
+    "easy_pct": 91.67,
+    "medium_pct": 8.33,
+    "hard_pct": 0.0
+  },
+  "generation_constraints": [
+    "Preserve balancing-style chemistry questions.",
+    "Preserve notation/state-symbol expectations.",
+    "Top detected topics: solutions_and_concentration"
+  ],
+  "content_grounding_summary": null
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unit-2-chemical-reactions-test-20260414032749",
+  "created_at": "2026-04-14T03:27:49.608717+00:00",
+  "title": "Unit 2 Chemical Reactions Test",
+  "subject": "chemistry",
+  "unit": {
+    "unit_name": "Unit 2 Chemical Reactions Test",
+    "chapter_refs": [],
+    "learning_goals": []
+  },
+  "source_files": [
+    {
+      "file_name": "Unit2-Chemistry-NewV1.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]",
+      "pages_used": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.7,
+    "observed_patterns": [
+      "Possible title detected: lh OC OO ll a hl eee _ ee ee",
+      "Detected approximately 5 section candidate(s).",
+      "Detected question numbering up to about 8.",
+      "Question numbering gaps detected: [6, 7]",
+      "Possible unit/chapter detected: Unit 2 Chemical Reactions Test",
+      "Possible course code detected: SCH3U",
+      "Topic signal detected for chemical_reactions via keywords: chemical reaction, chemical reactions, type of reaction, predict the product, balance",
+      "Topic signal detected for lab_and_applications via keywords: application",
+      "Predict-the-product wording appears in the source test.",
+      "Balancing language appears in the source test.",
+      "Reaction classification language appears in the source test.",
+      "State-symbol expectations appear in the source test.",
+      "Application-style wording appears in the source test.",
+      "Written-response precision language appears in the source test.",
+      "Multiple section candidates suggest format changes across the test."
+    ],
+    "inferred_patterns": [
+      "The assessment likely emphasizes chemical_reactions.",
+      "Estimated difficulty profile is easy=100.0%, medium=0.0%, hard=0.0%.",
+      "The assessment likely uses precision and setup traps as part of its design."
+    ],
+    "notes": "This blueprint was generated from heuristic extraction and analysis. Review recommended before production use."
+  },
+  "structure": {
+    "test_type": "mixed_assessment",
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Multiple Choice /25",
+        "order": 1,
+        "question_types": [
+          "multiple_choice"
+        ]
+      },
+      {
+        "section_id": "section_2",
+        "title": "Predicting Products of All Types of Reactions (35 marks) Tota a",
+        "order": 2,
+        "marks": 35,
+        "num_questions": 8
+      },
+      {
+        "section_id": "section_3",
+        "title": "Application Questions (1% Marks) (Use fall sentences for 2ll questions t© achieve fall marks)",
+        "order": 3,
+        "instructions": "Use fall sentences for 2ll questions t© achieve fall marks",
+        "question_types": [
+          "application"
+        ],
+        "num_questions": 1
+      },
+      {
+        "section_id": "section_4",
+        "title": "oad Sa a ee (2 marks)",
+        "order": 4,
+        "marks": 2,
+        "num_questions": 2
+      },
+      {
+        "section_id": "section_5",
+        "title": "about the test(s) you would use AND the results of the test(s ). (4 Marks)",
+        "order": 5,
+        "marks": 4,
+        "num_questions": 1
+      }
+    ],
+    "ordering_rules": [
+      "Preserve approximate section flow unless explicitly changed."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "chemical_reactions",
+      "weight_pct": 88.89,
+      "subtopics": [
+        "chemical reaction",
+        "chemical reactions",
+        "type of reaction",
+        "predict the product",
+        "balance"
+      ]
+    },
+    {
+      "topic": "lab_and_applications",
+      "weight_pct": 11.11,
+      "subtopics": [
+        "application"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 100.0,
+    "medium_pct": 0.0,
+    "hard_pct": 0.0,
+    "progression_notes": [
+      "Detected question difficulty appears relatively mixed across the test."
+    ],
+    "cognitive_skills": [
+      "mixed_recall_and_procedure"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions",
+      "command_verb_led"
+    ],
+    "response_formats": [
+      "written_response"
+    ],
+    "common_verbs": [
+      "state",
+      "predict",
+      "balance",
+      "explain"
+    ],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [],
+    "answer_style_expectations": [
+      "notation_precision_required"
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "product_prediction_error",
+      "description": "Students may choose chemically implausible or incomplete products when predicting reactions.",
+      "frequency": "high",
+      "examples": [
+        "Predicting products requires recognizing reaction pattern before writing products."
+      ]
+    },
+    {
+      "trap_type": "balancing_precision",
+      "description": "Students may identify the correct reaction but lose marks on balancing or coefficient precision.",
+      "frequency": "high",
+      "examples": [
+        "Correct reaction identification but incorrect balancing."
+      ]
+    },
+    {
+      "trap_type": "reaction_classification_confusion",
+      "description": "Students may confuse reaction categories even when the reaction itself is recognized correctly.",
+      "frequency": "medium",
+      "examples": [
+        "Confusing synthesis, decomposition, combustion, and displacement types."
+      ]
+    },
+    {
+      "trap_type": "state_symbol_precision",
+      "description": "Chemical state symbols and notation accuracy appear to matter and may act as a precision trap.",
+      "frequency": "medium",
+      "examples": [
+        "Including (s), (l), (g), and (aq) correctly."
+      ]
+    },
+    {
+      "trap_type": "application_transfer",
+      "description": "Some questions appear to require transfer from learned reaction patterns into applied or real-world contexts.",
+      "frequency": "medium",
+      "examples": [
+        "Application questions may require concept transfer rather than direct recall."
+      ]
+    },
+    {
+      "trap_type": "written_precision",
+      "description": "Written-response expectations may penalize incomplete reasoning, not just factual errors.",
+      "frequency": "medium",
+      "examples": [
+        "Use full sentences or explain reasoning clearly."
+      ]
+    },
+    {
+      "trap_type": "format_shift",
+      "description": "The assessment appears to shift across sections, which can change how students must respond and manage time.",
+      "frequency": "medium",
+      "examples": [
+        "Multiple Choice /25",
+        "Predicting Products of All Types of Reactions (35 marks) Tota a",
+        "Application Questions (1% Marks) (Use fall sentences for 2ll questions t© achieve fall marks)"
+      ]
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+    "freshness_requirements": [
+      "Do not copy source questions verbatim.",
+      "Use new surface contexts, values, or examples where appropriate."
+    ],
+    "constraints": [
+      "Preserve balancing-style chemistry questions.",
+      "Preserve reaction-classification tasks.",
+      "Preserve notation/state-symbol expectations.",
+      "Include at least some application-oriented items.",
+      "Top detected topics: chemical_reactions, lab_and_applications"
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "sch3u",
+      "unit-2-chemical-reactions-test"
+    ],
+    "summary_for_retrieval": "chemistry blueprint for Unit 2 Chemical Reactions Test with emphasis on detected topic weighting and teacher-style structure.",
+    "teacher_style_signature": [
+      "test_type:mixed_assessment",
+      "sections:5",
+      "question_candidates:9",
+      "top_topic:chemical_reactions"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "chemical_reactions",
+      "lab_and_applications"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unit-2-chemical-reactions-test"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [
+      "Chemical state symbols should be included where expected."
+    ],
+    "topic_specific_constraints": [
+      "Chemical equations may require balancing.",
+      "Reaction classification should remain represented."
+    ],
+    "lab_skills": []
+  },
+  "course_code": "SCH3U"
+}

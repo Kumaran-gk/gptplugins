@@ -1,0 +1,370 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "sph4u-unit1-kinematics-v1",
+  "created_at": "2026-10-11T17:30:55Z",
+  "title": "SPH4U Unit 1 Kinematics practice test pattern",
+  "subject": "Physics",
+  "grade_level": "12",
+  "course_code": "SPH4U",
+  "unit": {
+    "unit_id": "unit-1",
+    "unit_name": "Kinematics",
+    "chapter_refs": [
+      "Nelson Physics 12 Chapter 1, pp. 6-59",
+      "Syllabus lessons 1.1-1.6"
+    ],
+    "learning_goals": [
+      "Interpret position-time, velocity-time, and acceleration-time representations",
+      "Calculate displacement, velocity, and acceleration in one and two dimensions",
+      "Analyze constant-acceleration motion, free fall, and projectile motion",
+      "Use vector components and frames of reference for relative motion",
+      "Interpret and evaluate non-uniform-motion lab data"
+    ]
+  },
+  "source_files": [
+    {
+      "file_name": "Unit_1 Kinematics Syllabus SPH 4U Sep 2026.pdf",
+      "file_type": "pdf",
+      "path": "data/input/physics/12thGrade/Unit1/Unit_1 Kinematics Syllabus SPH 4U Sep 2026.pdf",
+      "pages_used": [
+        1
+      ],
+      "notes": "Primary source for Unit 1 coverage and test timing within the course"
+    },
+    {
+      "file_name": "Nelson-Physics-12.pdf",
+      "file_type": "pdf",
+      "path": "data/input/physics/12thGrade/Nelson-Physics-12.pdf",
+      "pages_used": [
+        10,
+        15,
+        16,
+        19,
+        22,
+        25,
+        26,
+        29,
+        32,
+        36,
+        39,
+        45,
+        46,
+        47,
+        50,
+        51,
+        53,
+        56,
+        57,
+        58,
+        59,
+        61,
+        63,
+        64
+      ],
+      "notes": "Chapter 1 concepts, worked-example forms, and review; PDF page numbering differs from printed page numbering"
+    },
+    {
+      "file_name": "TrainingQuestions1.jpeg",
+      "file_type": "other",
+      "path": "data/input/physics/12thGrade/Unit1/TrainingQuestions1.jpeg",
+      "notes": "Observed advanced multipart projectile and relative-motion practice questions"
+    },
+    {
+      "file_name": "TrainingQuestions2.jpeg",
+      "file_type": "other",
+      "path": "data/input/physics/12thGrade/Unit1/TrainingQuestions2.jpeg",
+      "notes": "Observed vector-operation diagrams and constant-acceleration vector extrapolation"
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.86,
+    "observed_patterns": [
+      "The syllabus covers motion graphs, average and instantaneous velocity, equations of motion, non-uniform-motion lab work, two-dimensional vectors, projectile motion, and relative motion before Test #1.",
+      "The training pages contain diagram-based vector tasks and multipart word problems involving projectiles, moving targets, wind, and river current.",
+      "The user specifies 15 multiple-choice questions, 5 true/false questions, one 10-mark lab-style question, and three 10-mark application questions.",
+      "The user requests approximately equal normal, medium-hard, and hard difficulty in the first paper."
+    ],
+    "inferred_patterns": [
+      "Hard items should combine vector components with time, relative velocity, or two-dimensional projectile motion.",
+      "A lab item should require interpreting measured motion data rather than only recalling a definition.",
+      "The selected-response sections can check sign, direction, graph area/slope, and frame-of-reference misconceptions."
+    ],
+    "notes": "The supplied images are training questions, not a complete sample test with a verified section structure. The syllabus lesson numbering differs from the supplied Nelson PDF; coverage follows named topics and assigned printed pages. One mark per multiple-choice and true/false item is an explicit generation assumption, giving 60 total marks. Difficulty is balanced by marks: 20 easy, 20 medium, 20 hard."
+  },
+  "structure": {
+    "test_type": "original practice test",
+    "total_marks": 60,
+    "sections": [
+      {
+        "section_id": "A",
+        "title": "Multiple Choice",
+        "order": 1,
+        "instructions": "Choose one answer per question; 1 mark each.",
+        "question_types": [
+          "conceptual multiple choice",
+          "calculation multiple choice"
+        ],
+        "num_questions": 15,
+        "marks": 15
+      },
+      {
+        "section_id": "B",
+        "title": "True or False",
+        "order": 2,
+        "instructions": "Mark each statement true or false; 1 mark each.",
+        "question_types": [
+          "true or false"
+        ],
+        "num_questions": 5,
+        "marks": 5
+      },
+      {
+        "section_id": "C",
+        "title": "Lab Analysis",
+        "order": 3,
+        "instructions": "Show calculations and interpret the data.",
+        "question_types": [
+          "multipart lab data analysis"
+        ],
+        "num_questions": 1,
+        "marks": 10
+      },
+      {
+        "section_id": "D",
+        "title": "Applications",
+        "order": 4,
+        "instructions": "Show diagrams, equations, units, and directions where applicable.",
+        "question_types": [
+          "multipart application"
+        ],
+        "num_questions": 3,
+        "marks": 30
+      }
+    ],
+    "ordering_rules": [
+      "Use question numbers 1-24 in section order.",
+      "Place 15 multiple choice, then 5 true/false, then one lab item, then three application items."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "Motion quantities, graphs, and one-dimensional kinematics",
+      "subtopics": [
+        "distance and displacement",
+        "average and instantaneous velocity",
+        "graph slopes and signed areas",
+        "constant acceleration"
+      ],
+      "weight_pct": 30,
+      "question_forms": [
+        "selected response",
+        "lab data analysis"
+      ]
+    },
+    {
+      "topic": "Vectors and two-dimensional change in velocity",
+      "subtopics": [
+        "components",
+        "resultants",
+        "direction notation"
+      ],
+      "weight_pct": 20,
+      "question_forms": [
+        "selected response",
+        "multipart application"
+      ]
+    },
+    {
+      "topic": "Free fall and projectile motion",
+      "subtopics": [
+        "independent horizontal and vertical motion",
+        "launch from height",
+        "impact velocity"
+      ],
+      "weight_pct": 25,
+      "question_forms": [
+        "selected response",
+        "multipart application"
+      ]
+    },
+    {
+      "topic": "Relative motion",
+      "subtopics": [
+        "wind and current",
+        "moving observer",
+        "moving target"
+      ],
+      "weight_pct": 25,
+      "question_forms": [
+        "selected response",
+        "multipart application"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 33.3333,
+    "medium_pct": 33.3333,
+    "hard_pct": 33.3334,
+    "progression_notes": [
+      "Balance difficulty by marks rather than question count.",
+      "The 60-mark paper assigns 20 marks to each level; difficulty increases within each selected-response section and across the applications."
+    ],
+    "cognitive_skills": [
+      "interpret",
+      "calculate",
+      "represent",
+      "combine models",
+      "evaluate direction and assumptions"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "concise conceptual check",
+      "short numerical scenario",
+      "multipart real-world motion scenario",
+      "data-table lab analysis"
+    ],
+    "response_formats": [
+      "one selected option",
+      "true or false",
+      "worked numerical answer with units and direction",
+      "graph and data interpretation"
+    ],
+    "common_verbs": [
+      "determine",
+      "calculate",
+      "explain",
+      "sketch",
+      "interpret"
+    ],
+    "wording_tone": "Clear SPH4U practice-test wording with demanding but unambiguous multi-step applications.",
+    "diagram_expectations": [
+      "Use a vector sketch or labelled axes for two-dimensional applications.",
+      "Use graph axes and units for lab data."
+    ],
+    "answer_style_expectations": [
+      "Show component equations and sign convention.",
+      "Report sensible significant figures and direction.",
+      "State assumptions such as negligible air resistance when needed."
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "scalar-vector confusion",
+      "description": "Distinguish distance from displacement and speed from velocity.",
+      "frequency": "high"
+    },
+    {
+      "trap_type": "graph interpretation",
+      "description": "Distinguish slope from area and signed displacement from total distance.",
+      "frequency": "high"
+    },
+    {
+      "trap_type": "direction and sign",
+      "description": "Maintain a consistent axis convention for velocity change, gravity, and vector bearings.",
+      "frequency": "high"
+    },
+    {
+      "trap_type": "relative-motion frame",
+      "description": "Add or subtract velocity components in the correct observer frame.",
+      "frequency": "medium"
+    },
+    {
+      "trap_type": "projectile coupling",
+      "description": "Use a common flight time while keeping horizontal and vertical equations independent.",
+      "frequency": "high"
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Keep the assessed skills and multipart reasoning style; change contexts, values, and wording from source practice pages.",
+    "freshness_requirements": [
+      "No verbatim source questions.",
+      "Use original lab data and application scenarios."
+    ],
+    "constraints": [
+      "15 one-mark multiple-choice items",
+      "5 one-mark true/false items",
+      "1 ten-mark lab question",
+      "3 ten-mark application questions",
+      "20 marks easy, 20 marks medium, 20 marks hard",
+      "Cover syllabus Unit 1 named topics and Nelson Chapter 1 content"
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "SPH4U",
+      "grade-12",
+      "physics",
+      "kinematics",
+      "unit-1",
+      "projectiles",
+      "relative-motion"
+    ],
+    "summary_for_retrieval": "SPH4U Unit 1: 15 MC, 5 T/F, 10-mark lab, three 10-mark applications; 60 marks split equally by difficulty. Coverage: graphs, 1D/2D kinematics, projectiles, relative motion. Hard style combines components and moving frames.",
+    "teacher_style_signature": [
+      "diagram and vector reasoning",
+      "multipart numerical situations",
+      "direction and unit precision"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "recommended_merge_tags": [
+      "kinematics",
+      "motion",
+      "vectors"
+    ]
+  },
+  "subject_extensions": {
+    "formulas_expected": [
+      "v_avg = displacement / time",
+      "a_avg = change in velocity / time",
+      "v_f = v_i + at",
+      "displacement = v_i t + 0.5 at^2",
+      "v_f^2 = v_i^2 + 2a displacement",
+      "v_object/ground = v_object/medium + v_medium/ground"
+    ],
+    "notation_rules": [
+      "State east and north as positive axes when using components.",
+      "Use [angle N of E] or [angle E of N] consistently."
+    ],
+    "units_and_constants": [
+      {
+        "name": "gravitational acceleration",
+        "symbol": "g",
+        "value": "9.80",
+        "unit": "m/s^2",
+        "notes": "downward near Earth's surface"
+      }
+    ],
+    "graph_types": [
+      "position-time",
+      "velocity-time",
+      "acceleration-time"
+    ],
+    "diagram_types": [
+      "vector component sketch",
+      "projectile trajectory",
+      "relative-motion velocity triangle"
+    ],
+    "lab_skills": [
+      "tabulate motion data",
+      "sketch position-time graph",
+      "estimate instantaneous velocity with symmetric interval",
+      "infer acceleration from data"
+    ],
+    "calculation_modes": [
+      "unit conversion",
+      "signed graph area",
+      "vector component resolution",
+      "quadratic flight-time equation",
+      "relative-motion components"
+    ],
+    "topic_specific_constraints": [
+      "Neglect air resistance only when stated.",
+      "Keep the syllabus named topics as the scope despite numbering differences with the supplied Nelson PDF."
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "question_count": 38,
+  "answer_key_records": [
+    {
+      "question_number": 1,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 2,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "C"
+    },
+    {
+      "question_number": 3,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "C"
+    },
+    {
+      "question_number": 4,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 5,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 6,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 7,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "A"
+    },
+    {
+      "question_number": 8,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 9,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "C"
+    },
+    {
+      "question_number": 10,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 11,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "C"
+    },
+    {
+      "question_number": 12,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 13,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "B"
+    },
+    {
+      "question_number": 14,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 15,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 16,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 17,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "C"
+    },
+    {
+      "question_number": 18,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 19,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 20,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 21,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "A"
+    },
+    {
+      "question_number": 22,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 23,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "D"
+    },
+    {
+      "question_number": 24,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "A"
+    },
+    {
+      "question_number": 25,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "answer_hint": "A"
+    },
+    {
+      "question_number": 26,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Al2O3; balanced form 4Al + 3O2 -> 2Al2O3; synthesis Include a brief chemical justification."
+    },
+    {
+      "question_number": 27,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Accept pH change, gas formation, temperature change, conductivity change, or formation of dissolved products where justified. Reward clear chemical justification, not just the final statement."
+    },
+    {
+      "question_number": 28,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "AgNO3(aq) + NaCl(aq) -> AgCl(s) + NaNO3(aq) Include a brief chemical justification."
+    },
+    {
+      "question_number": 29,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Accept a valid plan using pH paper, an indicator, or a probe with expected acidic versus near-neutral results and appropriate safety reasoning. Reward clear chemical justification, not just the final statement."
+    },
+    {
+      "question_number": 30,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "2AgNO3(aq) + MgBr2(aq) -> 2AgBr(s) + Mg(NO3)2(aq); double displacement / precipitation Include a brief chemical justification."
+    },
+    {
+      "question_number": 31,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Vehicle engines / heating systems; safety concerns include toxic gases, fire risk, incomplete combustion. Include a brief chemical justification."
+    },
+    {
+      "question_number": 32,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "Na2SO4; synthesis Include a brief chemical justification."
+    },
+    {
+      "question_number": 33,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "A strong response should explain that state symbols communicate physical state and can indicate precipitation / gas formation; accept a justified example such as AgCl(s) versus AgCl(aq). Reward clear chemical justification, not just the final statement."
+    },
+    {
+      "question_number": 34,
+      "topic": "chemical_reactions",
+      "question_type": "application",
+      "marks": 4,
+      "answer_hint": "CaCO3(s) + 2HCl(aq) -> CaCl2(aq) + H2O(l) + CO2(g); explanation should connect acid reduction to reaction products. Include a brief chemical justification."
+    },
+    {
+      "question_number": 35,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "It improves clarity, communicates states and substances accurately, and reduces interpretation errors. Include a brief chemical justification."
+    },
+    {
+      "question_number": 36,
+      "topic": "chemical_reactions",
+      "question_type": "application",
+      "marks": 4,
+      "answer_hint": "Use an indicator or pH probe to show the spill is near neutral; accept mention of temperature change or product evidence if justified. Reward clear chemical justification, not just the final statement."
+    },
+    {
+      "question_number": 37,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "It indicates more complete combustion, gives a hotter flame, and reduces soot formation. Include a brief chemical justification."
+    },
+    {
+      "question_number": 38,
+      "topic": "chemical_reactions",
+      "question_type": "application",
+      "marks": 4,
+      "answer_hint": "Complete combustion should be tied to greater oxygen supply, a bluer cleaner flame, and products dominated by CO2 and H2O; incomplete combustion may include CO or soot. Include a brief chemical justification."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "question_count": 7,
+  "question_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "stem": "Calculate the mass of 0.825 mol of sodium carbonate, Na2CO3(s). Use appropriate notation in your response.",
+      "options": [],
+      "answer_hint": "87.4 g Na2CO3 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "stem": "How many atoms of oxygen are present in 1.50 mol of carbon dioxide, CO2(g)?",
+      "options": [],
+      "answer_hint": "1.81 × 10^24 oxygen atoms approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "A compound is 40.0% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. Its molar mass is 60.0 g/mol. Determine the molecular formula. Show the essential steps clearly.",
+      "options": [],
+      "answer_hint": "CH2O is the empirical formula; molecular formula C2H4O2",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 8,
+      "stem": "In excess oxygen, magnesium burns to form magnesium oxide. Calculate the amount in moles of MgO produced from 12.0 g of magnesium.",
+      "options": [],
+      "answer_hint": "0.494 mol MgO approximately after using the 2Mg + O2 -> 2MgO ratio",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 4,
+      "stem": "Hydrochloric acid reacts with sodium hydroxide to form sodium chloride and water. If 0.250 mol of HCl reacts completely, what mass of NaCl is produced? Write the balanced equation. Show the essential steps clearly.",
+      "options": [],
+      "answer_hint": "HCl + NaOH -> NaCl + H2O; 14.6 g NaCl approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 10,
+      "stem": "Aqueous sulfuric acid reacts with aqueous potassium hydroxide. If 3.25 g of H2SO4 reacts with excess KOH, calculate the mass of potassium sulfate produced. Write the balanced equation. Use appropriate notation in your response.",
+      "options": [],
+      "answer_hint": "H2SO4 + 2KOH -> K2SO4 + 2H2O; 5.74 g K2SO4 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 7,
+      "topic": "stoichiometry",
+      "question_type": "application",
+      "marks": 6,
+      "stem": "A sample of silver nitrate reacts with excess calcium chloride to form silver chloride precipitate. Theoretical yield is 1.36 g AgCl, but only 1.09 g is collected dry. Calculate the percentage yield and state what this result means.",
+      "options": [],
+      "answer_hint": "80.1% yield approximately; actual yield is lower than theoretical, likely due to product loss or incomplete recovery.",
+      "source_excerpt": null
+    }
+  ]
+}

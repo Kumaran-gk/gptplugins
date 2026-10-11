@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unit-3-test-20260514010400",
+  "created_at": "2026-05-14T01:04:00.756413+00:00",
+  "title": "Unit 3 Test",
+  "subject": "chemistry",
+  "unit": {
+    "unit_name": "Unit 3 Test",
+    "chapter_refs": [],
+    "learning_goals": []
+  },
+  "source_files": [
+    {
+      "file_name": "SCH3U_Unit_3_Test_Printed_Questions.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]",
+      "pages_used": [
+        1
+      ]
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.7,
+    "observed_patterns": [
+      "Possible title detected: SCH 3U Unit 3 Test",
+      "Detected question numbering up to about 7.",
+      "Question numbering gaps detected: [6]",
+      "Possible unit/chapter detected: Unit 3 Test",
+      "Topic signal detected for stoichiometry via keywords: moles, molar mass, yield",
+      "Topic signal detected for lab_and_applications via keywords: lab",
+      "Balancing language appears in the source test.",
+      "State-symbol expectations appear in the source test."
+    ],
+    "inferred_patterns": [
+      "The assessment likely emphasizes stoichiometry.",
+      "Estimated difficulty profile is easy=42.86%, medium=57.14%, hard=0.0%.",
+      "The assessment likely uses precision and setup traps as part of its design."
+    ],
+    "notes": "This blueprint was generated from heuristic extraction and analysis. Review recommended before production use."
+  },
+  "structure": {
+    "test_type": "unit_test",
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Main Section",
+        "order": 1,
+        "num_questions": 7
+      }
+    ],
+    "ordering_rules": [
+      "Preserve approximate section flow unless explicitly changed."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "stoichiometry",
+      "weight_pct": 80.0,
+      "subtopics": [
+        "moles",
+        "molar mass",
+        "yield"
+      ]
+    },
+    {
+      "topic": "lab_and_applications",
+      "weight_pct": 20.0,
+      "subtopics": [
+        "lab"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 42.86,
+    "medium_pct": 57.14,
+    "hard_pct": 0.0,
+    "progression_notes": [
+      "Detected question difficulty appears relatively mixed across the test."
+    ],
+    "cognitive_skills": [
+      "procedural_problem_solving"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions",
+      "command_verb_led"
+    ],
+    "response_formats": [
+      "constructed_response"
+    ],
+    "common_verbs": [
+      "calculate",
+      "determine",
+      "balance"
+    ],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [],
+    "answer_style_expectations": []
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "balancing_precision",
+      "description": "Students may identify the correct reaction but lose marks on balancing or coefficient precision.",
+      "frequency": "high",
+      "examples": [
+        "Correct reaction identification but incorrect balancing."
+      ]
+    },
+    {
+      "trap_type": "state_symbol_precision",
+      "description": "Chemical state symbols and notation accuracy appear to matter and may act as a precision trap.",
+      "frequency": "medium",
+      "examples": [
+        "Including (s), (l), (g), and (aq) correctly."
+      ]
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+    "freshness_requirements": [
+      "Do not copy source questions verbatim.",
+      "Use new surface contexts, values, or examples where appropriate."
+    ],
+    "constraints": [
+      "Preserve balancing-style chemistry questions.",
+      "Top detected topics: stoichiometry, lab_and_applications"
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "unit-3-test"
+    ],
+    "summary_for_retrieval": "chemistry blueprint for Unit 3 Test with emphasis on detected topic weighting and teacher-style structure.",
+    "teacher_style_signature": [
+      "test_type:unit_test",
+      "sections:0",
+      "question_candidates:7",
+      "top_topic:stoichiometry"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "stoichiometry",
+      "lab_and_applications"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unit-3-test"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [
+      "Chemical state symbols should be included where expected."
+    ],
+    "topic_specific_constraints": [
+      "Chemical equations may require balancing."
+    ],
+    "lab_skills": [
+      "Observation, procedure interpretation, and lab-style reasoning may be required."
+    ]
+  }
+}

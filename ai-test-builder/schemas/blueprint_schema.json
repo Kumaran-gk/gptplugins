@@ -1,0 +1,585 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/blueprint_schema.json",
+  "title": "AI Test Builder Blueprint Schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "blueprint_id",
+    "created_at",
+    "title",
+    "subject",
+    "unit",
+    "source_files",
+    "analysis_summary",
+    "structure",
+    "topic_distribution",
+    "difficulty_profile",
+    "question_style",
+    "trap_patterns",
+    "generation_rules",
+    "subject_extensions"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "blueprint_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject": {
+      "type": "string",
+      "minLength": 1
+    },
+    "grade_level": {
+      "type": "string"
+    },
+    "course_code": {
+      "type": "string"
+    },
+    "curriculum": {
+      "type": "string"
+    },
+    "unit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "unit_name"
+      ],
+      "properties": {
+        "unit_id": {
+          "type": "string"
+        },
+        "unit_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "chapter_refs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "learning_goals": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "source_files": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/sourceFile"
+      }
+    },
+    "analysis_summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "confidence",
+        "observed_patterns",
+        "inferred_patterns"
+      ],
+      "properties": {
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "observed_patterns": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "inferred_patterns": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "evidence_snippets": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidenceSnippet"
+          }
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "structure": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sections"
+      ],
+      "properties": {
+        "test_type": {
+          "type": "string"
+        },
+        "duration_minutes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "total_marks": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "sections": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/section"
+          }
+        },
+        "ordering_rules": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "topic_distribution": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/topicWeight"
+      }
+    },
+    "difficulty_profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "easy_pct",
+        "medium_pct",
+        "hard_pct"
+      ],
+      "properties": {
+        "easy_pct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "medium_pct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "hard_pct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "progression_notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "cognitive_skills": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "question_style": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "stem_styles",
+        "response_formats"
+      ],
+      "properties": {
+        "stem_styles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "response_formats": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "common_verbs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "wording_tone": {
+          "type": "string"
+        },
+        "diagram_expectations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "answer_style_expectations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "trap_patterns": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/trapPattern"
+      }
+    },
+    "generation_rules": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "preserve_structure",
+        "reuse_prohibited",
+        "variation_policy"
+      ],
+      "properties": {
+        "preserve_structure": {
+          "type": "boolean"
+        },
+        "reuse_prohibited": {
+          "type": "boolean"
+        },
+        "variation_policy": {
+          "type": "string"
+        },
+        "freshness_requirements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "constraints": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "memory_metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "summary_for_retrieval": {
+          "type": "string"
+        },
+        "teacher_style_signature": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "cumulative_metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "eligible_for_cumulative": {
+          "type": "boolean"
+        },
+        "prerequisite_topics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "recommended_merge_tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "subject_extensions": {
+      "type": "object",
+      "description": "Flexible area for subject-specific rules and extracted signals.",
+      "properties": {
+        "formulas_expected": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "notation_rules": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "units_and_constants": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/unitConstant"
+          }
+        },
+        "graph_types": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "diagram_types": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "lab_skills": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "calculation_modes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "proof_requirements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "topic_specific_constraints": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "$defs": {
+    "sourceFile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "file_name",
+        "file_type"
+      ],
+      "properties": {
+        "file_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "file_type": {
+          "type": "string",
+          "enum": [
+            "pdf",
+            "docx",
+            "txt",
+            "other"
+          ]
+        },
+        "path": {
+          "type": "string"
+        },
+        "pages_used": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "evidenceSnippet": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_file",
+        "snippet"
+      ],
+      "properties": {
+        "source_file": {
+          "type": "string"
+        },
+        "page": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "snippet": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pattern_link": {
+          "type": "string"
+        }
+      }
+    },
+    "section": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "section_id",
+        "title",
+        "order"
+      ],
+      "properties": {
+        "section_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "order": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "instructions": {
+          "type": "string"
+        },
+        "question_types": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "num_questions": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "marks": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "skills_targeted": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "timing_notes": {
+          "type": "string"
+        }
+      }
+    },
+    "topicWeight": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "topic",
+        "weight_pct"
+      ],
+      "properties": {
+        "topic": {
+          "type": "string",
+          "minLength": 1
+        },
+        "subtopics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "weight_pct": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "question_forms": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "trapPattern": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "trap_type",
+        "description"
+      ],
+      "properties": {
+        "trap_type": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "frequency": {
+          "type": "string",
+          "enum": [
+            "low",
+            "medium",
+            "high"
+          ]
+        },
+        "examples": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "unitConstant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "symbol": {
+          "type": "string"
+        },
+        "value": {
+          "type": "string"
+        },
+        "unit": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

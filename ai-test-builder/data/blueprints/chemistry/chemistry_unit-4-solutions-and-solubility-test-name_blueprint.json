@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unit-4-solutions-and-solubility-test-name-20260618005721",
+  "created_at": "2026-06-18T00:57:21.851410+00:00",
+  "title": "Unit 4 Solutions and Solubility Test Name",
+  "subject": "chemistry",
+  "unit": {
+    "unit_name": "Unit 4 Solutions and Solubility Test Name",
+    "chapter_refs": [],
+    "learning_goals": []
+  },
+  "source_files": [
+    {
+      "file_name": "ChemistryUnit4.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]",
+      "pages_used": [
+        1,
+        2
+      ]
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.7,
+    "observed_patterns": [
+      "Possible title detected: SCH 3U Unit 4 Solutions and Solubility Test Name: [REDACTED]",
+      "Detected approximately 1 section candidate(s).",
+      "Detected question numbering up to about 72.",
+      "Question numbering gaps detected: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]",
+      "Possible unit/chapter detected: Unit 4 Solutions and Solubility Test Name",
+      "Topic signal detected for solutions_and_concentration via keywords: solution, solutions, solute, concentration, molar concentration",
+      "Balancing language appears in the source test.",
+      "State-symbol expectations appear in the source test.",
+      "Written-response precision language appears in the source test."
+    ],
+    "inferred_patterns": [
+      "The assessment likely emphasizes solutions_and_concentration.",
+      "Estimated difficulty profile is easy=91.67%, medium=8.33%, hard=0.0%.",
+      "The assessment likely uses precision and setup traps as part of its design."
+    ],
+    "notes": "This blueprint was generated from heuristic extraction and analysis. Review recommended before production use."
+  },
+  "structure": {
+    "test_type": "multiple_choice_test",
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Multiple Choice",
+        "order": 1,
+        "marks": 20,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "num_questions": 12
+      }
+    ],
+    "ordering_rules": [
+      "Preserve approximate section flow unless explicitly changed."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "solutions_and_concentration",
+      "weight_pct": 100.0,
+      "subtopics": [
+        "solution",
+        "solutions",
+        "solute",
+        "concentration",
+        "molar concentration"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 91.67,
+    "medium_pct": 8.33,
+    "hard_pct": 0.0,
+    "progression_notes": [
+      "Detected question difficulty appears relatively mixed across the test."
+    ],
+    "cognitive_skills": [
+      "extended_reasoning"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions",
+      "command_verb_led"
+    ],
+    "response_formats": [
+      "constructed_response"
+    ],
+    "common_verbs": [
+      "state",
+      "name",
+      "balance",
+      "solve",
+      "explain"
+    ],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [],
+    "answer_style_expectations": [
+      "notation_precision_required"
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "balancing_precision",
+      "description": "Students may identify the correct reaction but lose marks on balancing or coefficient precision.",
+      "frequency": "high",
+      "examples": [
+        "Correct reaction identification but incorrect balancing."
+      ]
+    },
+    {
+      "trap_type": "state_symbol_precision",
+      "description": "Chemical state symbols and notation accuracy appear to matter and may act as a precision trap.",
+      "frequency": "medium",
+      "examples": [
+        "Including (s), (l), (g), and (aq) correctly."
+      ]
+    },
+    {
+      "trap_type": "written_precision",
+      "description": "Written-response expectations may penalize incomplete reasoning, not just factual errors.",
+      "frequency": "medium",
+      "examples": [
+        "Use full sentences or explain reasoning clearly."
+      ]
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve structure, topic weighting, and difficulty intent while generating fresh questions and contexts.",
+    "freshness_requirements": [
+      "Do not copy source questions verbatim.",
+      "Use new surface contexts, values, or examples where appropriate."
+    ],
+    "constraints": [
+      "Preserve balancing-style chemistry questions.",
+      "Preserve notation/state-symbol expectations.",
+      "Top detected topics: solutions_and_concentration"
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "unit-4-solutions-and-solubility-test-name"
+    ],
+    "summary_for_retrieval": "chemistry blueprint for Unit 4 Solutions and Solubility Test Name with emphasis on detected topic weighting and teacher-style structure.",
+    "teacher_style_signature": [
+      "test_type:multiple_choice_test",
+      "sections:1",
+      "question_candidates:12",
+      "top_topic:solutions_and_concentration"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "solutions_and_concentration"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unit-4-solutions-and-solubility-test-name"
+    ]
+  },
+  "subject_extensions": {
+    "notation_rules": [
+      "Chemical state symbols should be included where expected."
+    ],
+    "topic_specific_constraints": [
+      "Chemical equations may require balancing."
+    ],
+    "lab_skills": [
+      "Observation, procedure interpretation, and lab-style reasoning may be required."
+    ]
+  }
+}

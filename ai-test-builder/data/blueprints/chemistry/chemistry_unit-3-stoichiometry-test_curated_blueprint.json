@@ -1,0 +1,470 @@
+{
+  "schema_version": "1.0",
+  "blueprint_id": "chemistry-unit-3-stoichiometry-test-curated-20260513",
+  "created_at": "2026-05-13T12:00:00-04:00",
+  "title": "Unit 3 Stoichiometry Test",
+  "subject": "chemistry",
+  "grade_level": "11",
+  "course_code": "SCH3U",
+  "curriculum": "Ontario Chemistry",
+  "unit": {
+    "unit_name": "Unit 3 Stoichiometry Test",
+    "chapter_refs": [],
+    "learning_goals": [
+      "Convert between particles, moles, and mass using Avogadro's constant and molar mass.",
+      "Determine empirical or molecular formulas from percent composition and molar mass.",
+      "Use balanced equations to solve stoichiometric product and reactant problems.",
+      "Interpret simple lab data to calculate theoretical yield and percent yield.",
+      "Show organized chemical work with correct units and significant digits."
+    ]
+  },
+  "source_files": [
+    {
+      "file_name": "SCH3U_Unit_3_Test_Printed_Questions.pdf",
+      "file_type": "pdf",
+      "path": "[LOCAL PATH REMOVED]",
+      "pages_used": [
+        1
+      ],
+      "notes": "Curated from the clean text extraction of the printed Unit 3 stoichiometry test."
+    }
+  ],
+  "analysis_summary": {
+    "confidence": 0.95,
+    "observed_patterns": [
+      "The source is a one-page SCH3U Unit 3 stoichiometry paper with 7 constructed-response questions.",
+      "Questions 1 to 3 assess particle-mole-mass conversions and amount reasoning.",
+      "Question 4 requires percent composition analysis leading to a molecular formula.",
+      "Questions 5 and 6 are balanced-equation stoichiometry problems, with question 6 explicitly requiring a balanced equation before mass calculation.",
+      "Question 7 is a percent-yield lab problem using precipitate mass and filter-paper data.",
+      "Marks are concentrated in multi-step stoichiometry and lab-yield reasoning, for a total of 35 marks."
+    ],
+    "inferred_patterns": [
+      "The teacher expects all work to be shown with units, formulas, and significant digits.",
+      "The paper intentionally ramps from single-concept conversions into multi-step stoichiometry and lab analysis.",
+      "Fresh versions should preserve the exact skill spread and mark balance without copying the original numbers or compounds verbatim."
+    ],
+    "evidence_snippets": [
+      {
+        "source_file": "SCH3U_Unit_3_Test_Printed_Questions.pdf",
+        "page": 1,
+        "snippet": "Calculate the amount of moles of 356 formula units of tin (II) borate",
+        "pattern_link": "formula-units-to-moles conversion"
+      },
+      {
+        "source_file": "SCH3U_Unit_3_Test_Printed_Questions.pdf",
+        "page": 1,
+        "snippet": "What is the molecular formula of butanoic acid?",
+        "pattern_link": "percent composition to molecular formula"
+      },
+      {
+        "source_file": "SCH3U_Unit_3_Test_Printed_Questions.pdf",
+        "page": 1,
+        "snippet": "Write a balanced chemical equation for the reaction.",
+        "pattern_link": "reaction stoichiometry with equation balancing"
+      },
+      {
+        "source_file": "SCH3U_Unit_3_Test_Printed_Questions.pdf",
+        "page": 1,
+        "snippet": "Use the lab data below to determine the percentage yield of the silver chloride precipitate",
+        "pattern_link": "percent yield from lab data"
+      }
+    ],
+    "notes": "This curated blueprint replaces the under-specified heuristic version and preserves the source paper's complete stoichiometry structure."
+  },
+  "structure": {
+    "test_type": "constructed_response_unit_test",
+    "duration_minutes": 50,
+    "total_marks": 35,
+    "sections": [
+      {
+        "section_id": "section_1",
+        "title": "Foundational Stoichiometry Calculations",
+        "order": 1,
+        "instructions": "Show all work. Include units and use appropriate significant digits.",
+        "question_types": [
+          "written_response"
+        ],
+        "num_questions": 3,
+        "marks": 7,
+        "skills_targeted": [
+          "formula-units to moles",
+          "moles to mass",
+          "particle counting"
+        ]
+      },
+      {
+        "section_id": "section_2",
+        "title": "Composition and Reaction Stoichiometry",
+        "order": 2,
+        "instructions": "Show a complete stoichiometric setup. Write and balance any required chemical equation before solving.",
+        "question_types": [
+          "written_response"
+        ],
+        "num_questions": 3,
+        "marks": 22,
+        "skills_targeted": [
+          "percent composition",
+          "molecular formula determination",
+          "balanced-equation stoichiometry"
+        ]
+      },
+      {
+        "section_id": "section_3",
+        "title": "Lab Yield Analysis",
+        "order": 3,
+        "instructions": "Use the data provided to determine theoretical yield and percent yield. Show your setup clearly.",
+        "question_types": [
+          "application"
+        ],
+        "num_questions": 1,
+        "marks": 6,
+        "skills_targeted": [
+          "precipitation lab analysis",
+          "theoretical yield",
+          "percent yield"
+        ]
+      }
+    ],
+    "ordering_rules": [
+      "Begin with short stoichiometric conversions.",
+      "Move into longer multi-step composition and reaction calculations.",
+      "Finish with a lab-style percent-yield analysis question."
+    ]
+  },
+  "topic_distribution": [
+    {
+      "topic": "stoichiometry",
+      "subtopics": [
+        "formula units to moles",
+        "moles to mass",
+        "particles and atoms",
+        "molecular formula from percent composition",
+        "mole ratios from balanced equations",
+        "theoretical yield"
+      ],
+      "weight_pct": 86.0,
+      "question_forms": [
+        "written_response",
+        "application"
+      ]
+    },
+    {
+      "topic": "lab_and_applications",
+      "subtopics": [
+        "precipitate yield",
+        "filter paper mass data",
+        "percent yield reasoning"
+      ],
+      "weight_pct": 14.0,
+      "question_forms": [
+        "application"
+      ]
+    }
+  ],
+  "difficulty_profile": {
+    "easy_pct": 29.0,
+    "medium_pct": 51.0,
+    "hard_pct": 20.0,
+    "progression_notes": [
+      "The test should escalate from one-step conversions into multi-step stoichiometric setups.",
+      "The heaviest-mark questions should require equation balancing, mole-ratio reasoning, and interpretation of lab measurements."
+    ],
+    "cognitive_skills": [
+      "procedural fluency",
+      "multi-step calculation",
+      "model building",
+      "lab data interpretation"
+    ]
+  },
+  "question_style": {
+    "stem_styles": [
+      "numbered_questions",
+      "command_verb_led",
+      "data_driven"
+    ],
+    "response_formats": [
+      "written_response",
+      "application"
+    ],
+    "common_verbs": [
+      "calculate",
+      "determine",
+      "write",
+      "use"
+    ],
+    "wording_tone": "instructional_assessment",
+    "diagram_expectations": [],
+    "answer_style_expectations": [
+      "show_full_work",
+      "use_units",
+      "use_significant_digits",
+      "balanced_equations_when_requested"
+    ]
+  },
+  "trap_patterns": [
+    {
+      "trap_type": "particle_to_mole_conversion",
+      "description": "Students may forget to divide by Avogadro's constant or may mix atoms, molecules, and formula units.",
+      "frequency": "high",
+      "examples": [
+        "Using molar mass when converting formula units to moles",
+        "Counting atoms instead of molecules without accounting for subscripts"
+      ]
+    },
+    {
+      "trap_type": "molar_mass_precision",
+      "description": "Students may use incorrect molar masses or drop units during conversion steps.",
+      "frequency": "high",
+      "examples": [
+        "Incomplete molar mass calculation for polyatomic compounds",
+        "Mass answer reported without grams"
+      ]
+    },
+    {
+      "trap_type": "equation_balance_before_ratio",
+      "description": "Stoichiometric mole ratios fail if the reaction is not balanced first.",
+      "frequency": "high",
+      "examples": [
+        "Using subscripts as coefficients",
+        "Solving product mass without balancing the equation"
+      ]
+    },
+    {
+      "trap_type": "percent_composition_formula_logic",
+      "description": "Students may confuse empirical formula steps with molecular formula scaling.",
+      "frequency": "medium",
+      "examples": [
+        "Stopping at the empirical formula",
+        "Using percent values directly as subscripts"
+      ]
+    },
+    {
+      "trap_type": "percent_yield_data_handling",
+      "description": "Lab questions require separating precipitate mass from filter-paper mass before computing percent yield.",
+      "frequency": "high",
+      "examples": [
+        "Using combined mass as actual yield",
+        "Reversing actual and theoretical yield in the percent-yield formula"
+      ]
+    }
+  ],
+  "generation_rules": {
+    "preserve_structure": true,
+    "reuse_prohibited": true,
+    "variation_policy": "Preserve the exact 7-question constructed-response stoichiometry layout and mark emphasis while changing compounds, values, and contexts.",
+    "freshness_requirements": [
+      "Do not copy the source questions verbatim.",
+      "Use fresh compounds, coefficients, and numerical values while preserving the same unit skills.",
+      "Keep the final lab question data-driven and suitable for percent-yield calculation."
+    ],
+    "constraints": [
+      "Generate exactly 7 constructed-response questions across the three sections.",
+      "Include at least one formula-units or particles to moles conversion.",
+      "Include at least one moles-to-mass calculation.",
+      "Include at least one atoms or particles counting question.",
+      "Include one percent-composition-to-molecular-formula problem.",
+      "Include at least one balanced-equation stoichiometry problem that asks for a product mass or amount.",
+      "Include one percent-yield lab problem based on measured precipitate data."
+    ]
+  },
+  "memory_metadata": {
+    "tags": [
+      "chemistry",
+      "sch3u",
+      "unit-3-stoichiometry",
+      "curated-blueprint"
+    ],
+    "summary_for_retrieval": "Curated SCH3U Unit 3 stoichiometry blueprint with 7 constructed-response questions focused on conversions, reaction stoichiometry, and percent yield.",
+    "teacher_style_signature": [
+      "test_type:constructed_response_unit_test",
+      "sections:3",
+      "written_questions:6",
+      "application_questions:1",
+      "total_marks:35"
+    ]
+  },
+  "cumulative_metadata": {
+    "eligible_for_cumulative": true,
+    "prerequisite_topics": [
+      "stoichiometry",
+      "lab_and_applications"
+    ],
+    "recommended_merge_tags": [
+      "chemistry",
+      "unit-3-stoichiometry",
+      "reaction-stoichiometry"
+    ]
+  },
+  "subject_extensions": {
+    "formulas_expected": [
+      "n = N / N_A",
+      "m = nM",
+      "percent yield = actual yield / theoretical yield x 100",
+      "molecular formula from empirical formula and molar mass"
+    ],
+    "notation_rules": [
+      "Include chemical formulas and state symbols when the reaction context requires them.",
+      "Balance chemical equations with lowest whole-number coefficients before using mole ratios.",
+      "Report final answers with units and appropriate significant digits."
+    ],
+    "lab_skills": [
+      "isolating precipitate mass from filter-paper data",
+      "identifying actual yield from lab measurements",
+      "comparing actual and theoretical yield"
+    ],
+    "calculation_modes": [
+      "mole conversions",
+      "molar mass calculations",
+      "balanced-equation stoichiometry",
+      "percent yield"
+    ],
+    "topic_specific_constraints": [
+      "Keep the assessment entirely within Unit 3 stoichiometry.",
+      "Use constructed-response prompts only; do not introduce multiple choice.",
+      "Preserve the expectation that students show complete work."
+    ],
+    "section_topic_overrides": {
+      "section_1": [
+        "stoichiometry"
+      ],
+      "section_2": [
+        "stoichiometry"
+      ],
+      "section_3": [
+        "stoichiometry"
+      ]
+    },
+    "section_mark_overrides": {
+      "section_1": [
+        2,
+        2,
+        3
+      ],
+      "section_2": [
+        8,
+        4,
+        10
+      ],
+      "section_3": [
+        6
+      ]
+    },
+    "section_prebuilt_questions": {
+      "section_1": [
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 2,
+          "stem": "Calculate the amount of substance in moles for 7.22 x 10^23 formula units of zinc phosphate, Zn3(PO4)2(s).",
+          "answer_hint": "1.20 mol Zn3(PO4)2 approximately"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 2,
+          "stem": "Calculate the mass of 0.415 mol of aluminum sulfate, Al2(SO4)3(s).",
+          "answer_hint": "146 g Al2(SO4)3 approximately"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 3,
+          "stem": "How many hydrogen atoms are present in 0.750 mol of ammonia, NH3(g)?",
+          "answer_hint": "1.35 x 10^24 hydrogen atoms approximately"
+        }
+      ],
+      "section_2": [
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 8,
+          "stem": "A compound is 52.2% carbon, 13.1% hydrogen, and 34.7% oxygen by mass. Its molar mass is 92.1 g/mol. Determine the molecular formula of the compound.",
+          "answer_hint": "Empirical formula C2H6O; molecular formula C4H12O2"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 4,
+          "stem": "In excess chlorine gas, iron reacts to form iron(III) chloride. Calculate the mass of FeCl3(s) produced when 11.2 g of iron is used.",
+          "answer_hint": "32.6 g FeCl3 approximately after using 2Fe + 3Cl2 -> 2FeCl3"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 10,
+          "stem": "Phosphoric acid reacts with calcium hydroxide to produce calcium phosphate and water. If 6.50 g of H3PO4(aq) reacts completely with excess Ca(OH)2(aq), what mass of Ca3(PO4)2(s) is produced? Write a balanced chemical equation for the reaction.",
+          "answer_hint": "2H3PO4 + 3Ca(OH)2 -> Ca3(PO4)2 + 6H2O; 10.3 g Ca3(PO4)2 approximately"
+        }
+      ],
+      "section_3": [
+        {
+          "topic": "stoichiometry",
+          "question_type": "application",
+          "marks": 6,
+          "stem": "Use the lab data below to determine the percentage yield of silver chloride, AgCl(s), produced when excess sodium chloride is added to silver nitrate solution. Lab data: mass of AgNO3 used = 1.62 g; mass of clean, dry filter paper = 1.14 g; mass of dry precipitate and filter paper = 2.48 g. Write the balanced chemical equation for the reaction.",
+          "answer_hint": "AgNO3 + NaCl -> AgCl + NaNO3; actual precipitate mass = 1.34 g; theoretical yield is about 1.37 g AgCl; percentage yield is about 98.0%"
+        }
+      ]
+    },
+    "version_prebuilt_questions": {
+      "vere": {
+        "section_1": [
+          {
+            "topic": "stoichiometry",
+            "question_type": "written_response",
+            "marks": 2,
+            "stem": "Calculate the amount of substance in moles for 5.41 x 10^22 formula units of calcium nitrate, Ca(NO3)2(s).",
+            "answer_hint": "0.0898 mol Ca(NO3)2 approximately"
+          },
+          {
+            "topic": "stoichiometry",
+            "question_type": "written_response",
+            "marks": 2,
+            "stem": "Calculate the mass of 1.20 mol of potassium phosphate, K3PO4(s).",
+            "answer_hint": "255 g K3PO4 approximately"
+          },
+          {
+            "topic": "stoichiometry",
+            "question_type": "written_response",
+            "marks": 3,
+            "stem": "How many oxygen atoms are present in 2.25 mol of sulfur dioxide, SO2(g)?",
+            "answer_hint": "2.71 x 10^24 oxygen atoms approximately"
+          }
+        ],
+        "section_2": [
+          {
+            "topic": "stoichiometry",
+            "question_type": "written_response",
+            "marks": 8,
+            "stem": "A compound is 48.6% carbon, 8.16% hydrogen, and 43.2% oxygen by mass. Its molar mass is 74.1 g/mol. Determine the molecular formula of the compound.",
+            "answer_hint": "Empirical formula C3H6O2; molecular formula C3H6O2"
+          },
+          {
+            "topic": "stoichiometry",
+            "question_type": "written_response",
+            "marks": 4,
+            "stem": "In excess oxygen, phosphorus reacts to form tetraphosphorus decoxide, P4O10(s). Calculate the mass of P4O10 produced when 6.20 g of P4(s) is used.",
+            "answer_hint": "14.2 g P4O10 approximately after using P4 + 5O2 -> P4O10"
+          },
+          {
+            "topic": "stoichiometry",
+            "question_type": "written_response",
+            "marks": 10,
+            "stem": "Sulfuric acid reacts with sodium hydroxide to produce sodium sulfate and water. If 4.90 g of H2SO4(aq) reacts completely with excess NaOH(aq), what mass of Na2SO4(s) is produced? Write a balanced chemical equation for the reaction.",
+            "answer_hint": "H2SO4 + 2NaOH -> Na2SO4 + 2H2O; 7.10 g Na2SO4 approximately"
+          }
+        ],
+        "section_3": [
+          {
+            "topic": "stoichiometry",
+            "question_type": "application",
+            "marks": 6,
+            "stem": "Use the lab data below to determine the percentage yield of lead(II) iodide, PbI2(s), produced when excess potassium iodide is added to lead(II) nitrate solution. Lab data: mass of Pb(NO3)2 used = 1.36 g; mass of clean, dry filter paper = 1.08 g; mass of dry precipitate and filter paper = 2.50 g. Write the balanced chemical equation for the reaction.",
+            "answer_hint": "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3; actual precipitate mass = 1.42 g; theoretical yield is about 1.89 g PbI2; percentage yield is about 75.1%"
+          }
+        ]
+      }
+    }
+  }
+}

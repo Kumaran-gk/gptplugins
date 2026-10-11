@@ -1,0 +1,334 @@
+{
+  "file_name": "Unit2-Chemistry-NewV1.pdf",
+  "subject": "chemistry",
+  "patterns": {
+    "file_name": "Unit2-Chemistry-NewV1.pdf",
+    "file_type": "pdf",
+    "source_kind": "scanned_pdf",
+    "section_candidates": [
+      {
+        "title": "Multiple Choice /25",
+        "line_index": 3,
+        "mark_hint": null,
+        "evidence": "Multiple Choice /25 |",
+        "detection_type": "keyword_section_header",
+        "end_line": 5
+      },
+      {
+        "title": "Predicting Products of All Types of Reactions (35 marks) Tota a",
+        "line_index": 6,
+        "mark_hint": 35,
+        "evidence": "Predicting Products of All Types of Reactions (35 marks) Tota a /",
+        "detection_type": "mark_based_section_header",
+        "end_line": 21
+      },
+      {
+        "title": "Application Questions (1% Marks) (Use fall sentences for 2ll questions t© achieve fall marks)",
+        "line_index": 22,
+        "mark_hint": null,
+        "evidence": "Application Questions (1% Marks) (Use fall sentences for 2ll questions t© achieve fall marks) =",
+        "detection_type": "keyword_section_header",
+        "end_line": 41
+      },
+      {
+        "title": "oad Sa a ee (2 marks)",
+        "line_index": 42,
+        "mark_hint": 2,
+        "evidence": "oad Sa a ee (2 marks)",
+        "detection_type": "mark_based_section_header",
+        "end_line": 51
+      },
+      {
+        "title": "about the test(s) you would use AND the results of the test(s ). (4 Marks)",
+        "line_index": 52,
+        "mark_hint": 4,
+        "evidence": "about the test(s) you would use AND the results of the test(s ). (4 Marks)",
+        "detection_type": "mark_based_section_header",
+        "end_line": 60
+      }
+    ],
+    "question_candidates": [
+      {
+        "question_number": 1,
+        "line_index": 11,
+        "raw_header": "Y/Y 1.) AgNOs(aq) + MgBrocaq) Ag bees La Ay AV. 92), py 0 a w",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": ") AgNOs(aq) + MgBrocaq) Ag bees La Ay AV. 92), py 0 a w"
+      },
+      {
+        "question_number": 2,
+        "line_index": 13,
+        "raw_header": "yu 2.2Na20o) ae) + oe Gi 0 Pa",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "2Na20o) ae) + oe Gi 0 Pa"
+      },
+      {
+        "question_number": 4,
+        "line_index": 14,
+        "raw_header": "TI 4, Mg(OH)a(aq) + 2 BBriq) ce \"Boe u PaO) np",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "Mg(OH)a(aq) + 2 BBriq) ce \"Boe u PaO) np"
+      },
+      {
+        "question_number": 3,
+        "line_index": 17,
+        "raw_header": "3)3 7. Na20¢q) + SO3¢) = Vy. . nae LU",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "3 7. Na20¢q) + SO3¢) = Vy. . nae LU"
+      },
+      {
+        "question_number": 8,
+        "line_index": 18,
+        "raw_header": "[ 8. Combustion of methane when a blue flame forms (CHa) |",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "Combustion of methane when a blue flame forms (CHa) |"
+      },
+      {
+        "question_number": 2,
+        "line_index": 38,
+        "raw_header": "3. 2) Whea properly lishtine and adjusting 2 Bunsen bumer. why does the flame man from orange to bine?",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "Whea properly lishtine and adjusting 2 Bunsen bumer. why does the flame man from orange to bine?"
+      },
+      {
+        "question_number": 4,
+        "line_index": 44,
+        "raw_header": "4. Your friend wants to BBQ steaks for dinner. It starts to rain so they move the BBQ (which uses a",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "Your friend wants to BBQ steaks for dinner. It starts to rain so they move the BBQ (which uses a"
+      },
+      {
+        "question_number": 5,
+        "line_index": 49,
+        "raw_header": "5. Many neutralization reactions, such as the case of a KOH aq spill being neutralized with cola, H3PO4(eq),",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "Many neutralization reactions, such as the case of a KOH aq spill being neutralized with cola, H3PO4(eq),"
+      },
+      {
+        "question_number": 2,
+        "line_index": 53,
+        "raw_header": "2, You 50 j Ay 7 } r > oe",
+        "mark_hint": null,
+        "question_type_guess": "unknown",
+        "preview": "You 50 j Ay 7 } r > oe"
+      }
+    ],
+    "numbering_patterns": {
+      "question_count_estimate": 6,
+      "unique_question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "is_strictly_increasing": false,
+      "gaps": [
+        6,
+        7
+      ],
+      "min_question_number": 1,
+      "max_question_number": 8
+    },
+    "multiple_choice_signals": {
+      "likely_multiple_choice_present": false,
+      "option_line_count": 0,
+      "inline_option_line_count": 0,
+      "example_lines": []
+    },
+    "layout_signals": {
+      "title_candidate": "lh OC OO ll a hl eee _ ee ee",
+      "has_total_marks_signal": false,
+      "has_written_test_signal": false,
+      "mark_mentions_count": 9,
+      "line_count": 60
+    },
+    "observed_patterns": [
+      "Possible title detected: lh OC OO ll a hl eee _ ee ee",
+      "Detected approximately 5 section candidate(s).",
+      "Detected question numbering up to about 8.",
+      "Question numbering gaps detected: [6, 7]"
+    ]
+  },
+  "topics": {
+    "subject": "chemistry",
+    "course_code": "SCH3U",
+    "unit_name": "Unit 2 Chemical Reactions Test",
+    "topic_distribution": [
+      {
+        "topic": "chemical_reactions",
+        "weight_pct": 88.89,
+        "matched_keywords": [
+          "chemical reaction",
+          "chemical reactions",
+          "type of reaction",
+          "predict the product",
+          "balance",
+          "combustion"
+        ]
+      },
+      {
+        "topic": "lab_and_applications",
+        "weight_pct": 11.11,
+        "matched_keywords": [
+          "application"
+        ]
+      }
+    ],
+    "observed_topic_signals": [
+      "Possible unit/chapter detected: Unit 2 Chemical Reactions Test",
+      "Possible course code detected: SCH3U",
+      "Topic signal detected for chemical_reactions via keywords: chemical reaction, chemical reactions, type of reaction, predict the product, balance",
+      "Topic signal detected for lab_and_applications via keywords: application"
+    ],
+    "raw_topic_hit_count": 2
+  },
+  "difficulty": {
+    "easy_pct": 100.0,
+    "medium_pct": 0.0,
+    "hard_pct": 0.0,
+    "difficulty_by_question": [
+      {
+        "question_number": 1,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": ") AgNOs(aq) + MgBrocaq) Ag bees La Ay AV. 92), py 0 a w"
+      },
+      {
+        "question_number": 2,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "2Na20o) ae) + oe Gi 0 Pa"
+      },
+      {
+        "question_number": 4,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "Mg(OH)a(aq) + 2 BBriq) ce \"Boe u PaO) np"
+      },
+      {
+        "question_number": 3,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "3 7. Na20¢q) + SO3¢) = Vy. . nae LU"
+      },
+      {
+        "question_number": 8,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "Combustion of methane when a blue flame forms (CHa) |"
+      },
+      {
+        "question_number": 2,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "Whea properly lishtine and adjusting 2 Bunsen bumer. why does the flame man from orange to bine?"
+      },
+      {
+        "question_number": 4,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "Your friend wants to BBQ steaks for dinner. It starts to rain so they move the BBQ (which uses a"
+      },
+      {
+        "question_number": 5,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "Many neutralization reactions, such as the case of a KOH aq spill being neutralized with cola, H3PO4(eq),"
+      },
+      {
+        "question_number": 2,
+        "difficulty": "easy",
+        "mark_hint": null,
+        "preview": "You 50 j Ay 7 } r > oe"
+      }
+    ],
+    "progression_notes": [
+      "Detected question difficulty appears relatively mixed across the test."
+    ],
+    "cognitive_skills": [
+      "mixed_recall_and_procedure"
+    ],
+    "analysis_confidence": "medium"
+  },
+  "traps": {
+    "trap_patterns": [
+      {
+        "trap_type": "product_prediction_error",
+        "description": "Students may choose chemically implausible or incomplete products when predicting reactions.",
+        "frequency": "high",
+        "examples": [
+          "Predicting products requires recognizing reaction pattern before writing products."
+        ]
+      },
+      {
+        "trap_type": "balancing_precision",
+        "description": "Students may identify the correct reaction but lose marks on balancing or coefficient precision.",
+        "frequency": "high",
+        "examples": [
+          "Correct reaction identification but incorrect balancing."
+        ]
+      },
+      {
+        "trap_type": "reaction_classification_confusion",
+        "description": "Students may confuse reaction categories even when the reaction itself is recognized correctly.",
+        "frequency": "medium",
+        "examples": [
+          "Confusing synthesis, decomposition, combustion, and displacement types."
+        ]
+      },
+      {
+        "trap_type": "state_symbol_precision",
+        "description": "Chemical state symbols and notation accuracy appear to matter and may act as a precision trap.",
+        "frequency": "medium",
+        "examples": [
+          "Including (s), (l), (g), and (aq) correctly."
+        ]
+      },
+      {
+        "trap_type": "application_transfer",
+        "description": "Some questions appear to require transfer from learned reaction patterns into applied or real-world contexts.",
+        "frequency": "medium",
+        "examples": [
+          "Application questions may require concept transfer rather than direct recall."
+        ]
+      },
+      {
+        "trap_type": "written_precision",
+        "description": "Written-response expectations may penalize incomplete reasoning, not just factual errors.",
+        "frequency": "medium",
+        "examples": [
+          "Use full sentences or explain reasoning clearly."
+        ]
+      },
+      {
+        "trap_type": "format_shift",
+        "description": "The assessment appears to shift across sections, which can change how students must respond and manage time.",
+        "frequency": "medium",
+        "examples": [
+          "Multiple Choice /25",
+          "Predicting Products of All Types of Reactions (35 marks) Tota a",
+          "Application Questions (1% Marks) (Use fall sentences for 2ll questions t© achieve fall marks)"
+        ]
+      }
+    ],
+    "observed_trap_signals": [
+      "Predict-the-product wording appears in the source test.",
+      "Balancing language appears in the source test.",
+      "Reaction classification language appears in the source test.",
+      "State-symbol expectations appear in the source test.",
+      "Application-style wording appears in the source test.",
+      "Written-response precision language appears in the source test.",
+      "Multiple section candidates suggest format changes across the test."
+    ]
+  }
+}

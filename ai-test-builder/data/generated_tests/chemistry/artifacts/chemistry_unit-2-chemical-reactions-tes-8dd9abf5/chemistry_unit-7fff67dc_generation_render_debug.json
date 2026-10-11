@@ -1,0 +1,510 @@
+{
+  "question_count": 38,
+  "question_records": [
+    {
+      "question_number": 1,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which pair of reactants is most likely to undergo a double displacement reaction? Choose the best answer. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. Mg + O2",
+        "B. CH4 + O2",
+        "C. Na + Cl2",
+        "D. AgNO3 + NaCl"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 2,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which combination of evidence would be strongest for confirming that a clear acid spill has been neutralized rather than merely diluted? Select the most accurate option. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. The beaker feels cool and no odor is noticed",
+        "B. The solution remains transparent and unstirred",
+        "C. The solution is colorless and the volume increased",
+        "D. The pH is near neutral and reaction evidence is supported by a justified indicator or probe test"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 3,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which equation represents a decomposition reaction? Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. 2HgO -> 2Hg + O2",
+        "B. 2Mg + O2 -> 2MgO",
+        "C. HCl + NaOH -> NaCl + H2O",
+        "D. Fe + CuSO4 -> FeSO4 + Cu"
+      ],
+      "answer_hint": "A",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 4,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "A burner flame becomes luminous orange during heating. Which explanation best links the observation to reaction conditions and likely products? Choose the best answer. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. More oxygen is entering, so only water is produced",
+        "B. Combustion has stopped completely, so no products form",
+        "C. The gas is condensing, so a precipitation reaction begins",
+        "D. Less oxygen is entering, so incomplete combustion becomes more likely"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 5,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which equation is correctly balanced for the formation of magnesium oxide? Select the most accurate option. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. Mg + O -> MgO",
+        "B. Mg + O2 -> MgO2",
+        "C. 2Mg + O2 -> 2MgO",
+        "D. Mg2 + O2 -> 2MgO"
+      ],
+      "answer_hint": "C",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 6,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which statement best explains why clear notation matters in chemistry? Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. It reduces the need for observations",
+        "B. It changes the outcome of the reaction",
+        "C. It removes all experimental uncertainty",
+        "D. It helps communicate substances and reactions accurately"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 7,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which products are most likely formed when zinc reacts with copper(II) sulfate? Choose the best answer. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. ZnO + CuS",
+        "B. ZnCu + SO4",
+        "C. ZnSO4 + Cu",
+        "D. CuSO4 + Zn2"
+      ],
+      "answer_hint": "C",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 8,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which test result would best show that a neutralized spill is now safe to clean up? Select the most accurate option. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. The pH is close to 7",
+        "B. The container feels heavier",
+        "C. The liquid is darker in color",
+        "D. The reactants are still separate"
+      ],
+      "answer_hint": "A",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 9,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which products are expected from the neutralization of sulfuric acid and sodium hydroxide? Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. NaSO4 + H2",
+        "B. SO2 + NaOH",
+        "C. Na2SO4 + H2O",
+        "D. Na2S + O2 + H2O"
+      ],
+      "answer_hint": "C",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 10,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which statement best compares orange and blue burner flames? Choose the best answer. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. The blue flame gives less heat but more soot",
+        "B. The orange flame is usually hotter and cleaner",
+        "C. They always produce exactly the same products",
+        "D. The blue flame is usually hotter and gives more complete combustion"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 11,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which products are formed when sodium oxide reacts with sulfur trioxide? Select the most accurate option. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. Na2SO4",
+        "B. Na + SO4",
+        "C. Na2S + O3",
+        "D. NaSO3 + O2"
+      ],
+      "answer_hint": "A",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 12,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which result would best support the claim that combustion became more complete after adjusting a burner? Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. The beaker disappears",
+        "B. The reactants stop reacting",
+        "C. The flame becomes cooler and more orange",
+        "D. The flame becomes bluer and less luminous"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 13,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which balanced equation best represents a single displacement reaction that is actually likely to occur based on the activity of the metals involved? Choose the best answer. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. Au + HCl -> AuCl3 + H2",
+        "B. Ag + NaCl -> AgCl + Na",
+        "C. Cu + MgSO4 -> CuSO4 + Mg",
+        "D. Zn + CuSO4 -> ZnSO4 + Cu"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 14,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which piece of evidence would best show that an acid spill has been successfully neutralized? Select the most accurate option. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. The container is larger than before",
+        "B. The solution remains colorless only",
+        "C. The pH is near neutral after treatment",
+        "D. The reactants are still listed separately"
+      ],
+      "answer_hint": "C",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 15,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which reaction below is best classified as a synthesis reaction? Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. CaO + H2O -> Ca(OH)2",
+        "B. 2KClO3 -> 2KCl + 3O2",
+        "C. HCl + NaOH -> NaCl + H2O",
+        "D. Zn + CuSO4 -> ZnSO4 + Cu"
+      ],
+      "answer_hint": "A",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 16,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Why is notation precision especially important when comparing two possible product predictions for the same reactants? Choose the best answer. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. State symbols matter only in physics labs",
+        "B. Correct notation removes the need to balance",
+        "C. Notation only affects the appearance of the answer",
+        "D. Small notation differences can distinguish entirely different substances or states"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 17,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which products are most likely formed when magnesium reacts with hydrochloric acid? Select the most accurate option. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. MgCl + H",
+        "B. MgCl2 + H2",
+        "C. MgH2 + Cl2",
+        "D. Mg2Cl + H2"
+      ],
+      "answer_hint": "B",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 18,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Why is it important to include state symbols in a chemical equation when required? Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. They are decorative only",
+        "B. They replace coefficients",
+        "C. They determine atomic mass",
+        "D. They show the physical state of each substance"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 19,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which balanced equation represents the complete combustion of propane? Choose the best answer. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. C3H8 + 3O2 -> 3CO + 4H2O",
+        "B. C3H8 + 4O2 -> 3CO2 + 4H2O",
+        "C. C3H8 + 5O2 -> 3CO2 + 4H2O",
+        "D. 2C3H8 + 7O2 -> 6CO2 + 8H2O"
+      ],
+      "answer_hint": "C",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 20,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "What does a blue Bunsen burner flame usually indicate compared with an orange flame? Select the most accurate option. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. Water is the only product",
+        "B. No combustion is occurring",
+        "C. Less oxygen and cooler burning",
+        "D. More oxygen and more complete combustion"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 21,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "A student predicts products for a reaction between aluminum sulfate and calcium hydroxide. Which outcome is most chemically reasonable after balancing and considering solubility? Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. Al(OH)3(s) + CaSO4(aq)",
+        "B. 2Al(OH)3(s) + 3CaSO4(aq)",
+        "C. Al(s) + CaSO4(aq) + OH-(aq)",
+        "D. Al2O3(s) + CaSO4(aq) + H2O(l)"
+      ],
+      "answer_hint": "B",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 22,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Why might a teacher require full sentences on application questions in chemistry? Choose the best answer. Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. To make balancing unnecessary",
+        "B. To avoid using equations entirely",
+        "C. To reduce the need for chemistry vocabulary",
+        "D. To show reasoning and communicate chemical ideas clearly"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 23,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which option best explains why the same hydrocarbon can produce different carbon-containing products under complete versus incomplete combustion? Select the most accurate option. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. State symbols determine the final products",
+        "B. Hydrogen stops reacting when temperature rises",
+        "C. Carbon changes atomic number during the reaction",
+        "D. Oxygen availability changes how fully carbon is oxidized"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 24,
+      "topic": "lab_and_applications",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Why can missing state symbols still cost marks even if the products are correct? Focus on the chemically best-supported answer rather than the most familiar one.",
+      "options": [
+        "A. They are only needed in physics",
+        "B. State symbols replace balancing",
+        "C. They change the identity of all elements",
+        "D. They are required chemical notation and communicate important information"
+      ],
+      "answer_hint": "D",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 25,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which reaction below is best classified as a single displacement reaction? Choose the best answer. Consider balancing, classification, and any evidence in the scenario before choosing.",
+      "options": [
+        "A. 2H2O -> 2H2 + O2",
+        "B. CH4 + 2O2 -> CO2 + 2H2O",
+        "C. Fe + CuSO4 -> FeSO4 + Cu",
+        "D. AgNO3 + NaCl -> AgCl + NaNO3"
+      ],
+      "answer_hint": "C",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 26,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Complete, balance, and classify the reaction:\nCaCO3 -> Include enough chemistry reasoning to show why your answer is valid, not just what it is.",
+      "options": [],
+      "answer_hint": "CaO + CO2; decomposition Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 27,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "A student writes the correct products for a reaction but omits all state symbols. Explain how this can reduce scientific quality and give one situation where the missing state would change the interpretation of the reaction. Show the essential steps clearly. Justify each major step or classification in your response.",
+      "options": [],
+      "answer_hint": "A strong response should explain that state symbols communicate physical state and can indicate precipitation / gas formation; accept a justified example such as AgCl(s) versus AgCl(aq). Reward clear chemical justification, not just the final statement.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 28,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Predict the products and balance the following reaction:\nZn + CuSO4 -> Use appropriate notation in your response. Include enough chemistry reasoning to show why your answer is valid, not just what it is.",
+      "options": [],
+      "answer_hint": "ZnSO4 + Cu; single displacement Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 29,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Why is using correct chemical notation important when recording observations and equations in a chemistry lab? Justify each major step or classification in your response.",
+      "options": [],
+      "answer_hint": "It improves clarity, communicates states and substances accurately, and reduces interpretation errors. Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 30,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Complete, balance, and classify the reaction:\nMg + Br2 -> Show the essential steps clearly. Justify each major step or classification in your response.",
+      "options": [],
+      "answer_hint": "MgBr2; synthesis Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 31,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Explain why a blue Bunsen burner flame is preferred for heating in the lab. Use appropriate notation in your response. Include enough chemistry reasoning to show why your answer is valid, not just what it is.",
+      "options": [],
+      "answer_hint": "It indicates more complete combustion, gives a hotter flame, and reduces soot formation. Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 32,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Write the balanced equation with states for the neutralization of phosphoric acid by potassium hydroxide. Justify each major step or classification in your response.",
+      "options": [],
+      "answer_hint": "3KOH(aq) + H3PO4(aq) -> K3PO4(aq) + 3H2O(l) Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 33,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Describe a short test plan that would distinguish between a clear solution containing unreacted acid and a clear solution that has already been neutralized. Show the essential steps clearly. Include enough chemistry reasoning to show why your answer is valid, not just what it is.",
+      "options": [],
+      "answer_hint": "Accept a valid plan using pH paper, an indicator, or a probe with expected acidic versus near-neutral results and appropriate safety reasoning. Reward clear chemical justification, not just the final statement.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 34,
+      "topic": "chemical_reactions",
+      "question_type": "application",
+      "marks": 4,
+      "stem": "A propane barbecue is moved into a garage during rain. Explain why this is unsafe using ideas from combustion and gas production. Use a real-world explanation where appropriate. Support your answer with chemical evidence and address one likely misconception.",
+      "options": [],
+      "answer_hint": "Limited oxygen can lead to incomplete combustion and carbon monoxide production; enclosed spaces increase poisoning and fire risk. Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 35,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Describe one real-world application of combustion reactions and one safety concern associated with it. Show the essential steps clearly. Justify each major step or classification in your response.",
+      "options": [],
+      "answer_hint": "Vehicle engines / heating systems; safety concerns include toxic gases, fire risk, incomplete combustion. Include a brief chemical justification.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 36,
+      "topic": "chemical_reactions",
+      "question_type": "application",
+      "marks": 4,
+      "stem": "A student proposes that every reaction producing a solid must be synthesis. Evaluate this claim using one counterexample equation and explain the correct classification. Support your answer with clear reasoning. Support your answer with chemical evidence and address one likely misconception.",
+      "options": [],
+      "answer_hint": "A strong response rejects the claim, gives a precipitation / double displacement example such as AgNO3 + NaCl -> AgCl + NaNO3, and explains why solid formation alone does not determine synthesis. Reward clear chemical justification, not just the final statement.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 37,
+      "topic": "lab_and_applications",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Describe what evidence you would record to show a chemical reaction occurred even when the solution stays clear. Justify each major step or classification in your response.",
+      "options": [],
+      "answer_hint": "Accept pH change, gas formation, temperature change, conductivity change, or formation of dissolved products where justified. Reward clear chemical justification, not just the final statement.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 38,
+      "topic": "chemical_reactions",
+      "question_type": "application",
+      "marks": 4,
+      "stem": "Methane burns in oxygen. Explain how the products differ in complete combustion versus incomplete combustion, and write one balanced equation for complete combustion. Support your answer with chemical evidence and address one likely misconception.",
+      "options": [],
+      "answer_hint": "Complete combustion produces CO2 and H2O; incomplete may produce CO and/or C; CH4 + 2O2 -> CO2 + 2H2O Include a brief chemical justification.",
+      "source_excerpt": null
+    }
+  ]
+}

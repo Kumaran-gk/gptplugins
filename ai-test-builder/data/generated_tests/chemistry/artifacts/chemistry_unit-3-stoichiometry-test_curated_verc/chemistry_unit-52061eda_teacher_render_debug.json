@@ -1,0 +1,54 @@
+{
+  "question_count": 7,
+  "answer_key_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "answer_hint": "1.20 mol Zn3(PO4)2 approximately"
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "answer_hint": "146 g Al2(SO4)3 approximately"
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "answer_hint": "1.35 x 10^24 hydrogen atoms approximately"
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 8,
+      "answer_hint": "Empirical formula C2H6O; molecular formula C4H12O2"
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 4,
+      "answer_hint": "32.6 g FeCl3 approximately after using 2Fe + 3Cl2 -> 2FeCl3"
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 10,
+      "answer_hint": "2H3PO4 + 3Ca(OH)2 -> Ca3(PO4)2 + 6H2O; 10.3 g Ca3(PO4)2 approximately"
+    },
+    {
+      "question_number": 7,
+      "topic": "stoichiometry",
+      "question_type": "application",
+      "marks": 6,
+      "answer_hint": "AgNO3 + NaCl -> AgCl + NaNO3; actual precipitate mass = 1.34 g; theoretical yield is about 1.37 g AgCl; percentage yield is about 98.0%"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "file_name": "Unit2Test_ocr_cleaned.docx",
+  "file_type": "docx",
+  "source_kind": "docx",
+  "section_candidates": [
+    {
+      "title": "Multiple Choice",
+      "line_index": 3,
+      "mark_hint": null,
+      "evidence": "Multiple Choice",
+      "detection_type": "keyword_section_header",
+      "end_line": 5
+    },
+    {
+      "title": "Predicting Products of All Types of Reactions (35 marks)",
+      "line_index": 6,
+      "mark_hint": 35,
+      "evidence": "Predicting Products of All Types of Reactions (35 marks)",
+      "detection_type": "mark_based_section_header",
+      "end_line": 15
+    },
+    {
+      "title": "Application Questions (18 marks)",
+      "line_index": 16,
+      "mark_hint": 18,
+      "evidence": "Application Questions (18 marks)",
+      "detection_type": "keyword_section_header",
+      "end_line": 26
+    }
+  ],
+  "question_candidates": [
+    {
+      "question_number": 1,
+      "line_index": 9,
+      "raw_header": "1. `AgNO3(aq) + MgBr2(aq) ->`",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "`AgNO3(aq) + MgBr2(aq) ->`"
+    },
+    {
+      "question_number": 2,
+      "line_index": 10,
+      "raw_header": "2. `Na2O(s) ->`",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "`Na2O(s) ->`"
+    },
+    {
+      "question_number": 3,
+      "line_index": 11,
+      "raw_header": "3. `Mg(OH)2(aq) + 2 HBr(aq) ->`",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "`Mg(OH)2(aq) + 2 HBr(aq) ->`"
+    },
+    {
+      "question_number": 4,
+      "line_index": 12,
+      "raw_header": "4. `Cu(s) + Cl2(g) ->`",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "`Cu(s) + Cl2(g) ->`"
+    },
+    {
+      "question_number": 5,
+      "line_index": 13,
+      "raw_header": "5. `Na2O(s) + SO3(g) ->`",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "`Na2O(s) + SO3(g) ->`"
+    },
+    {
+      "question_number": 6,
+      "line_index": 14,
+      "raw_header": "6. Combustion of methane when a blue flame forms, `CH4`",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "Combustion of methane when a blue flame forms, `CH4`"
+    },
+    {
+      "question_number": 3,
+      "line_index": 21,
+      "raw_header": "3. a) When properly lighting and adjusting a Bunsen burner, why does the flame turn from orange to blue?",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "a) When properly lighting and adjusting a Bunsen burner, why does the flame turn from orange to blue?"
+    },
+    {
+      "question_number": 3,
+      "line_index": 22,
+      "raw_header": "3. b) Compare the orange and blue flames in terms of the amount of heat and light given off.",
+      "mark_hint": null,
+      "question_type_guess": "unknown",
+      "preview": "b) Compare the orange and blue flames in terms of the amount of heat and light given off."
+    },
+    {
+      "question_number": 4,
+      "line_index": 23,
+      "raw_header": "4. Your friend wants to move a propane BBQ into a garage to keep cooking during rain. Based on your knowledge of chemical reactions and combustion, explain why this is or is not a good idea. Be specific.",
+      "mark_hint": null,
+      "question_type_guess": "written_response",
+      "preview": "Your friend wants to move a propane BBQ into a garage to keep cooking during rain. Based on your knowledge of chemical r"
+    }
+  ],
+  "numbering_patterns": {
+    "question_count_estimate": 6,
+    "unique_question_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "is_strictly_increasing": false,
+    "gaps": [],
+    "min_question_number": 1,
+    "max_question_number": 6
+  },
+  "multiple_choice_signals": {
+    "likely_multiple_choice_present": false,
+    "option_line_count": 0,
+    "inline_option_line_count": 0,
+    "example_lines": []
+  },
+  "layout_signals": {
+    "title_candidate": "SCH3U Unit 2 Chemical Reactions Test",
+    "has_total_marks_signal": false,
+    "has_written_test_signal": false,
+    "mark_mentions_count": 4,
+    "line_count": 26
+  },
+  "observed_patterns": [
+    "Possible title detected: SCH3U Unit 2 Chemical Reactions Test",
+    "Detected approximately 3 section candidate(s).",
+    "Detected question numbering up to about 6."
+  ]
+}

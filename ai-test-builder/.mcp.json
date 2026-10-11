@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ai_test_builder": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "src.mcp_server"],
+      "cwd": "./"
+    }
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "blueprint_id": "chemistry-final-exam-units-1-4-curated-20260617",
+  "title": "SCH3U Final Exam - Units 1 to 4",
+  "subject": "chemistry",
+  "unit_name": "Final Exam Review - Units 1 to 4",
+  "version_label": "verB",
+  "preserve_structure": true,
+  "reuse_prohibited": true,
+  "variation_policy": "Preserve the four-part final exam structure and unit balance while generating a fresh cumulative paper from Units 1 to 4.",
+  "section_plans": [
+    {
+      "section_id": "section_1",
+      "title": "Part A: Multiple Choice",
+      "order": 1,
+      "instructions": "Choose the best answer for each question. No work is required unless you want to use the space for rough calculations.",
+      "num_questions": 20,
+      "question_types": [
+        "multiple_choice"
+      ],
+      "marks": 20,
+      "question_marks": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "prebuilt_questions": [
+        {
+          "topic": "atomic_structure",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which statement best explains why magnesium has a higher first ionization energy than sodium?\nA. Magnesium has fewer occupied energy levels.\nB. Magnesium has a greater effective nuclear charge on its valence electrons.\nC. Sodium has more protons than magnesium.\nD. Sodium is more stable because it has a full valence shell.",
+          "answer_hint": "B. Magnesium has a greater effective nuclear charge on its valence electrons."
+        },
+        {
+          "topic": "atomic_structure",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which species has the same electron arrangement as neon?\nA. F-\nB. Na+\nC. Mg2+\nD. All of the above",
+          "answer_hint": "D. F-, Na+, and Mg2+ are all isoelectronic with neon."
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which formula is correct for ammonium phosphate?\nA. (NH4)PO4\nB. NH4PO4\nC. (NH4)3PO4\nD. NH43PO4",
+          "answer_hint": "C. (NH4)3PO4"
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which compound name is correct?\nA. CuCl is copper(II) chloride\nB. CuCl2 is copper(I) chloride\nC. CuCl2 is copper(II) chloride\nD. CuCl is cupric chloride",
+          "answer_hint": "C. CuCl2 is copper(II) chloride"
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which reaction will definitely produce a precipitate?\nA. Na2CO3(aq) + CaCl2(aq)\nB. KNO3(aq) + NaCl(aq)\nC. HCl(aq) + NaOH(aq)\nD. Mg(s) + O2(g)",
+          "answer_hint": "A. Na2CO3(aq) + CaCl2(aq) produces insoluble CaCO3(s)."
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which balanced equation correctly represents the decomposition of potassium chlorate?\nA. KClO3 -> KCl + O3\nB. 2KClO3 -> 2KCl + 3O2\nC. KClO3 -> K + Cl + 3O\nD. 2KClO3 -> 2KClO + O2",
+          "answer_hint": "B. 2KClO3 -> 2KCl + 3O2"
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "In the net ionic equation Ag+(aq) + Cl-(aq) -> AgCl(s), the spectator ions could be\nA. Na+ and NO3-\nB. Ag+ and Na+\nC. Cl- and NO3-\nD. Ag+ and Cl-",
+          "answer_hint": "A. Na+ and NO3-"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "What is the amount in moles of 3.01 x 10^23 molecules of CO2?\nA. 0.250 mol\nB. 0.500 mol\nC. 1.00 mol\nD. 2.00 mol",
+          "answer_hint": "B. 0.500 mol"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "If 4.00 mol of H2 reacts completely with excess N2 according to N2 + 3H2 -> 2NH3, how many moles of NH3 can form?\nA. 1.33 mol\nB. 2.00 mol\nC. 2.67 mol\nD. 4.00 mol",
+          "answer_hint": "C. 2.67 mol"
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which reactant is limiting when 2.0 mol Al reacts with 2.0 mol Cl2 according to 2Al + 3Cl2 -> 2AlCl3?\nA. Al\nB. Cl2\nC. AlCl3\nD. Neither reactant",
+          "answer_hint": "B. Cl2 is limiting."
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "A reaction has a theoretical yield of 32.0 g and an actual yield of 28.8 g. What is the percent yield?\nA. 80.0%\nB. 85.0%\nC. 90.0%\nD. 111%",
+          "answer_hint": "C. 90.0%"
+        },
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "What is the molar concentration of a solution made by dissolving 0.750 mol of solute to make 300.0 mL of solution?\nA. 0.250 mol/L\nB. 1.50 mol/L\nC. 2.50 mol/L\nD. 4.00 mol/L",
+          "answer_hint": "C. 2.50 mol/L"
+        },
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "A 25.0 mL sample of 6.0 mol/L HNO3 is diluted to 150.0 mL. What is the new concentration?\nA. 0.50 mol/L\nB. 1.0 mol/L\nC. 1.5 mol/L\nD. 36 mol/L",
+          "answer_hint": "B. 1.0 mol/L"
+        },
+        {
+          "topic": "solubility_and_solvents",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Why does oil not dissolve well in water?\nA. Oil molecules are ionic.\nB. Water molecules are non-polar.\nC. Oil is non-polar while water is polar.\nD. Oil has a lower density than water.",
+          "answer_hint": "C. Oil is non-polar while water is polar."
+        },
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "If 15.0 mL of 0.100 mol/L HCl is neutralized by NaOH, how many moles of HCl reacted?\nA. 0.00150 mol\nB. 0.00667 mol\nC. 0.0150 mol\nD. 0.150 mol",
+          "answer_hint": "A. 0.00150 mol"
+        },
+        {
+          "topic": "atomic_structure",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which statement about isotopes of the same element is correct?\nA. They have different numbers of protons.\nB. They have different numbers of neutrons.\nC. They have different atomic numbers.\nD. They have different chemical symbols.",
+          "answer_hint": "B. They have different numbers of neutrons."
+        },
+        {
+          "topic": "atomic_structure",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which Period 3 element forms a 2+ ion most readily?\nA. Na\nB. Mg\nC. Al\nD. Si",
+          "answer_hint": "B. Mg"
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "The reaction H2SO4(aq) + 2KOH(aq) -> K2SO4(aq) + 2H2O(l) is best classified as\nA. synthesis.\nB. decomposition.\nC. neutralization.\nD. single displacement.",
+          "answer_hint": "C. neutralization"
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which compound is soluble in water according to common solubility rules?\nA. AgCl\nB. PbI2\nC. K2SO4\nD. CaCO3",
+          "answer_hint": "C. K2SO4"
+        },
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "multiple_choice",
+          "marks": 1,
+          "stem": "Which sample represents an unsaturated solution?\nA. A solution holding the maximum dissolved solute at that temperature\nB. A solution that still dissolves more solute at that temperature\nC. A solution containing an insoluble precipitate only\nD. A solution with equal masses of solute and solvent",
+          "answer_hint": "B. It can still dissolve more solute."
+        }
+      ],
+      "timing_notes": null,
+      "target_topics": [
+        "atomic_structure",
+        "chemical_reactions",
+        "stoichiometry",
+        "solutions_and_concentration",
+        "solubility_and_solvents"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 30.0,
+        "medium_pct": 50.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "multiple_choice",
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "identify",
+          "name",
+          "write",
+          "predict",
+          "calculate",
+          "determine",
+          "explain",
+          "design"
+        ],
+        "answer_style_expectations": [
+          "show_full_work_in_calculations",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested",
+          "state_symbols_when_requested",
+          "complete_sentence_explanations_for_inquiry"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 20
+    },
+    {
+      "section_id": "section_2",
+      "title": "Part B: Short Answer and Equations",
+      "order": 2,
+      "instructions": "Show key steps. Include balanced equations, state symbols, and concise explanations where required.",
+      "num_questions": 5,
+      "question_types": [
+        "written_response"
+      ],
+      "marks": 18,
+      "question_marks": [
+        3,
+        4,
+        4,
+        3,
+        4
+      ],
+      "prebuilt_questions": [
+        {
+          "topic": "atomic_structure",
+          "question_type": "written_response",
+          "marks": 3,
+          "stem": "Write the full electron configuration for sulfur, S, and explain why sulfur commonly forms a 2- ion.",
+          "answer_hint": "1s2 2s2 2p6 3s2 3p4; sulfur gains 2 electrons to achieve a stable octet like argon."
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "written_response",
+          "marks": 4,
+          "stem": "Predict the products, balance the equation, and include states for each reaction.\na) BaCl2(aq) + Na2SO4(aq)\nb) Al(s) + CuCl2(aq)",
+          "answer_hint": "a) BaCl2(aq) + Na2SO4(aq) -> BaSO4(s) + 2NaCl(aq); b) 2Al(s) + 3CuCl2(aq) -> 2AlCl3(aq) + 3Cu(s)"
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "written_response",
+          "marks": 4,
+          "stem": "Write the balanced molecular equation, complete ionic equation, and net ionic equation for the reaction between aqueous calcium nitrate and aqueous sodium carbonate.",
+          "answer_hint": "Molecular: Ca(NO3)2(aq) + Na2CO3(aq) -> CaCO3(s) + 2NaNO3(aq); net ionic: Ca2+(aq) + CO3^2-(aq) -> CaCO3(s)"
+        },
+        {
+          "topic": "chemical_reactions",
+          "question_type": "written_response",
+          "marks": 3,
+          "stem": "Write a balanced equation with states for the reaction of magnesium carbonate with hydrochloric acid, then state two observable signs that would indicate the reaction occurred.",
+          "answer_hint": "MgCO3(s) + 2HCl(aq) -> MgCl2(aq) + H2O(l) + CO2(g); observations can include bubbling and the solid dissolving."
+        },
+        {
+          "topic": "atomic_structure",
+          "question_type": "written_response",
+          "marks": 4,
+          "stem": "Explain why aluminum has a lower first ionization energy than magnesium even though aluminum is to the right of magnesium in Period 3.",
+          "answer_hint": "Aluminum's first removed electron is in the higher-energy 3p sublevel, while magnesium loses a 3s electron. The 3p electron is easier to remove despite the greater nuclear charge."
+        }
+      ],
+      "timing_notes": null,
+      "target_topics": [
+        "atomic_structure",
+        "chemical_reactions"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 30.0,
+        "medium_pct": 50.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "multiple_choice",
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "identify",
+          "name",
+          "write",
+          "predict",
+          "calculate",
+          "determine",
+          "explain",
+          "design"
+        ],
+        "answer_style_expectations": [
+          "show_full_work_in_calculations",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested",
+          "state_symbols_when_requested",
+          "complete_sentence_explanations_for_inquiry"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 5
+    },
+    {
+      "section_id": "section_3",
+      "title": "Part C: Problems and Calculations",
+      "order": 3,
+      "instructions": "Show complete work, include units, and use appropriate significant digits.",
+      "num_questions": 4,
+      "question_types": [
+        "written_response",
+        "application"
+      ],
+      "marks": 20,
+      "question_marks": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "prebuilt_questions": [
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 5,
+          "stem": "Iron(III) oxide is reduced by carbon monoxide according to Fe2O3(s) + 3CO(g) -> 2Fe(s) + 3CO2(g). Calculate the mass of iron produced from 15.0 g of Fe2O3 if CO is in excess.",
+          "answer_hint": "15.0 g Fe2O3 is about 0.0939 mol; this yields about 0.188 mol Fe, or 10.5 g Fe."
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 5,
+          "stem": "Ammonia is produced according to N2(g) + 3H2(g) -> 2NH3(g). If 14.0 g of N2 reacts with 3.00 g of H2, determine the limiting reagent and calculate the mass of NH3 produced.",
+          "answer_hint": "N2 is 0.500 mol and H2 is about 1.49 mol, so H2 is limiting. This yields about 0.993 mol NH3, or 16.9 g NH3."
+        },
+        {
+          "topic": "stoichiometry",
+          "question_type": "written_response",
+          "marks": 5,
+          "stem": "Copper(II) sulfate reacts with excess sodium hydroxide to produce Cu(OH)2(s). If 3.20 g of CuSO4 is used and 1.95 g of Cu(OH)2 is collected, determine the percent yield. Write a balanced equation first.",
+          "answer_hint": "CuSO4 + 2NaOH -> Cu(OH)2 + Na2SO4; theoretical yield is about 2.08 g Cu(OH)2, so percent yield is about 93.8%."
+        },
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "application",
+          "marks": 5,
+          "stem": "A 35.0 mL sample of 0.250 mol/L phosphoric acid, H3PO4(aq), is completely neutralized by calcium hydroxide solution. What concentration of Ca(OH)2(aq) is required if 14.0 mL of the base is used? Write the balanced equation and show your work.",
+          "answer_hint": "2H3PO4 + 3Ca(OH)2 -> Ca3(PO4)2 + 6H2O; n(H3PO4) = 0.00875 mol, so n(Ca(OH)2) = 0.0131 mol and c is about 0.625 mol/L."
+        }
+      ],
+      "timing_notes": null,
+      "target_topics": [
+        "stoichiometry",
+        "solutions_and_concentration"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 30.0,
+        "medium_pct": 50.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "multiple_choice",
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "identify",
+          "name",
+          "write",
+          "predict",
+          "calculate",
+          "determine",
+          "explain",
+          "design"
+        ],
+        "answer_style_expectations": [
+          "show_full_work_in_calculations",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested",
+          "state_symbols_when_requested",
+          "complete_sentence_explanations_for_inquiry"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 4
+    },
+    {
+      "section_id": "section_4",
+      "title": "Part D: Long Answer and Inquiry",
+      "order": 4,
+      "instructions": "Answer in complete sentences. Use chemistry reasoning, appropriate terminology, and clear procedure language.",
+      "num_questions": 2,
+      "question_types": [
+        "application",
+        "written_response"
+      ],
+      "marks": 12,
+      "question_marks": [
+        6,
+        6
+      ],
+      "prebuilt_questions": [
+        {
+          "topic": "solutions_and_concentration",
+          "question_type": "application",
+          "marks": 6,
+          "stem": "Design a procedure to prepare 500.0 mL of 0.150 mol/L CuSO4(aq) from solid CuSO4. Your answer must include the mass calculation, major equipment, a quantitative transfer step, and one method to reduce concentration error.",
+          "answer_hint": "Need 0.0750 mol CuSO4. If using anhydrous CuSO4, mass is about 12.0 g. A strong procedure includes weighing, dissolving in a beaker, quantitative transfer to a 500.0 mL volumetric flask, rinsing the beaker and funnel, filling to the mark, and inverting to mix. Reducing concentration error can include careful meniscus reading at eye level."
+        },
+        {
+          "topic": "solubility_and_solvents",
+          "question_type": "written_response",
+          "marks": 6,
+          "stem": "A student performs a precipitation experiment by mixing Pb(NO3)2(aq) and KI(aq) to form PbI2(s), but the filter paper is still damp when the precipitate is weighed and some solid remains stuck to the beaker. Explain how each error affects the calculated percent yield, and relate your explanation to the role of water as a solvent in this experiment.",
+          "answer_hint": "Damp filter paper makes the measured product mass too high, so percent yield appears too high. Leaving precipitate in the beaker lowers the collected mass, so percent yield appears too low. Water is suitable because it dissolves the ionic reactants so the ions can mix and form the insoluble precipitate."
+        }
+      ],
+      "timing_notes": null,
+      "target_topics": [
+        "solutions_and_concentration",
+        "solubility_and_solvents",
+        "chemical_reactions"
+      ],
+      "target_difficulty_profile": {
+        "easy_pct": 30.0,
+        "medium_pct": 50.0,
+        "hard_pct": 20.0
+      },
+      "response_formats": [
+        "multiple_choice",
+        "written_response",
+        "application"
+      ],
+      "style_constraints": {
+        "common_verbs": [
+          "identify",
+          "name",
+          "write",
+          "predict",
+          "calculate",
+          "determine",
+          "explain",
+          "design"
+        ],
+        "answer_style_expectations": [
+          "show_full_work_in_calculations",
+          "use_units",
+          "use_significant_digits",
+          "balanced_equations_when_requested",
+          "state_symbols_when_requested",
+          "complete_sentence_explanations_for_inquiry"
+        ]
+      },
+      "complexity_mode": "standard",
+      "source_snippets": [],
+      "estimated_question_count": 2
+    }
+  ],
+  "top_topics": [
+    "atomic_structure",
+    "chemical_reactions",
+    "stoichiometry",
+    "solutions_and_concentration",
+    "solubility_and_solvents"
+  ],
+  "complexity_mode": "standard",
+  "difficulty_profile": {
+    "easy_pct": 30.0,
+    "medium_pct": 50.0,
+    "hard_pct": 20.0
+  },
+  "generation_constraints": [
+    "Generate exactly 20 one-mark multiple-choice questions in Part A.",
+    "Generate 5 short-answer and equation questions worth 18 marks total in Part B.",
+    "Generate 4 calculation-heavy questions worth 20 marks total in Part C.",
+    "Generate 2 inquiry questions worth 12 marks total in Part D.",
+    "Ensure all four units are represented across the exam.",
+    "Use Unit 1 to 4 chemistry only; do not introduce gas-law or organic-only content outside the existing unit set."
+  ],
+  "content_grounding_summary": null
+}

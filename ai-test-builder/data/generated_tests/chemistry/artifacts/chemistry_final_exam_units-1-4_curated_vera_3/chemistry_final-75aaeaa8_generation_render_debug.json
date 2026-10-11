@@ -1,0 +1,315 @@
+{
+  "question_count": 31,
+  "question_records": [
+    {
+      "question_number": 1,
+      "topic": "atomic_structure",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which statement about an atom is correct?\nA. Protons are found in the electron cloud.\nB. The atomic number equals the number of protons.\nC. The mass number equals the number of electrons only.\nD. Isotopes of an element have different numbers of protons.",
+      "options": [],
+      "answer_hint": "B. The atomic number equals the number of protons.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 2,
+      "topic": "atomic_structure",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which element has the largest atomic radius?\nA. Na\nB. Mg\nC. Cl\nD. Ar",
+      "options": [],
+      "answer_hint": "A. Na has the largest atomic radius among these Period 3 elements.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 3,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "What is the correct formula for aluminum sulfate?\nA. AlSO4\nB. Al2SO4\nC. Al2(SO4)3\nD. Al3SO4",
+      "options": [],
+      "answer_hint": "C. Al2(SO4)3",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 4,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "What is the correct name for FeCl3?\nA. iron chloride\nB. iron(II) chloride\nC. iron(III) chloride\nD. ferric monochloride",
+      "options": [],
+      "answer_hint": "C. iron(III) chloride",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 5,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "What type of reaction is represented by Zn(s) + CuSO4(aq) -> ZnSO4(aq) + Cu(s)?\nA. synthesis\nB. decomposition\nC. single displacement\nD. combustion",
+      "options": [],
+      "answer_hint": "C. single displacement",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 6,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "When AgNO3(aq) is mixed with NaCl(aq), which product forms as a precipitate?\nA. AgCl(s)\nB. NaNO3(s)\nC. Ag(s)\nD. Cl2(g)",
+      "options": [],
+      "answer_hint": "A. AgCl(s)",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 7,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which equation is correctly balanced?\nA. Al + Cl2 -> AlCl3\nB. 2Al + 3Cl2 -> 2AlCl3\nC. 2Al + Cl2 -> 2AlCl3\nD. Al + 3Cl -> AlCl3",
+      "options": [],
+      "answer_hint": "B. 2Al + 3Cl2 -> 2AlCl3",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 8,
+      "topic": "stoichiometry",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "In a chemical reaction, the limiting reagent is the reactant that\nA. has the smallest molar mass.\nB. is present in the lowest concentration.\nC. is completely used up first.\nD. produces the largest mass of product.",
+      "options": [],
+      "answer_hint": "C. It is the reactant completely used up first.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 9,
+      "topic": "stoichiometry",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "How many particles are in exactly 1.00 mol of a substance?\nA. 6.02 x 10^20\nB. 6.02 x 10^22\nC. 6.02 x 10^23\nD. 1.00 x 10^24",
+      "options": [],
+      "answer_hint": "C. 6.02 x 10^23",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 10,
+      "topic": "stoichiometry",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "What mass of NaCl is present in 0.500 mol of NaCl?\nA. 14.6 g\nB. 29.2 g\nC. 58.4 g\nD. 117 g",
+      "options": [],
+      "answer_hint": "B. 29.2 g approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 11,
+      "topic": "stoichiometry",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "A student obtains 18.0 g of product when the theoretical yield is 20.0 g. What is the percent yield?\nA. 80.0%\nB. 85.0%\nC. 90.0%\nD. 111%",
+      "options": [],
+      "answer_hint": "C. 90.0%",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 12,
+      "topic": "solutions_and_concentration",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which sample has the highest molar concentration?\nA. 0.20 mol in 0.50 L\nB. 0.80 mol in 0.20 L\nC. 0.45 mol in 0.30 L\nD. 0.60 mol in 0.40 L",
+      "options": [],
+      "answer_hint": "B. 0.80 mol in 0.20 L gives 4.0 mol/L.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 13,
+      "topic": "solubility_and_solvents",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "A solution becomes saturated when\nA. the solute is completely removed.\nB. no more solute can dissolve at that temperature.\nC. the solvent starts to boil.\nD. the solution changes colour.",
+      "options": [],
+      "answer_hint": "B. No more solute can dissolve at that temperature.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 14,
+      "topic": "solubility_and_solvents",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Why is water an effective solvent for many ionic compounds?\nA. It is non-polar.\nB. It has a low boiling point.\nC. It is polar.\nD. It always reacts chemically with the solute.",
+      "options": [],
+      "answer_hint": "C. Water is polar.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 15,
+      "topic": "solutions_and_concentration",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "What final volume is needed to dilute 50.0 mL of 4.0 mol/L HCl to 1.0 mol/L?\nA. 100.0 mL\nB. 150.0 mL\nC. 200.0 mL\nD. 250.0 mL",
+      "options": [],
+      "answer_hint": "C. 200.0 mL",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 16,
+      "topic": "atomic_structure",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which element has the highest first ionization energy?\nA. Na\nB. Mg\nC. Al\nD. Si",
+      "options": [],
+      "answer_hint": "D. Si",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 17,
+      "topic": "atomic_structure",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "An isotope of chlorine has a mass number of 37 and an atomic number of 17. How many neutrons does it have?\nA. 17\nB. 18\nC. 20\nD. 37",
+      "options": [],
+      "answer_hint": "C. 20 neutrons",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 18,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "The products of an acid-base neutralization reaction are usually\nA. a salt and water.\nB. carbon dioxide and water.\nC. a metal and hydrogen gas.\nD. two gases.",
+      "options": [],
+      "answer_hint": "A. A salt and water",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 19,
+      "topic": "chemical_reactions",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which compound is generally insoluble in water?\nA. NaNO3\nB. KCl\nC. NH4Br\nD. BaSO4",
+      "options": [],
+      "answer_hint": "D. BaSO4",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 20,
+      "topic": "solutions_and_concentration",
+      "question_type": "multiple_choice",
+      "marks": 1,
+      "stem": "Which expression gives percent by volume?\nA. mass of solute / volume of solution x 100\nB. volume of solute / volume of solution x 100\nC. moles of solute / volume of solution x 100\nD. mass of solute / mass of solution x 100",
+      "options": [],
+      "answer_hint": "B. volume of solute / volume of solution x 100",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 21,
+      "topic": "atomic_structure",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Write the full electron configuration for phosphorus, P, and state how many valence electrons it has.",
+      "options": [],
+      "answer_hint": "1s2 2s2 2p6 3s2 3p3; phosphorus has 5 valence electrons.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 22,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 4,
+      "stem": "Predict the products, balance the equation, and include states for each reaction.\na) Ca(NO3)2(aq) + Na3PO4(aq)\nb) Mg(s) + HCl(aq)",
+      "options": [],
+      "answer_hint": "a) 3Ca(NO3)2(aq) + 2Na3PO4(aq) -> Ca3(PO4)2(s) + 6NaNO3(aq); b) Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g)",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 23,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 4,
+      "stem": "Write a balanced chemical equation with states for the complete combustion of methane, CH4(g). Then state one observable sign that the reaction has occurred.",
+      "options": [],
+      "answer_hint": "CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g or l depending on conditions); acceptable observations include heat, light, or formation of new products.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 24,
+      "topic": "chemical_reactions",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "Write the complete ionic equation and the net ionic equation for the reaction between Pb(NO3)2(aq) and KI(aq).",
+      "options": [],
+      "answer_hint": "Complete ionic: Pb2+(aq) + 2NO3-(aq) + 2K+(aq) + 2I-(aq) -> PbI2(s) + 2K+(aq) + 2NO3-(aq); net ionic: Pb2+(aq) + 2I-(aq) -> PbI2(s)",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 25,
+      "topic": "atomic_structure",
+      "question_type": "written_response",
+      "marks": 4,
+      "stem": "Explain why chlorine has a smaller atomic radius than sulfur even though both elements are in Period 3.",
+      "options": [],
+      "answer_hint": "Across a period, shielding changes very little while the number of protons increases. Chlorine has a greater effective nuclear charge than sulfur, so its electrons are pulled closer to the nucleus.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 26,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 5,
+      "stem": "Aluminum reacts with oxygen according to 4Al(s) + 3O2(g) -> 2Al2O3(s). Calculate the mass of Al2O3 produced from 12.5 g of Al if oxygen is in excess.",
+      "options": [],
+      "answer_hint": "12.5 g Al = 0.463 mol Al; using the mole ratio gives 0.232 mol Al2O3; mass is about 23.6 g Al2O3.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 27,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 5,
+      "stem": "Calcium carbonate reacts with hydrochloric acid according to CaCO3(s) + 2HCl(aq) -> CaCl2(aq) + H2O(l) + CO2(g). If 10.0 g of CaCO3 reacts with 150.0 mL of 1.50 mol/L HCl, identify the limiting reagent and calculate the mass of CO2 produced.",
+      "options": [],
+      "answer_hint": "n(CaCO3) = 0.100 mol and n(HCl) = 0.225 mol, so CaCO3 is limiting. Therefore n(CO2) = 0.100 mol and m(CO2) is about 4.40 g.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 28,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 5,
+      "stem": "Silver nitrate reacts with sodium chloride according to AgNO3(aq) + NaCl(aq) -> AgCl(s) + NaNO3(aq). If 2.50 g of AgNO3 is used with excess NaCl and 1.85 g of AgCl is collected, determine the percent yield of AgCl.",
+      "options": [],
+      "answer_hint": "Theoretical yield is about 2.11 g AgCl, so percent yield = 1.85 / 2.11 x 100 = about 87.7%.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 29,
+      "topic": "solutions_and_concentration",
+      "question_type": "application",
+      "marks": 5,
+      "stem": "If 22.4 mL of NaOH(aq) is required to completely neutralize 25.0 mL of 0.200 mol/L H2SO4(aq), what is the concentration of the NaOH solution? Write the balanced chemical equation and show your work.",
+      "options": [],
+      "answer_hint": "H2SO4(aq) + 2NaOH(aq) -> Na2SO4(aq) + 2H2O(l); n(H2SO4) = 0.00500 mol, n(NaOH) = 0.0100 mol, so c(NaOH) = 0.446 mol/L approximately.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 30,
+      "topic": "solutions_and_concentration",
+      "question_type": "application",
+      "marks": 6,
+      "stem": "Design a procedure to prepare 250.0 mL of 0.200 mol/L NaCl(aq) from solid NaCl and then test whether mixing a sample with AgNO3(aq) forms a precipitate. Include the calculation for the mass of NaCl needed, the main equipment, the major steps, and one safety precaution.",
+      "options": [],
+      "answer_hint": "Need 0.0500 mol NaCl, so mass = 2.92 g. Strong responses include weighing the solid, dissolving it in water, transferring quantitatively to a 250.0 mL volumetric flask, filling to the mark, mixing thoroughly, then adding AgNO3(aq) to a sample to observe AgCl(s). Safety goggles are an appropriate precaution.",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 31,
+      "topic": "solubility_and_solvents",
+      "question_type": "application",
+      "marks": 6,
+      "stem": "In an acid-base titration, a student rinses the burette with water instead of NaOH solution and then overshoots the endpoint. Explain how each error affects the calculated concentration of the acid, and explain why water is a suitable solvent for this procedure.",
+      "options": [],
+      "answer_hint": "Rinsing with water dilutes the NaOH in the burette, so a larger volume is needed to reach the endpoint and the calculated acid concentration becomes too high if the standard NaOH concentration is still assumed. Overshooting the endpoint also makes the recorded NaOH volume too large, which again makes the calculated acid concentration too high. Water is suitable because its polarity dissolves ionic and polar substances well and allows the acid-base ions to interact in solution.",
+      "source_excerpt": null
+    }
+  ]
+}

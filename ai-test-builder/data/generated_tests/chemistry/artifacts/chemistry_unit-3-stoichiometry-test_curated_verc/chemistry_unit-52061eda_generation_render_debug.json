@@ -1,0 +1,75 @@
+{
+  "question_count": 7,
+  "question_records": [
+    {
+      "question_number": 1,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "stem": "Calculate the amount of substance in moles for 7.22 x 10^23 formula units of zinc phosphate, Zn3(PO4)2(s).",
+      "options": [],
+      "answer_hint": "1.20 mol Zn3(PO4)2 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 2,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 2,
+      "stem": "Calculate the mass of 0.415 mol of aluminum sulfate, Al2(SO4)3(s).",
+      "options": [],
+      "answer_hint": "146 g Al2(SO4)3 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 3,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 3,
+      "stem": "How many hydrogen atoms are present in 0.750 mol of ammonia, NH3(g)?",
+      "options": [],
+      "answer_hint": "1.35 x 10^24 hydrogen atoms approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 4,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 8,
+      "stem": "A compound is 52.2% carbon, 13.1% hydrogen, and 34.7% oxygen by mass. Its molar mass is 92.1 g/mol. Determine the molecular formula of the compound.",
+      "options": [],
+      "answer_hint": "Empirical formula C2H6O; molecular formula C4H12O2",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 5,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 4,
+      "stem": "In excess chlorine gas, iron reacts to form iron(III) chloride. Calculate the mass of FeCl3(s) produced when 11.2 g of iron is used.",
+      "options": [],
+      "answer_hint": "32.6 g FeCl3 approximately after using 2Fe + 3Cl2 -> 2FeCl3",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 6,
+      "topic": "stoichiometry",
+      "question_type": "written_response",
+      "marks": 10,
+      "stem": "Phosphoric acid reacts with calcium hydroxide to produce calcium phosphate and water. If 6.50 g of H3PO4(aq) reacts completely with excess Ca(OH)2(aq), what mass of Ca3(PO4)2(s) is produced? Write a balanced chemical equation for the reaction.",
+      "options": [],
+      "answer_hint": "2H3PO4 + 3Ca(OH)2 -> Ca3(PO4)2 + 6H2O; 10.3 g Ca3(PO4)2 approximately",
+      "source_excerpt": null
+    },
+    {
+      "question_number": 7,
+      "topic": "stoichiometry",
+      "question_type": "application",
+      "marks": 6,
+      "stem": "Use the lab data below to determine the percentage yield of silver chloride, AgCl(s), produced when excess sodium chloride is added to silver nitrate solution. Lab data: mass of AgNO3 used = 1.62 g; mass of clean, dry filter paper = 1.14 g; mass of dry precipitate and filter paper = 2.48 g. Write the balanced chemical equation for the reaction.",
+      "options": [],
+      "answer_hint": "AgNO3 + NaCl -> AgCl + NaNO3; actual precipitate mass = 1.34 g; theoretical yield is about 1.37 g AgCl; percentage yield is about 98.0%",
+      "source_excerpt": null
+    }
+  ]
+}
