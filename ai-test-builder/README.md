@@ -24,7 +24,7 @@ Plugins Directory.
 | Build a cumulative paper | Subject and at least two blueprint JSON files | A paper combining the selected units, with optional unit weights |
 
 For a quick paper, no source document, blueprint, or separate API key is needed.
-The `create-custom-test` skill has Codex write the questions and uses the local
+The single `ai-test-builder` skill has Codex write the questions and uses the local
 `save_custom_test` tool when you ask for files. The analyzed-paper workflow uses
 the bundled local MCP server and its blueprint schema. Its default generation
 backend is a template-based generator. An optional GPT-backed mode requires an
@@ -66,6 +66,14 @@ installs the plugin from the marketplace command above. For scanned PDFs or
 image files, also install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 and put its executable on `PATH`, or give the tool its `tesseract_cmd` path.
 Tesseract is unnecessary for text-based PDF and DOCX inputs.
+
+## Start from the `@` picker
+
+Type `@ai` in a Codex chat and select the **AI Test Builder** skill. It is the
+single user-facing entry for this plugin. Describe your subject and goal; the
+skill asks for any essential missing input and routes the work through the
+appropriate internal MCP tools. You do not need to choose separate analyze,
+generate, or cumulative skills.
 
 ## Inputs: what is required
 

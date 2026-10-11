@@ -1,4 +1,4 @@
-﻿# AI Test Builder - Repository Instructions
+# AI Test Builder - Repository Instructions
 
 ## Purpose
 
@@ -23,19 +23,9 @@ Use one main agent workflow for this repository:
 6. Generate a new test from the blueprint
 7. Later support cumulative test generation from multiple blueprints
 
-## Skills available
+## Skill entry point
 
-Prefer using these repo skills when the task matches:
-- analyze-test
-- generate-test
-- build-cumulative-test
-- build-test-pack
-
-Repo-local skills are stored under:
-- `.agents/skills/analyze-test/`
-- `.agents/skills/generate-test/`
-- `.agents/skills/build-cumulative-test/`
-- `.agents/skills/build-test-pack/`
+Use the packaged `ai-test-builder` skill under `skills/ai-test-builder/` as the single user-facing workflow. It routes preference-based questions, source analysis, blueprint generation, and cumulative tests through the appropriate MCP tools. Keep stage-specific detail in the skill's references rather than adding more top-level skills.
 
 ## Runtime behavior
 
