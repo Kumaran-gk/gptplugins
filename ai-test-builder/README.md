@@ -6,14 +6,16 @@ generate new versions from that blueprint, or combine several unit blueprints
 into a cumulative paper. The subject is chosen at runtime; examples include
 math, chemistry, physics, and biology.
 
-**Plugin website:** [AI Test Builder on GitHub](https://github.com/Kumaran-gk/gptplugins/tree/main/ai-test-builder)
+**Plugin website:** [AI Test Builder on GitHub](https://github.com/Kumaran-gk/gptplugins/blob/main/ai-test-builder/README.md)
 **Source repository:** [Kumaran-gk/gptplugins](https://github.com/Kumaran-gk/gptplugins)
 
-The GitHub plugin page is the project's current website. This plugin is shared
+The README page is the plugin's current website. This plugin is shared
 through the `gptplugins` marketplace; it is not a listing in OpenAI's public
 Plugins Directory.
 
-## Choose a workflow
+## What the one plugin entry can do
+
+Select AI Test Builder once in the `@` picker. The same entry handles each goal below.
 
 | Goal | What you provide | What the plugin creates |
 | --- | --- | --- |
@@ -44,7 +46,7 @@ codex plugin list
 ```
 
 The final list should show `ai-test-builder@gptplugins` as installed and enabled.
-Restart Codex or start a new chat so the plugin's skills and MCP server are
+Restart Codex or start a new chat so the plugin's skill and MCP server are
 available. You can also install it from the `gptplugins` source in Codex's
 Plugins Directory.
 
@@ -280,10 +282,10 @@ codex plugin list
 - [Plugin manifest](.codex-plugin/plugin.json)
 - [MCP server configuration](.mcp.json)
 - [Blueprint schema](schemas/blueprint_schema.json)
-- [Skills](skills/)
+- [Single orchestration skill](skills/ai-test-builder/SKILL.md)
 - [Python requirements](requirements.txt)
 - [OpenAI's Codex plugin documentation](https://developers.openai.com/plugins/build/plugins)
 
 From the `ai-test-builder/` directory, run `python -m pytest -q` to check the
-test suite. The five MCP tools are `save_custom_test`, `analyze_test`,
+test suite. Behind the one visible skill, the five internal MCP tools are `save_custom_test`, `analyze_test`,
 `generate_test`, `build_cumulative_test`, and `build_test_pack`.
